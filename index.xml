@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>Le cabinet</title>
+      <link>/cabinet/house/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cabinet/house/</guid>
+      <description> 500 route de Clisson, 44120 Vertou. Accessible aux personnes à mobilité réduite, situé en rez-de-chaussée et donnant sur un jardin. Situé dans un complexe regroupant principalement des psychologues.  </description>
+    </item>
+    
+    <item>
       <title>Simple Values</title>
       <link>/sections/simple-values/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -44,6 +53,24 @@
       
       <guid>/fees/option-02/</guid>
       <description> Une séance de 45min environ: 35€ Prise en charge de 3 séances: 90€  </description>
+    </item>
+    
+    <item>
+      <title>parking</title>
+      <link>/cabinet/parking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cabinet/parking/</guid>
+      <description> 5 places de parking disponibles 1 place réservée aux personnes prioritaires (femmes enceintes, handicap, personnes âgées)  </description>
+    </item>
+    
+    <item>
+      <title>Intérieur</title>
+      <link>/cabinet/inside/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cabinet/inside/</guid>
+      <description> Aménagement provisoire du cabinet​​, bureau et espace de soin (qui comprendra une table de massage notamment). Le cabinet de thérapies naturelles s&amp;rsquo;engage à pratiquer dans un espace confortable et propre. Les règles d&amp;rsquo;hygiènes dues à la profession sont appliquées avec rigueur. Le chauffage, un plaid et des coussins sont à disposition pour le bien-être du bénéficiaire.  </description>
     </item>
     
     <item>
