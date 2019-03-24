@@ -1,7 +1,0 @@
----
-title: "Prise en urgence"
-imageLink: "urgences.jpg"
-weight: 6
----
-
-Dans la mesure du possible, vous pouvez bénéficier de la priorité de rendez-vous ou éventuellement d’un déplacement jusqu’à votre domicile (aide au soin d’un malade etc.). Le prix correspondra à celui d’une séance, avec indemnité kilométrique dans le cas du déplacement à domicile.

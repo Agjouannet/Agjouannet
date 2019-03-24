@@ -1,7 +1,0 @@
-{{ $aos := resources.Get "css/aos.css" }}
-{{ $media := resources.Get "css/media-queries.css" }}
-{{ $styles := resources.Get "css/styles.css" }}
-{{ $bundle := slice $aos $media $styles | resources.Concat "css/bundle.css" }}
-{{ $css := $bundle | resources.Minify | resources.Fingerprint "sha512" }}
-
-<link rel="stylesheet" href="{{ $css.Permalink }}">
