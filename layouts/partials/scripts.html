@@ -1,7 +1,7 @@
 {{ $header := resources.Get "js/header.js" }}
 {{ $aos := resources.Get "js/aos.js" }}
-{{ $bundle := slice $aos | resources.Concat "js/bundle.js" }}
-{{ $js := $aos | resources.Minify | resources.Fingerprint "sha512" }}
+{{ $bundle := slice $aos $header | resources.Concat "js/bundle.js" }}
+{{ $js := $bundle | resources.Minify | resources.Fingerprint "sha512" }}
 <script src="{{ $js.Permalink }}"></script>
 <script>
    AOS.init();
