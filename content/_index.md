@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Accueil"
 description: ""
 images: ["undraw_freelancer_b0my.svg"]
 draft: false
