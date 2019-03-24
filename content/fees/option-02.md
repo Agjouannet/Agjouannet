@@ -1,6 +1,6 @@
 ---
 title: "Séances enfants"
-imageLink: "soins_adultes.jpg"
+imageLink: "soins_enfants.jpg"
 weight: 2
 ---
 

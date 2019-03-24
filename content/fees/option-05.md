@@ -1,6 +1,6 @@
 ---
 title: "Consultations à distance"
-imageLink: "soins_adultes.jpg"
+imageLink: "cst_distance.jpg"
 weight: 5
 ---
 

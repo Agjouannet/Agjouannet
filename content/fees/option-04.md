@@ -1,6 +1,6 @@
 ---
 title: "Suivi téléphonique"
-imageLink: "soins_adultes.jpg"
+imageLink: "suivi_tel.jpg"
 weight: 4
 ---
 

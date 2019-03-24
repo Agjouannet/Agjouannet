@@ -1,6 +1,6 @@
 ---
 title: "Prise en urgence"
-imageLink: "soins_adultes.jpg"
+imageLink: "urgences.jpg"
 weight: 6
 ---
 

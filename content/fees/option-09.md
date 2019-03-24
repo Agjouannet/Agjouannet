@@ -1,6 +1,6 @@
 ---
 title: "Cartes Cadeaux"
-imageLink: "soins_adultes.jpg"
+imageLink: "carte_cadeau.jpg"
 weight: 9
 ---
 

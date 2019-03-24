@@ -1,13 +1,27 @@
-<nav class="menu" aria-label="menu">
-    <ul class="menu__items" aria-label="menu">
+<nav class="navbar is-spaced has-shadow" role="navigation" aria-label="main navigation">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="{{ $.Site.BaseURL }}">
+        Cabinet de thérapies naturelles
+      </a>
+
+      <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarMain">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarMain" class="navbar-menu">
+      <div class="navbar-end">
         {{ $current := . }}
         {{ range .Site.Menus.main }}
-        <li class="menu__items__item" aria-label="{{ .Name }}">
-            <a href="{{ .URL }}" class="menu__items__item__link {{ if $current.IsMenuCurrent "main" . }}active{{ end }}"
-                alt="{{ .Name }}" role="menuitem">
-                {{ .Name }}
-            </a>
-        </li>
+        <a  href="{{ .URL }}" class="navbar-item {{ if $current.IsMenuCurrent "main" . }}is-active{{ end }}"
+            alt="{{ .Name }}" role="menuitem">
+          {{ .Name }}
+        </a>
         {{ end }}
-    </ul>
+      </div>
+    </div>
+  </div>
 </nav>

@@ -1,6 +1,6 @@
 ---
 title: "Cartes familles"
-imageLink: "soins_adultes.jpg"
+imageLink: "carte_famille.jpg"
 weight: 8
 ---
 

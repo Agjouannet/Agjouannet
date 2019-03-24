@@ -1,6 +1,6 @@
 ---
 title: "Ateliers"
-imageLink: "soins_adultes.jpg"
+imageLink: "ateliers.jpg"
 weight: 7
 ---
 
