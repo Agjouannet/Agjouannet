@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Le cabinet"
 description: "Send me a message!"
 images: []
 draft: false
