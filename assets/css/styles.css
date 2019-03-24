@@ -17,3 +17,35 @@
 .fees ul {
 	list-style-position: inside;
 }
+
+.navbar-item::before {
+bottom: 0;
+content: "";
+display: block;
+height: 3px;
+position: absolute;
+transition: all .25s ease-in-out;
+width: 0%;
+}
+
+.navbar-item.is-active::before {
+	opacity: 1;
+	width: 80%;
+	background-color: #48BFCF
+}
+
+.text-color-blue {
+	color: #48BFCF !important;
+}
+
+.text-color-green {
+	color: #7A9E1E !important;
+}
+
+a.text-color-green:hover {
+	color: #7A9E1E !important;
+}
+
+.spacer-bottom {
+	margin-bottom: 1rem;
+}

@@ -6,17 +6,14 @@ defaultContentLanguage = "fr"
 language = "fr-FR"
 paginate = 3 # Number of posts per page
 
-##theme = "work/thenat/themes/terrassa"
-##themesDir = "../.." # Not necessary on production sites
-
 [outputs]
     home = ["HTML", "RSS"]
     page = ["HTML", "RSS"]
 
 [params]
-    description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
+    description = "Conseils et soins en Homéopathie, Aromathérapie, Phytothérapie et Réflexothérapie"
     favicon = "favicon.ico" # Relative URL
-    logo = "" # Absolute URL
+    logo = "img/logo/logo.png" # Absolute URL
 
 [params.hero]
     textColor = "" # Empty for default color
