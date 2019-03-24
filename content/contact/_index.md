@@ -1,8 +1,0 @@
----
-title: "Le cabinet"
-description: "Send me a message!"
-images: []
-draft: false
-menu: main
-weight: 5
----
