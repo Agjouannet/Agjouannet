@@ -1,0 +1,44 @@
+{{ define "main" }}
+<main class="content">
+
+  <section class="section">
+    <div class="container">
+
+      {{ range .Data.Pages.ByWeight }}
+
+        {{ if  .Params.type }}
+            {{$i := sub .Weight 1}}
+            {{ if modBool $i 3 }}
+            <div class="tile is-ancestor">
+            {{ end }}
+              <div class="tile is-parent is-4">
+                  <article class="tile is-child notification
+                  {{ if modBool $i 2 }}
+                  is-primary
+                  {{ else }}
+                  is-info
+                  {{ end }}
+                  " style="max-width: 100%; word-wrap:break-word;">
+                    <p class="title">{{ .Title }}</p>
+                    <div class="content">
+                      {{ .Content }}
+                    </div>
+                  </article>
+              </div>
+            {{ if modBool .Weight 3 }}
+            </div>
+            {{ end }}
+
+          {{ else }}
+          <div class="column">
+            <h3 class="title is-3 text-color-green">{{ .Title }}</h3>
+            <div class="content is-medium">{{ .Content }}</div>
+          </div>
+          {{ end }}
+
+	     {{ end }}
+    </div>
+  </section>
+
+</main>
+{{ end }}
