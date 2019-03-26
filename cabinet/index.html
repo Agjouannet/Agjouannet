@@ -116,14 +116,12 @@
         </div>
         <div class="column is-4">
 
-          
-          <form name="contact" method="POST" data-netlify="true" class="contact__form" id="contactForm">
-              
+      <form action="https://formspree.io/agjouannet@gmail.com" name="contact" method="POST" id="contactForm">
 
           <div class="field">
             <label class="label">Nom *</label>
             <div class="control has-icons-left has-icons-right">
-              <input class="input" type="text" placeholder="Votre nom">
+              <input class="input" type="text" placeholder="Votre nom" name="Nom">
               <span class="icon is-small is-left">
                 <i class="fas fa-user"></i>
               </span>
@@ -133,7 +131,7 @@
           <div class="field">
             <label class="label">Email *</label>
             <div class="control has-icons-left has-icons-right">
-              <input class="input" type="email" placeholder="Votre adresse email">
+              <input class="input" type="email" placeholder="Votre adresse email" name="_replyto">
               <span class="icon is-small is-left">
                 <i class="fas fa-envelope"></i>
               </span>
@@ -143,7 +141,7 @@
           <div class="field">
             <label class="label">Sujet *</label>
             <div class="control has-icons-left has-icons-right">
-              <input class="input" type="text" placeholder="Sujet de votre message">
+              <input class="input" type="text" placeholder="Sujet de votre message" name="_subject">
               <span class="icon is-small is-left">
                 <i class="fas fa-pen"></i>
               </span>
@@ -153,13 +151,20 @@
           <div class="field">
             <label class="label">Message *</label>
             <div class="control">
-              <textarea class="textarea" placeholder="Votre message"></textarea>
+              <textarea class="textarea" placeholder="Votre message" name="Message"></textarea>
             </div>
           </div>
 
+          <input type="hidden" name="_language" value="fr" />
+
+
+          <input type="text" name="_gotcha" style="display:none" />
+
+          <input type="hidden" name="_next" value="/" />
+
           <div class="field">
             <div class="control has-text-right">
-              <button class="button is-link">Envoyer</button>
+              <input type="submit" value="Envoyer" class="button is-link">
             </div>
           </div>
 
