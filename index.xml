@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>L&#39;Homéopathie</title>
+      <link>/services/service-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/service-01/</guid>
+      <description>L’homéopathie, découverte par le médecin Samuel Hahnemann, repose sur le fait qu’une substance toxique, administrée à faible dose, est capable de guérir des symptômes semblables à ceux qu’elle provoque chez un sujet sain à plus forte dose. Le remède homéopathique est comme une personne avec des signes psychiques et des signes physiques : plus le remède est semblable au bénéficiaire, plus il sera efficace.</description>
+    </item>
+    
+    <item>
       <title>Le cabinet</title>
       <link>/cabinet/house/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -54,6 +63,15 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
       
       <guid>/fees/option-01/</guid>
       <description> Une séance d&amp;rsquo;1h-1h30 environ: 50€ Prise en charge de 3 séances: 130€  </description>
+    </item>
+    
+    <item>
+      <title>L&#39;Aromathérapie</title>
+      <link>/services/service-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/service-02/</guid>
+      <description>L’aromathérapie consiste à soigner grâce aux huiles essentielles présentes dans certaines plantes : chacune d’entre elle a ses propriétés (anti-inflammatoire, cicatrisante&amp;hellip;). Elles peuvent être prises en interne et en externe, et même si l’on trouve de nombreux conseils sur internet il est important de consulter un professionnel car certaines comportent des contre-indications sévères.</description>
     </item>
     
     <item>
@@ -102,6 +120,15 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
     </item>
     
     <item>
+      <title>La Phytothérapie</title>
+      <link>/services/service-03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/service-03/</guid>
+      <description>La phytothérapie est l’emploi des plantes en général pour soigner sous différentes formes : infusions, décoctions, extraits, teintures, eaux florales, huiles végétales&amp;hellip;Elle comprend également les fleurs de Bach, élixirs qui agissent sur l’état émotionnel (peur, tristesse, colère) et participent au rétablissement de l’équilibre intérieur (sérénité, joie, confiance).</description>
+    </item>
+    
+    <item>
       <title>Simple People</title>
       <link>/sections/simple-people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -127,6 +154,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       
       <guid>/fees/option-03/</guid>
       <description> Une séance de 15-20min environ: 20€ Prise en charge de 3 séances: 45€  </description>
+    </item>
+    
+    <item>
+      <title>La réflexothérapie</title>
+      <link>/services/service-04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/service-04/</guid>
+      <description>La réflexothérapie est une méthode de soin par stimulation réflexe : en stimulant une zone sur les pieds, les mains, le visage, les oreilles, le crâne ou le dos, le praticien informe le cerveau d’un déséquilibre, pour que celui-ci envoie un message de régulation à l’organe concerné. La méthode pratiquée au cabinet est à la fois manuelle et instrumentale. Des auto-stimulations sont enseignées pour vous rendre acteurs de votre santé!</description>
     </item>
     
     <item>
