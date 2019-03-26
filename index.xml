@@ -20,12 +20,31 @@
     </item>
     
     <item>
+      <title>Que prennent en charge ces thérapies?</title>
+      <link>/pourquoi/section-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pourquoi/section-01/</guid>
+      <description>L&amp;rsquo;Homéopathie, l&amp;rsquo;aromathérapie, la phytothérapie et la réflexothérapie se complètent: elles permettent d&amp;rsquo;aborder différentes situations sur un plan à la fois physique et psychique. Les soins et les conseils dispensés lors d&amp;rsquo;une séance en thérapies naturelles peuvent apporter un soulagement aux douleurs et aux stress, une amélioration générale de la qualité de vie, un équilibre corporel et mental.
+Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&amp;rsquo;agit d&amp;rsquo;une liste non exhaustive, donnée à titre indicatif.</description>
+    </item>
+    
+    <item>
       <title>Simple Values</title>
       <link>/sections/simple-values/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/simple-values/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Système lymphatique</title>
+      <link>/pourquoi/card-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pourquoi/card-01/</guid>
+      <description> Aide à la circulation et à l&amp;rsquo;élimination Renforcement de l&amp;rsquo;immunité Gestion du poids (perte ou prise) Convalescence (après une opération, maladie)  </description>
     </item>
     
     <item>
@@ -44,6 +63,15 @@
       
       <guid>/sections/simple-choices/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </item>
+    
+    <item>
+      <title>Système nerveux</title>
+      <link>/pourquoi/card-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pourquoi/card-02/</guid>
+      <description> Troubles du sommeil Troubles de la concentration Nervosité Stress, anxiété Dépression Perte de mémoire Préparation aux examens Arrêt de tabac Burn Out  </description>
     </item>
     
     <item>
@@ -84,21 +112,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </item>
     
     <item>
+      <title>Système Locomoteur</title>
+      <link>/pourquoi/card-03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pourquoi/card-03/</guid>
+      <description> Rhumatismes Tendinites Douleurs musculaires (accompagnement des sportifs) Fractures Dentition (bébés)  </description>
+    </item>
+    
+    <item>
       <title>Séances bébés</title>
       <link>/fees/option-03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fees/option-03/</guid>
       <description> Une séance de 15-20min environ: 20€ Prise en charge de 3 séances: 45€  </description>
-    </item>
-    
-    <item>
-      <title>Témoignages</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis donec et odio pellentesque diam. Sapien nec sagittis aliquam malesuada bibendum. Velit dignissim sodales ut eu sem integer vitae justo. Vulputate sapien nec sagittis aliquam malesuada bibendum. Eu ultrices vitae auctor eu augue ut. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Mauris in aliquam sem fringilla. Sed faucibus turpis in eu mi bibendum.</description>
     </item>
     
     <item>
@@ -120,6 +148,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </item>
     
     <item>
+      <title>Système endocrinien</title>
+      <link>/pourquoi/card-04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pourquoi/card-04/</guid>
+      <description> Fatigue chronique Troubles émotionnels Équilibre de l&amp;rsquo;organisme  </description>
+    </item>
+    
+    <item>
       <title>Consultations à distance</title>
       <link>/fees/option-05/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -129,12 +166,30 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </item>
     
     <item>
+      <title>Système respiratoire</title>
+      <link>/pourquoi/card-05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pourquoi/card-05/</guid>
+      <description> Affection des voies respiratoires (rhume, bronchite, pneumonie) Tabagisme Allergies  </description>
+    </item>
+    
+    <item>
       <title>Prise en urgence</title>
       <link>/fees/option-06/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fees/option-06/</guid>
-      <description>Dans la mesure du possible, vous pouvez bénéficier de la priorité de rendez-vous ou éventuellement d’un déplacement jusqu’à votre domicile (aide au soin d’un malade etc.). Le prix correspondra à celui d’une séance, avec indemnité kilométrique dans le cas du déplacement à domicile.</description>
+      <description>Dans la mesure du possible, vous pouvez bénéficier de la priorité de rendez-vous ou éventuellement d’un déplacement jusqu’à votre domicile (aide au soin d’un malade etc.). Le prix correspondra à celui d’une séance, avec indemnités kilométriques dans le cas du déplacement à domicile.</description>
+    </item>
+    
+    <item>
+      <title>Système cardio-vasculaire</title>
+      <link>/pourquoi/card-06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pourquoi/card-06/</guid>
+      <description> Tachycardie, Crampes (angoisse/tabac) Insuffisance veineuse Jambes lourdes Varices/ecchymoses  </description>
     </item>
     
     <item>
@@ -147,6 +202,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </item>
     
     <item>
+      <title>Système organes des sens</title>
+      <link>/pourquoi/card-07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pourquoi/card-07/</guid>
+      <description> Troubles de la vision Fatigue oculaire Problèmes de peau (acné, démangeaisons) Acouphènes Otites  </description>
+    </item>
+    
+    <item>
       <title>Cartes familles</title>
       <link>/fees/option-08/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -156,12 +220,75 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </item>
     
     <item>
+      <title>Système Génital</title>
+      <link>/pourquoi/card-08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pourquoi/card-08/</guid>
+      <description> Aide à la fertilité Dysménorrhées/aménorrhées Troubles liés à la ménopause Allaitement Renforcement de l&amp;rsquo;organisme après une naissance  </description>
+    </item>
+    
+    <item>
       <title>Cartes Cadeaux</title>
       <link>/fees/option-09/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/fees/option-09/</guid>
       <description>Vous souhaitez faire un cadeau d&amp;rsquo;anniversaire? Vous offrir un moment de détente et bien-être pour vous reposer des préparatifs du mariage avant la cérémonie? Offrir un moment de relaxation et une cure de phytothérapie à votre femme après une naissance? Alors la carte cadeau est faite pour vous: choisissez l&amp;rsquo;option de séance que vous voulez offrir, validité permanente garantie!</description>
+    </item>
+    
+    <item>
+      <title>Système digestif</title>
+      <link>/pourquoi/card-09/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pourquoi/card-09/</guid>
+      <description> Constipation/diarrhées Nausées, migraines, maux de têtes liés à la digestion Ballonnements, spasmes intestinaux Ulcères de l&amp;rsquo;estomac, ulcère gastro-duodénal  </description>
+    </item>
+    
+    <item>
+      <title>Système urinaire</title>
+      <link>/pourquoi/card-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pourquoi/card-10/</guid>
+      <description> Cystites Drainage (lors d&amp;rsquo;une médication lourde)  </description>
+    </item>
+    
+    <item>
+      <title>Fleurs de Bach</title>
+      <link>/pourquoi/card-11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pourquoi/card-11/</guid>
+      <description> Peur (du noir, de la foule&amp;hellip;) Etat d&amp;rsquo;incertitude et de découragement Manque d&amp;rsquo;intérêt pour le présent (nostalgie&amp;hellip;) Solitude Hypersensibilité aux influences et aux idées Abattement, désespoir Préoccupation excessive d&amp;rsquo;autrui (inquiétude irraisonnée&amp;hellip;)  </description>
+    </item>
+    
+    <item>
+      <title>Accompagnement de pathologies lourdes</title>
+      <link>/pourquoi/card-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pourquoi/card-12/</guid>
+      <description> Cancers Asthme chronique Maladie de Raynaud  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/pourquoi/section-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pourquoi/section-02/</guid>
+      <description>Les consultations en thérapies naturelles ne peuvent en aucun cas se substituer à la médecine traditionnelle et les conseils donnés n&amp;rsquo;ont pas valeur d&amp;rsquo;ordonnance. L&amp;rsquo;application des conseils ne doit pas non plus se substituer aux prescriptions de votre médecin traitant qui seul peut y apporter changement: les thérapies naturelles sont un accompagnement à la médecine traditionnelle.</description>
+    </item>
+    
+    <item>
+      <title>Pourquoi préférer ces thérapies naturelles à un produit chimique lorsque cela est possible?</title>
+      <link>/pourquoi/section-03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pourquoi/section-03/</guid>
+      <description>Elles respectent le fonctionnement lévogyre (polarisation de la lumière vers la gauche) de notre organisme. Tout organisme vivant (plantes et êtres humains) est lévogyre. Le médicament chimique lui, est composé de molécules lévogyres et de molécules dextrogyres : il agit donc de manière trop intrusive dans notre organisme, pouvant provoquer des effets secondaires. D’autre part, un médicament chimique ne comporte qu’une catégorie de molécule (par exemple, prendre de l’aspirine c’est prendre des molécules d’acide acétylsalicylique et rien d’autre) tandis que dans une plante, il y a une myriade de molécules différentes qui agissent en synergie, protégeant des effets secondaires possibles d’une des molécules.</description>
     </item>
     
     <item>

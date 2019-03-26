@@ -12,7 +12,15 @@
   </url>
   
   <url>
+    <loc>/pourquoi/section-01/</loc>
+  </url>
+  
+  <url>
     <loc>/sections/simple-values/</loc>
+  </url>
+  
+  <url>
+    <loc>/pourquoi/card-01/</loc>
   </url>
   
   <url>
@@ -29,6 +37,10 @@
   </url>
   
   <url>
+    <loc>/pourquoi/card-02/</loc>
+  </url>
+  
+  <url>
     <loc>/fees/option-02/</loc>
   </url>
   
@@ -41,15 +53,19 @@
   </url>
   
   <url>
+    <loc>/pourquoi/</loc>
+  </url>
+  
+  <url>
     <loc>/sections/simple-people/</loc>
   </url>
   
   <url>
-    <loc>/fees/option-03/</loc>
+    <loc>/pourquoi/card-03/</loc>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/fees/option-03/</loc>
   </url>
   
   <url>
@@ -65,6 +81,10 @@
   </url>
   
   <url>
+    <loc>/pourquoi/card-04/</loc>
+  </url>
+  
+  <url>
     <loc>/fees/option-05/</loc>
   </url>
   
@@ -73,7 +93,15 @@
   </url>
   
   <url>
+    <loc>/pourquoi/card-05/</loc>
+  </url>
+  
+  <url>
     <loc>/fees/option-06/</loc>
+  </url>
+  
+  <url>
+    <loc>/pourquoi/card-06/</loc>
   </url>
   
   <url>
@@ -81,11 +109,43 @@
   </url>
   
   <url>
+    <loc>/pourquoi/card-07/</loc>
+  </url>
+  
+  <url>
     <loc>/fees/option-08/</loc>
   </url>
   
   <url>
+    <loc>/pourquoi/card-08/</loc>
+  </url>
+  
+  <url>
     <loc>/fees/option-09/</loc>
+  </url>
+  
+  <url>
+    <loc>/pourquoi/card-09/</loc>
+  </url>
+  
+  <url>
+    <loc>/pourquoi/card-10/</loc>
+  </url>
+  
+  <url>
+    <loc>/pourquoi/card-11/</loc>
+  </url>
+  
+  <url>
+    <loc>/pourquoi/card-12/</loc>
+  </url>
+  
+  <url>
+    <loc>/pourquoi/section-02/</loc>
+  </url>
+  
+  <url>
+    <loc>/pourquoi/section-03/</loc>
   </url>
   
   <url>
