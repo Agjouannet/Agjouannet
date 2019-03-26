@@ -1,0 +1,7 @@
+---
+title: "La réflexothérapie"
+imageLink: "reflexotherapie.jpg"
+weight: 4
+---
+
+La réflexothérapie est une méthode de soin par stimulation réflexe : en stimulant une zone sur les pieds, les mains, le visage, les oreilles, le crâne ou le dos, le praticien informe le cerveau d’un déséquilibre, pour que celui-ci envoie un message de régulation à l’organe concerné. La méthode pratiquée au cabinet est à la fois manuelle et instrumentale. Des auto-stimulations sont enseignées pour vous rendre acteurs de votre santé!

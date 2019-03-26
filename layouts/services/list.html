@@ -1,0 +1,43 @@
+{{ define "main" }}
+<main class="section content fees">
+	<div class="container spacer-bottom">
+		<div class="columns is-variable has-equal-heights is-8 is-vcentered">
+			<div class="column is-6">
+				<h3 class="title is-3 text-color-green">Cabinet de thérapies naturelles</h3>
+				<h5 class="subtitle text-color-blue">Conseils et soins en Homéopathie, Aromathérapie, Phytothérapie et Réflexothérapie </h5>
+			</div>
+			<div class="column is-6">
+				<div class="has-text-centered">
+					<a class="button is-link" href="/cabinet/">PRENDRE RENDEZ-VOUS PAR EMAIL</a>
+					<div class="hr spacer" style="margin:.5rem;">ou</div>
+					<a href="tel:07 62 82 73 03" class="button is-link">APPELER</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	{{ range .Data.Pages.ByWeight }}
+	<section class="section">
+		<div class="container">
+			<div class="columns is-variable has-equal-heights is-8 is-vcentered">
+				<div class="column is-6">
+					<div class="section-media aos-init aos-animate has-text-right" data-aos="zoom-in-up" data-aos-duration="1000">
+						<img class="full-width" role="presentation" src="/img/services/{{ .Params.imageLink }}" style="max-width:20rem;">
+					</div>
+				</div>
+				<div class="column is-6">
+					<div class="section-header">
+						<h2 class="title is-2 is-spaced"> {{ .Title }}
+							<span class="spacer is-horizontal is-05"></span>
+						</h2>
+						<div class="content subtitle is-4">
+							{{ .Content }}
+						</div>
+						<div class="hr spacer is-1"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+	</section>
+	{{ end }}
+</main>
+{{ end }}
