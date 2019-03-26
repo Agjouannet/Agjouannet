@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/sections/section-01/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2018-12-19T22:32:19+01:00</lastmod>
   </url>
@@ -20,10 +24,6 @@
   </url>
   
   <url>
-    <loc>/sections/simple-values/</loc>
-  </url>
-  
-  <url>
     <loc>/pourquoi/card-01/</loc>
   </url>
   
@@ -32,15 +32,15 @@
   </url>
   
   <url>
+    <loc>/sections/section-02/</loc>
+  </url>
+  
+  <url>
     <loc>/services/service-02/</loc>
   </url>
   
   <url>
     <loc>/services/</loc>
-  </url>
-  
-  <url>
-    <loc>/sections/simple-choices/</loc>
   </url>
   
   <url>
@@ -68,15 +68,15 @@
   </url>
   
   <url>
-    <loc>/sections/simple-people/</loc>
-  </url>
-  
-  <url>
     <loc>/pourquoi/card-03/</loc>
   </url>
   
   <url>
     <loc>/fees/option-03/</loc>
+  </url>
+  
+  <url>
+    <loc>/sections/section-03/</loc>
   </url>
   
   <url>
@@ -88,10 +88,6 @@
   </url>
   
   <url>
-    <loc>/sections/simple/</loc>
-  </url>
-  
-  <url>
     <loc>/fees/option-04/</loc>
   </url>
   
@@ -100,11 +96,19 @@
   </url>
   
   <url>
+    <loc>/sections/section-04/</loc>
+  </url>
+  
+  <url>
     <loc>/fees/option-05/</loc>
   </url>
   
   <url>
     <loc>/cabinet/</loc>
+  </url>
+  
+  <url>
+    <loc>/sections/section-05/</loc>
   </url>
   
   <url>
