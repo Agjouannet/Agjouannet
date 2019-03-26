@@ -1,10 +1,23 @@
-<main class="hero" {{ if $.Params.images }} style="background-image: url('{{ $.Site.BaseURL }}images/{{ print (index $.Params.images 0) }}');"
-    {{ end }}>
-    <div class="hero__caption" {{ if $.Site.Params.hero.textColor }} style="color: {{ $.Site.Params.hero.textColor }};"
-        {{ end }}>
-        {{ .Content }}
-        {{ if .Site.Params.cta.show }}
-        {{ partial "cta-btn.html" . }}
-        {{ end }}
+<section class="hero is-fullheight video">
+    <div class="hero-video">
+        <video poster="/video/water.jpg" id="bgvid" playsinline autoplay muted loop>
+            <source src="/video/water.mp4" type="video/mp4">
+        </video>
     </div>
-</main>
+    <div class="hero-body">
+        <div class="container">
+              <h3 class="title is-1 has-text-white">Cabinet de thérapies naturelles</h3>
+              <h5 class="subtitle is-4 has-text-white">Conseils et soins en Homéopathie, Aromathérapie, Phytothérapie et Réflexothérapie </h5>
+              <div class="actions has-text-centered">
+                <a class="button is-link" href="/cabinet/">PRENDRE RENDEZ-VOUS PAR EMAIL</a>
+                <div class="hr spacer has-text-white" style="margin:.5rem;">ou</div>
+                <a href="tel:07 62 82 73 03" class="button is-link">APPELER</a>
+              </div>
+              <!--div class="has-text-centered" style="margin-top: 10rem;">
+                <span class="icon is-large">
+                  <i class="fas fa-3x fa-angle-down"></i>
+                </span>
+              </div-->
+        </div>
+    </div>
+</section>

@@ -3,6 +3,18 @@
 	margin-right: .5rem;
 }
 
+.hero.video .actions {
+	max-width: 300px;
+}
+
+.hero.video .hero-body {
+	max-height: 85vh;
+}
+
+.hero.is-fullheight {
+    min-height: calc(100vh - 123px);
+}
+
 @media only screen and (max-width: 1024px) {
 
 }
@@ -18,6 +30,24 @@
 	.fees .section-header  {
 		text-align: center!important
 	}
+
+	.hero.video .title {
+		color: #7A9E1E !important;
+	}
+
+	.hero.video .subtitle,
+	.hero.video .hr {
+		color: #48BFCF !important;
+	}
+
+	.hero.video.is-fullheight {
+		min-height: 0;
+	}
+
+	.hero.video .actions {
+		max-width: 100%;
+	}
+
 }
 
 @media only screen and (max-width: 576px) {
