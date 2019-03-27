@@ -15,6 +15,10 @@
     min-height: calc(100vh - 123px);
 }
 
+.img-text-right .is-flex {
+	justify-content: flex-end;
+}
+
 @media only screen and (max-width: 1024px) {
 
 }
@@ -46,6 +50,10 @@
 
 	.hero.video .actions {
 		max-width: 100%;
+	}
+
+	.img-text-right .is-flex {
+		justify-content: center;
 	}
 
 }

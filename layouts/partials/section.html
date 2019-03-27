@@ -1,10 +1,13 @@
 
   <div class="section-header">
-    <h2 class="title is-spaced text-color-blue"> {{ .Title }}
-      <span class="spacer is-horizontal"></span>
-    </h2>
+    <h2 class="title is-spaced text-color-blue"> {{ .Title }} </h2>
     <div class="content subtitle">
       {{ .Content }}
     </div>
+    {{ if .Params.actionText }}
+    <div class="has-text-right">
+      <a class="button is-link" href="{{.Params.actionLink}}">{{ .Params.actionText }}</a>
+    </div>
+    {{ end }}
     <div class="hr spacer"></div>
   </div>

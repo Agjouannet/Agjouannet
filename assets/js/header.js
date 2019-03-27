@@ -21,4 +21,12 @@ if ($navbarBurgers.length > 0) {
     });
   });
 }
+
+var url = window.location.href;
+
+if (url.indexOf("success") > -1)
+{
+    document.getElementById('NotifySuccess').style.display = 'block';
+}
+
 });
