@@ -12,7 +12,7 @@ paginate = 3 # Number of posts per page
 
 [params]
     description = "Conseils et soins en Homéopathie, Aromathérapie, Phytothérapie et Réflexothérapie"
-    favicon = "favicon.ico" # Relative URL
+    favicon = "favicon/favicon.ico" # Relative URL
     logo = "img/logo/logo.png" # Absolute URL
 
 [params.hero]
