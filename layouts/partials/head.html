@@ -5,7 +5,10 @@
     <meta name="googlebot" content="index, follow, noarchive">
     <title>{{ .Site.Title }} - {{ .Title }}</title>
     <link rel="icon" href="{{ $.Site.BaseURL }}{{ $.Site.Params.favicon }}">
-    <meta name="description" content="{{ $.Site.Params.description }}">
+    <meta name="description" property="og:description" content="{{ $.Site.Params.description }}">
+    <meta property="og:title" content="{{ .Site.Title }} - {{ .Title }}">
+
+    <link rel="canonical" href="{{ .Permalink }}">
 
     <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">

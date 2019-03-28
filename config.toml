@@ -11,7 +11,7 @@ paginate = 3 # Number of posts per page
     page = ["HTML", "RSS"]
 
 [params]
-    description = "Conseils et soins en Homéopathie, Aromathérapie, Phytothérapie et Réflexothérapie"
+    description = "Conseils et soins en Homéopathie, Aromathérapie, Phytothérapie et Réflexothérapie. Découvrez une entreprise basée sur le service et la confiance, dans une approche holistique du bénéficiaire. Le cabinet de thérapies naturelles met tout en oeuvre pour vous faciliter l'accès aux soins par des méthodes innovantes."
     favicon = "favicon/favicon.ico" # Relative URL
     logo = "img/logo/logo.png" # Absolute URL
 
