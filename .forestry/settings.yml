@@ -5,28 +5,28 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: ''
-  label: Fees
+  path: content/services
+  label: Services
   create: all
-  match: content/fees/*
+  match: "**/*"
 - type: directory
-  path: content
-  label: Pages
+  path: content/pourquoi
+  label: Pourquoi
   create: all
-  match: "*"
+  match: "**/*"
+- type: directory
+  path: content/cabinet
+  label: Le Cabinet
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/honoraires
+  label: Honoraires
+  create: all
+  match: "**/*"
 - type: directory
   path: content/sections
-  label: Sections
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/contact
-  label: Contact
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/posts
-  label: Posts
+  label: Accueil
   create: all
   match: "**/*"
 upload_dir: static/uploads
