@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: cabinet
+  label: Le Cabinet
+  create: all
+  match: "**/*"
+- type: directory
   path: ''
   label: Fees
   create: all
@@ -22,11 +27,6 @@ sections:
 - type: directory
   path: content/contact
   label: Contact
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/posts
-  label: Posts
   create: all
   match: "**/*"
 upload_dir: static/uploads
