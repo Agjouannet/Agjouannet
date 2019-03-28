@@ -21,7 +21,8 @@ paginate = 3 # Number of posts per page
         "Consultation", "Conseils", "soins", "naturel", "naturopathie",
         "Homéopathie", "Aromathérapie", "Phytothérapie", "Réflexothérapie",
         "détente et relaxation", "massages d'huiles essentielles",
-        "tisanes aux plantes"
+        "tisanes aux plantes", "soins et auto-stimulations en réflexothérapie combinée",
+        "conseils/soins en aroma-phyto/consultation homéopathie", "Détente et amélioration qualité de vie Nantes environs"
         ]
     favicon = "favicon/favicon.ico" # Relative URL
     logo = "img/logo/logo.png" # Absolute URL
