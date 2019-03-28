@@ -5,15 +5,15 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/cabinet
+  path: ''
   label: Le Cabinet
   create: all
-  match: "**/*"
+  match: content/cabinet/*
 - type: directory
   path: ''
-  label: Fees
+  label: Honoraires
   create: all
-  match: content/fees/*
+  match: content/honoraires/*
 - type: directory
   path: content
   label: Pages
