@@ -15,6 +15,14 @@ paginate = 3 # Number of posts per page
 
 [params]
     description = "Conseils et soins en Homéopathie, Aromathérapie, Phytothérapie et Réflexothérapie. Découvrez une entreprise basée sur le service et la confiance, dans une approche holistique du bénéficiaire. Le cabinet de thérapies naturelles met tout en oeuvre pour vous faciliter l'accès aux soins par des méthodes innovantes."
+    keywords = [
+        "thenat", "thenat.services", "thenat services", "thenat services Vertou", "Conseils et soins sur Vertou",
+        "Cabinet de thérapies naturelles", "Cabinet de thérapies", "Cabinet de thérapie",
+        "Consultation", "Conseils", "soins", "naturel", "naturopathie",
+        "Homéopathie", "Aromathérapie", "Phytothérapie", "Réflexothérapie",
+        "détente et relaxation", "massages d'huiles essentielles",
+        "tisanes aux plantes"
+        ]
     favicon = "favicon/favicon.ico" # Relative URL
     logo = "img/logo/logo.png" # Absolute URL
 
