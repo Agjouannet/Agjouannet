@@ -5,14 +5,10 @@
     <meta name="googlebot" content="index, follow, noarchive">
     <title>{{ .Site.Title }} - {{ .Title }}</title>
     <link rel="icon" href="{{ $.Site.BaseURL }}{{ $.Site.Params.favicon }}">
-    <meta name="description" property="og:description" content="{{ $.Site.Params.description }}">
-    <meta property="og:title" content="{{ .Site.Title }} - {{ .Title }}">
-    <meta property="og:type" content="Website">
-    <meta property="og:site_name" content="{{ .Site.Title }}">
+    <meta name="description" content="{{ $.Site.Params.description }}">
     {{ with $.Site.Params.keywords }}
     <meta name="keywords" content="{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}">
     {{ end }}
-
 
     <link rel="canonical" href="{{ .Permalink }}">
 
@@ -27,7 +23,7 @@
     {{ .Hugo.Generator }}
 
     {{ if .Site.GoogleAnalytics }}
-    {{ template "_internal/google_analytics.html" . }}
+    {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
 
     {{ template "_internal/twitter_cards.html" . }}

@@ -1,7 +1,7 @@
 baseurl = "/"
 title = "Cabinet de thérapies naturelles"
-author = "AC"
-googleAnalytics = ""
+author = "Agnès Jouannet"
+googleAnalytics = "UA-137241674-1"
 defaultContentLanguage = "fr"
 language = "fr-FR"
 paginate = 3 # Number of posts per page
