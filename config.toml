@@ -6,6 +6,9 @@ defaultContentLanguage = "fr"
 language = "fr-FR"
 paginate = 3 # Number of posts per page
 
+[sitemap]
+  filename = "sitemap.xml"
+
 [outputs]
     home = ["HTML", "RSS"]
     page = ["HTML", "RSS"]
@@ -31,7 +34,6 @@ paginate = 3 # Number of posts per page
     integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
 
 [params.form] # Contact form
-    netlify = true # Use only if you are using Netlify
     action = "https://formspree.io/your@email.com"
     method = "POST"
     inputNameName = "name"
