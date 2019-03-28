@@ -6,6 +6,16 @@ webhook_url:
 sections:
 - type: directory
   path: ''
+  label: Services
+  create: all
+  match: content/services/*
+- type: directory
+  path: ''
+  label: Pourquoi
+  create: all
+  match: content/pourquoi/*
+- type: directory
+  path: ''
   label: Le Cabinet
   create: all
   match: content/cabinet/*
@@ -22,11 +32,6 @@ sections:
 - type: directory
   path: content/sections
   label: Sections
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/contact
-  label: Contact
   create: all
   match: "**/*"
 upload_dir: static/uploads
