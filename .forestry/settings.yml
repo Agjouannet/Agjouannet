@@ -10,10 +10,10 @@ sections:
   create: all
   match: content/services/*
 - type: directory
-  path: ''
+  path: content/pourquoi
   label: Pourquoi
   create: all
-  match: content/pourquoi/*
+  match: "*"
 - type: directory
   path: content/cabinet
   label: Le Cabinet
