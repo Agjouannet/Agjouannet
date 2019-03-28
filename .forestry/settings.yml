@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: cabinet
+  path: content/cabinet
   label: Le Cabinet
   create: all
   match: "**/*"
