@@ -49,3 +49,8 @@ a.text-color-green:hover {
 .spacer-bottom {
 	margin-bottom: 1rem;
 }
+
+.flickity-slider {
+  display: flex;
+  align-items: center;
+}
