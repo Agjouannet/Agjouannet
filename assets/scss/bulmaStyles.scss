@@ -1,0 +1,18 @@
+@charset "utf-8";
+// Import the initial variables
+@import "../../node_modules/bulma/sass/utilities/initial-variables";
+@import "../../node_modules/bulma/sass/utilities/functions";
+
+// Set variables
+// Update blue
+$blue: #11C2E2;
+$green: #AABC57;
+
+// Set the derived variables
+$primary: $blue;
+
+// Add new color variables to the color map.
+@import "../../node_modules/bulma/sass/utilities/derived-variables";
+
+// Import the rest of Bulma
+@import "../../node_modules/bulma/bulma.sass";
