@@ -93,12 +93,12 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
     </item>
     
     <item>
-      <title>Séances enfants</title>
+      <title>Séances étudiants</title>
       <link>/honoraires/option-02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/honoraires/option-02/</guid>
-      <description> Une séance de 45min environ: 35€ Prise en charge de 3 séances: 90€  </description>
+      <description> Une séance de 1h environ: 45€ Prise en charge de 3 séances: 120€  </description>
     </item>
     
     <item>
@@ -138,12 +138,12 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
     </item>
     
     <item>
-      <title>Séances bébés</title>
+      <title>Séances enfants</title>
       <link>/honoraires/option-03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/honoraires/option-03/</guid>
-      <description> Une séance de 15-20min environ: 20€ Prise en charge de 3 séances: 45€  </description>
+      <description> Une séance de 45min environ: 35€ Prise en charge de 3 séances: 90€  </description>
     </item>
     
     <item>
@@ -165,21 +165,21 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
     </item>
     
     <item>
-      <title>Suivi téléphonique</title>
-      <link>/honoraires/option-04/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/honoraires/option-04/</guid>
-      <description>Le suivi téléphonique est gratuit et sert lors d&amp;rsquo;apparition de nouveaux symptômes après la séance, pour conseils d&amp;rsquo;application des produits etc.).Il s’agit uniquement d’un retour sur la séance reçue et non d’une deuxième consultation : ne seront abordés que des sujets relatifs au soin précédent.</description>
-    </item>
-    
-    <item>
       <title>Système endocrinien</title>
       <link>/pourquoi/card-04/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pourquoi/card-04/</guid>
       <description> Fatigue chronique Troubles émotionnels Équilibre de l&amp;rsquo;organisme  </description>
+    </item>
+    
+    <item>
+      <title>Séances bébés</title>
+      <link>/honoraires/option-04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/honoraires/option-04/</guid>
+      <description> Une séance de 15-20min environ: 20€ Prise en charge de 3 séances: 45€  </description>
     </item>
     
     <item>
@@ -192,21 +192,21 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
     </item>
     
     <item>
-      <title>Consultations à distance</title>
-      <link>/honoraires/option-05/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/honoraires/option-05/</guid>
-      <description>Elles se déroulent par Téléphone ou Appel vidéo Whats’app, au même prix qu&amp;rsquo;une consultation en cabinet. Cette solution est utile pour tous ceux qui ne peuvent se déplacer au cabinet. Dans ce cas le règlement s’effectue par virement bancaire au moment de la prise de rendez-vous.</description>
-    </item>
-    
-    <item>
       <title>Le logo</title>
       <link>/sections/section-05/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/section-05/</guid>
       <description>Les couleurs : rappelant l’océan et le ciel, le bleu est une couleur étroitement liée au rêve, à la sagesse et à la sérénité. Comme l&amp;rsquo;eau qui désaltère, elle a un côté rafraîchissant et pur qui permet de retrouver un certain calme intérieur lié aux choses profondes. Associé à la nature, le vert est une couleur apaisante et tonifiante à la fois. C’est la couleur de l’espérance, de la stabilité et de la concentration.</description>
+    </item>
+    
+    <item>
+      <title>Suivi téléphonique</title>
+      <link>/honoraires/option-05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/honoraires/option-05/</guid>
+      <description>Le suivi téléphonique est gratuit et sert lors d&amp;rsquo;apparition de nouveaux symptômes après la séance, pour conseils d&amp;rsquo;application des produits etc.).Il s’agit uniquement d’un retour sur la séance reçue et non d’une deuxième consultation : ne seront abordés que des sujets relatifs au soin précédent.</description>
     </item>
     
     <item>
@@ -219,12 +219,12 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
     </item>
     
     <item>
-      <title>Prise en urgence</title>
+      <title>Consultations à distance</title>
       <link>/honoraires/option-06/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/honoraires/option-06/</guid>
-      <description>Dans la mesure du possible, vous pouvez bénéficier de la priorité de rendez-vous ou éventuellement d’un déplacement jusqu’à votre domicile (aide au soin d’un malade etc.). Le prix correspondra à celui d’une séance, avec indemnités kilométriques dans le cas du déplacement à domicile.</description>
+      <description>Elles se déroulent par Téléphone ou Appel vidéo Whats’app, au même prix qu&amp;rsquo;une consultation en cabinet. Cette solution est utile pour tous ceux qui ne peuvent se déplacer au cabinet. Dans ce cas le règlement s’effectue par virement bancaire au moment de la prise de rendez-vous.</description>
     </item>
     
     <item>
@@ -237,12 +237,12 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
     </item>
     
     <item>
-      <title>Ateliers</title>
+      <title>Prise en urgence</title>
       <link>/honoraires/option-07/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/honoraires/option-07/</guid>
-      <description> Des ateliers de formation (sur les sujets les plus fréquents, pour vous donner plus d’autonomie) Des ateliers de soin (détente/art thérapie pour enfants et adultes). Prix à définir en fonction du nombre d’intéressés.  </description>
+      <description>Dans la mesure du possible, vous pouvez bénéficier de la priorité de rendez-vous ou éventuellement d’un déplacement jusqu’à votre domicile (aide au soin d’un malade etc.). Le prix correspondra à celui d’une séance, avec indemnités kilométriques dans le cas du déplacement à domicile.</description>
     </item>
     
     <item>
@@ -255,12 +255,12 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
     </item>
     
     <item>
-      <title>Cartes familles</title>
+      <title>Ateliers</title>
       <link>/honoraires/option-08/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/honoraires/option-08/</guid>
-      <description>Pour les familles nombreuses, le cabinet a créé une carte fidélité donnant accès à 8séances+1gratuite (ceci est avantageux à long terme, si vous pensez consulter plusieurs fois dans l’année, sachant que la carte est à validité permanente et que les membres d’une même famille peuvent être inscrits sur la même carte).</description>
+      <description> Des ateliers de formation (sur les sujets les plus fréquents, pour vous donner plus d’autonomie) Des ateliers de soin (détente/art thérapie pour enfants et adultes). Prix à définir en fonction du nombre d’intéressés.  </description>
     </item>
     
     <item>
@@ -273,12 +273,12 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
     </item>
     
     <item>
-      <title>Cartes Cadeaux</title>
+      <title>Cartes familles</title>
       <link>/honoraires/option-09/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/honoraires/option-09/</guid>
-      <description>Vous souhaitez faire un cadeau d&amp;rsquo;anniversaire? Vous offrir un moment de détente et bien-être pour vous reposer des préparatifs du mariage avant la cérémonie? Offrir un moment de relaxation et une cure de phytothérapie à votre femme après une naissance? Alors la carte cadeau est faite pour vous: choisissez l&amp;rsquo;option de séance que vous voulez offrir, validité permanente garantie!</description>
+      <description>Pour les familles nombreuses, le cabinet a créé une carte fidélité donnant accès à 8séances+1gratuite (ceci est avantageux à long terme, si vous pensez consulter plusieurs fois dans l’année, sachant que la carte est à validité permanente et que les membres d’une même famille peuvent être inscrits sur la même carte).</description>
     </item>
     
     <item>
@@ -288,6 +288,15 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
       
       <guid>/pourquoi/card-09/</guid>
       <description> Constipation/diarrhées Nausées, migraines, maux de têtes liés à la digestion Ballonnements, spasmes intestinaux Ulcères de l&amp;rsquo;estomac, ulcère gastro-duodénal  </description>
+    </item>
+    
+    <item>
+      <title>Cartes Cadeaux</title>
+      <link>/honoraires/option-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/honoraires/option-10/</guid>
+      <description>Vous souhaitez faire un cadeau d&amp;rsquo;anniversaire? Vous offrir un moment de détente et bien-être pour vous reposer des préparatifs du mariage avant la cérémonie? Offrir un moment de relaxation et une cure de phytothérapie à votre femme après une naissance? Alors la carte cadeau est faite pour vous: choisissez l&amp;rsquo;option de séance que vous voulez offrir, validité permanente garantie!</description>
     </item>
     
     <item>
