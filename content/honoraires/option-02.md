@@ -1,6 +1,6 @@
 ---
 title: "Séances étudiants"
-imageLink: "soins_etudiants.jpg"
+imageLink: "soins_etudiants2.jpg"
 weight: 2
 ---
 
