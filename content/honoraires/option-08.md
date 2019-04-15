@@ -1,7 +1,7 @@
 ---
-title: "Cartes familles"
-imageLink: "carte_famille.jpg"
+title: "Ateliers"
+imageLink: "ateliers.jpg"
 weight: 8
 ---
-
-Pour les familles nombreuses, le cabinet a créé une carte fidélité donnant accès à 8séances+1gratuite (ceci est avantageux à long terme, si vous pensez consulter plusieurs fois dans l’année, sachant que la carte est à validité permanente et que les membres d’une même famille peuvent être inscrits sur la même carte).
+* Des ateliers de formation (sur les sujets les plus fréquents, pour vous donner plus d’autonomie)
+* Des ateliers de soin (détente/art thérapie pour enfants et adultes). Prix à définir en fonction du nombre d’intéressés.

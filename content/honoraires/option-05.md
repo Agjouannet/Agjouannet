@@ -1,7 +1,7 @@
 ---
-title: "Consultations à distance"
-imageLink: "cst_distance.jpg"
+title: "Suivi téléphonique"
+imageLink: "suivi_tel.jpg"
 weight: 5
 ---
 
-Elles se déroulent par Téléphone ou Appel vidéo Whats’app, au même prix qu'une consultation en cabinet. Cette solution est utile pour tous ceux qui ne peuvent se déplacer au cabinet. Dans ce cas le règlement s’effectue par virement bancaire au moment de la prise de rendez-vous.
+Le suivi téléphonique est gratuit et sert lors d'apparition de nouveaux symptômes après la séance, pour conseils d'application des produits etc.).Il s’agit uniquement d’un retour sur la séance reçue et non d’une deuxième consultation : ne seront abordés que des sujets relatifs au soin précédent.

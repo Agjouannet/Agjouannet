@@ -1,7 +1,7 @@
 ---
-title: "Ateliers"
-imageLink: "ateliers.jpg"
+title: "Prise en urgence"
+imageLink: "urgences.jpg"
 weight: 7
 ---
-* Des ateliers de formation (sur les sujets les plus fréquents, pour vous donner plus d’autonomie)
-* Des ateliers de soin (détente/art thérapie pour enfants et adultes). Prix à définir en fonction du nombre d’intéressés.
+
+Dans la mesure du possible, vous pouvez bénéficier de la priorité de rendez-vous ou éventuellement d’un déplacement jusqu’à votre domicile (aide au soin d’un malade etc.). Le prix correspondra à celui d’une séance, avec indemnités kilométriques dans le cas du déplacement à domicile.

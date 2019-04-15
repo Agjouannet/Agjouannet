@@ -1,8 +1,8 @@
 ---
-title: "Séances enfants"
-imageLink: "soins_enfants.jpg"
+title: "Séances étudiants"
+imageLink: "soins_etudiants.jpg"
 weight: 2
 ---
 
-* Une séance de 45min environ: 35€
-* Prise en charge de 3 séances: 90€
+* Une séance de 1h environ: 45€
+* Prise en charge de 3 séances: 120€

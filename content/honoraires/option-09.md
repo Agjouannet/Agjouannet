@@ -1,7 +1,7 @@
 ---
-title: "Cartes Cadeaux"
-imageLink: "carte_cadeau.jpg"
+title: "Cartes familles"
+imageLink: "carte_famille.jpg"
 weight: 9
 ---
 
-Vous souhaitez faire un cadeau d'anniversaire? Vous offrir un moment de détente et bien-être pour vous reposer des préparatifs du mariage avant la cérémonie? Offrir un moment de relaxation et une cure de phytothérapie à votre femme après une naissance? Alors la carte cadeau est faite pour vous: choisissez l'option de séance que vous voulez offrir, validité permanente garantie!
+Pour les familles nombreuses, le cabinet a créé une carte fidélité donnant accès à 8séances+1gratuite (ceci est avantageux à long terme, si vous pensez consulter plusieurs fois dans l’année, sachant que la carte est à validité permanente et que les membres d’une même famille peuvent être inscrits sur la même carte).

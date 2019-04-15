@@ -1,8 +1,8 @@
 ---
-title: "Séances bébés"
-imageLink: "soin_bb.jpg"
+title: "Séances enfants"
+imageLink: "soins_enfants.jpg"
 weight: 3
 ---
 
-* Une séance de 15-20min environ: 20€
-* Prise en charge de 3 séances: 45€
+* Une séance de 45min environ: 35€
+* Prise en charge de 3 séances: 90€

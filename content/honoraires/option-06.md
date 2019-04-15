@@ -1,7 +1,7 @@
 ---
-title: "Prise en urgence"
-imageLink: "urgences.jpg"
+title: "Consultations à distance"
+imageLink: "cst_distance.jpg"
 weight: 6
 ---
 
-Dans la mesure du possible, vous pouvez bénéficier de la priorité de rendez-vous ou éventuellement d’un déplacement jusqu’à votre domicile (aide au soin d’un malade etc.). Le prix correspondra à celui d’une séance, avec indemnités kilométriques dans le cas du déplacement à domicile.
+Elles se déroulent par Téléphone ou Appel vidéo Whats’app, au même prix qu'une consultation en cabinet. Cette solution est utile pour tous ceux qui ne peuvent se déplacer au cabinet. Dans ce cas le règlement s’effectue par virement bancaire au moment de la prise de rendez-vous.
