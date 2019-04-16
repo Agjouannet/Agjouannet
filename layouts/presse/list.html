@@ -18,36 +18,28 @@
 
   <section class="section">
     <div class="container">
-      <div class="columns is-variable has-equal-heights">
-        <div class="column is-4">
+      <div class="columns is-multiline has-equal-heights">
+        {{ range .Data.Pages.ByWeight }}
+        <div class="column is-one-quarter">
           <div class="card">
             <div class="card-content">
               <p class="subtitle">
-                “J’ai consulté pour des maux de tête et une fatigue oculaire, dès la première séance en réflexothérapie (auriculaire et plantaire) les douleurs ont disparues. Super moment de détente dans une ambiance agréablement aménagée. Agnès est bienveillante, à l’écoute et professionnelle, je recommande vivement!”
+                {{ .Content }}
               </p>
               <p>
+                {{ range $i, $sequence :=  (seq .Params.stars) }}
                 <span class="icon has-text-warning">
                   <i class="fas fa-star"></i>
                 </span>
-                <span class="icon has-text-warning">
-                  <i class="fas fa-star"></i>
-                </span>
-                <span class="icon has-text-warning">
-                  <i class="fas fa-star"></i>
-                </span>
-                <span class="icon has-text-warning">
-                  <i class="fas fa-star"></i>
-                </span>
-                <span class="icon has-text-warning">
-                  <i class="fas fa-star"></i>
-                </span>
+                {{ end }}
               </p>
               <p class="subtitle">
-                Thérèse
+                {{ .Params.author }}, {{ .Params.age }}
               </p>
             </div>
           </div>
         </div>
+          {{ end }}
       </div>
           <div class="has-text-centered">
             <a class="is-size-5 button is-link" target="_blank" rel="noopener noreferrer" href="https://search.google.com/local/writereview?placeid=ChIJ02Tj8jTpBUgRORt4IBAuPJU">
