@@ -23,9 +23,7 @@
         <div class="column is-one-quarter">
           <div class="card">
             <div class="card-content">
-              <p class="subtitle">
-                {{ .Content }}
-              </p>
+                {{ .Content | replaceRE "<p>" "<p class=\"subtitle\">" | safeHTML }}
               <p>
                 {{ range $i, $sequence :=  (seq .Params.stars) }}
                 <span class="icon has-text-warning">
