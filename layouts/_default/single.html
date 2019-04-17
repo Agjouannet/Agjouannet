@@ -14,7 +14,7 @@
   </section>
   <section class="section blog">
       <div class="container">
-        {{ if and $.Site.Params.posts.showDate $.Site.Params.posts.showAuthor }}
+        {{ if $.Params.author }}
         <p>
           <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
             Article publié le {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}

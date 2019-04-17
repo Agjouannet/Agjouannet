@@ -70,15 +70,10 @@ paginate = 3 # Number of posts per page
         respectDoNotTrack = true
         useSessionStorage = false
     [privacy.instagram]
-        disable = false
-        simple = false
+        disable = true
     [privacy.twitter]
-        disable = false
-        enableDNT = true
-        simple = false
+        disable = true
     [privacy.vimeo]
-        disable = false
-        simple = false
+        disable = true
     [privacy.youtube]
-        disable = false
-        privacyEnhanced = true
+        disable = true
