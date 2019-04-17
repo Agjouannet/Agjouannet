@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Cabinet de thérapies naturelles</title>
-    <link>/posts/</link>
+    <link>/articles/</link>
     <description>Recent content in Blog on Cabinet de thérapies naturelles</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 16 Apr 2019 22:30:56 +0100</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Comment être remboursé par ma mutuelle</title>
-      <link>/posts/remboursement/</link>
+      <link>/articles/remboursement/</link>
       <pubDate>Tue, 16 Apr 2019 22:30:56 +0100</pubDate>
       
-      <guid>/posts/remboursement/</guid>
+      <guid>/articles/remboursement/</guid>
       <description>Les pratiques naturelles ne sont actuellement pas prises en charge par la sécurité sociale. Néanmoins, de DE PLUS EN PLUS DE MUTUELLES REMBOURSENT les séances en thérapies naturelles. Voici quelques mutuelles:
  Asetys: Forfait jusqu’à 500€/an avec remboursement de 50% des frais réels par séance. Cap Vert : Forfait jusqu’à 240€/an avec 40€ de remboursement par séance. April : Forfait jusqu’à 250€/an avec 50€ de remboursement par séance. MFIF : Forfait jusqu’à 450€/an avec 60€ de remboursement par séance CEGEMA: Forfait jusqu’à 150€/an sans autre plafond.</description>
     </item>
