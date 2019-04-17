@@ -1,6 +1,6 @@
 ---
 title: "Intérieur"
-imageLink: ["interior1.jpg", "interior2.jpg"]
+imageLink: ["Interieur-01.jpg"]
 weight: 3
 ---
 
