@@ -1,6 +1,6 @@
 ---
 title: "Système nerveux"
-type: "card"
+type: "carte"
 weight: 2
 ---
 

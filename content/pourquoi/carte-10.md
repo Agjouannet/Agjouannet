@@ -1,6 +1,6 @@
 ---
 title: "Système urinaire"
-type: "card"
+type: "carte"
 weight: 10
 ---
 

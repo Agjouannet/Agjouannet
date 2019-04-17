@@ -1,6 +1,6 @@
 ---
 title: "Fleurs de Bach"
-type: "card"
+type: "carte"
 weight: 11
 ---
 

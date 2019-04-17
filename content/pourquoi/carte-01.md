@@ -1,6 +1,6 @@
 ---
 title: "Système lymphatique"
-type: "card"
+type: "carte"
 weight: 1
 ---
 

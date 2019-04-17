@@ -1,6 +1,6 @@
 ---
 title: "Accompagnement de pathologies lourdes"
-type: "card"
+type: "carte"
 weight: 12
 ---
 

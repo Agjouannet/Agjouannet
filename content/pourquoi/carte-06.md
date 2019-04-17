@@ -1,6 +1,6 @@
 ---
 title: "Système cardio-vasculaire"
-type: "card"
+type: "carte"
 weight: 6
 ---
 

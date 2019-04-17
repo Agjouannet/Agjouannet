@@ -3,7 +3,7 @@
     <div class="container">
       <h1 class="title is-3 text-color-green">Le cabinet de thérapies naturelles</h1>
 
-{{ $items := (where $.Site.RegularPages "Type" "sections") }}
+{{ $items := (where $.Site.RegularPages "Type" "accueil") }}
 
 {{ range $i, $e := $items }}
 {{ partial "section.html" .}}

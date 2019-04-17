@@ -1,6 +1,6 @@
 ---
 title: "Système Locomoteur"
-type: "card"
+type: "carte"
 weight: 3
 ---
 

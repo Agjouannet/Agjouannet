@@ -1,6 +1,6 @@
 ---
 title: "Système organes des sens"
-type: "card"
+type: "carte"
 weight: 7
 ---
 

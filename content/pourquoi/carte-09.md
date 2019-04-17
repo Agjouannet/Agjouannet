@@ -1,6 +1,6 @@
 ---
 title: "Système digestif"
-type: "card"
+type: "carte"
 weight: 9
 ---
 

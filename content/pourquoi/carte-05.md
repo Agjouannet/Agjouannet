@@ -1,6 +1,6 @@
 ---
 title: "Système respiratoire"
-type: "card"
+type: "carte"
 weight: 5
 ---
 

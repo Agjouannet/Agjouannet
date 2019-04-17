@@ -1,6 +1,6 @@
 ---
 title: "Système Génital"
-type: "card"
+type: "carte"
 weight: 8
 ---
 

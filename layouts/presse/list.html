@@ -24,14 +24,14 @@
           <div class="card">
             <div class="card-content">
                 {{ .Content | replaceRE "<p>" "<p class=\"subtitle\">" | safeHTML }}
-              <p>
+              <p class="has-text-centered">
                 {{ range $i, $sequence :=  (seq .Params.stars) }}
                 <span class="icon has-text-warning">
                   <i class="fas fa-star"></i>
                 </span>
                 {{ end }}
               </p>
-              <p class="subtitle">
+              <p class="subtitle has-text-centered">
                 {{ .Params.author }}, {{ .Params.age }}
               </p>
             </div>

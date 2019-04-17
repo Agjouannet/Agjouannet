@@ -1,6 +1,6 @@
 ---
 title: "Système endocrinien"
-type: "card"
+type: "carte"
 weight: 4
 ---
 
