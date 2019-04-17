@@ -1,28 +1,40 @@
-<article class="card">
-    <header class="card__header">
-        <h1 class="card__header__title">
-            <a href="{{ .Permalink }}" class="card__header__link" alt="{{ .Title }}.">
+<div class="column">
+      <div class="blog-timestamp">
+            <span class="icon">
+              <i class="fa fa-clock" aria-hidden="true"></i>
+            </span>
+            <span>lecture de {{ .ReadingTime }} minutes</span>
+      </div>
+        <h1 class="title" style="margin-top:.2em; margin-bottom: .2em;">
+            <a href="{{ .Permalink }}" itemprop="headline" alt="{{ .Title }}.">
                 {{ .Title }}
             </a>
         </h1>
         {{ if ne .Type "page" }}
         {{ if and $.Site.Params.posts.showDate $.Site.Params.posts.showAuthor }}
-        <p class="card__header__date date">
-            {{ dateFormat $.Site.Params.posts.dateFormat .Date }} By {{ $.Params.author }}.
+        <p>
+          <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+            Article publié le {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+          </time>
+          Par
+          <author>
+            {{ $.Params.author }}
+          </author>
         </p>
-        {{ else if $.Site.Params.posts.showDate }}
-        <p class="card__header__date date">{{ dateFormat $.Site.Params.posts.dateFormat .Date }}</p>
-        {{ else if $.Site.Params.posts.showAuthor }}
-        <p class="card__header__author author">By {{ $.Params.author }}.</p>
         {{ end }}
         {{ end }}
-    </header>
 
-    <main class="card__body">
-        {{ .Content | truncate 480 }}
-    </main>
+        {{ if .Description }}
+        <blockquote itemprop="about">{{ .Description }}</blockquote>
+        {{ end }}
+        <div class="content" itemprop="description">
+            {{ .Summary }}
+        </div>
 
-    <footer class="card__footer">
+    <footer style="margin-bottom: 1em;">
         {{ .Render "tags" }}
     </footer>
-</article>
+    <div class="button">
+        <a href="{{ .RelPermalink }}" itemprop="url">Read More…</a>
+    </div>
+</div>

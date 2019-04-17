@@ -3,6 +3,6 @@ title: "Presse"
 description: ""
 draft: false
 menu: main
-weight: 6
+weight: 7
 sitemap_include: true
 ---

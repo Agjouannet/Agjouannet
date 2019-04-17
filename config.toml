@@ -6,7 +6,6 @@ defaultContentLanguage = "fr"
 language = "fr-FR"
 paginate = 3 # Number of posts per page
 
-
 [sitemap]
   filename = "sitemap.xml"
 
@@ -62,7 +61,7 @@ paginate = 3 # Number of posts per page
     showAuthor = true
     showDate = true
     showTags = true
-    dateFormat = "Monday, Jan, 2006"
+    dateFormat = "2 Jan, 2006"
 
 [privacy]
     [privacy.googleAnalytics]
