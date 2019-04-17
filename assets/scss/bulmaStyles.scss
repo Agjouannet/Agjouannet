@@ -11,6 +11,9 @@ $green: #AABC57;
 // Set the derived variables
 $primary: $blue;
 
+//Navbar
+$navbar-breakpoint: 1280px;
+
 // Add new color variables to the color map.
 @import "../../node_modules/bulma/sass/utilities/derived-variables";
 
