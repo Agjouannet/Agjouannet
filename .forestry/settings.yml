@@ -2,11 +2,16 @@
 new_page_extension: md
 auto_deploy: true
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: directory
-  path: content/services
-  label: Services
+  path: content/presse
+  label: Presse
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/therapies
+  label: Therapies
   create: all
   match: "**/*"
 - type: directory
@@ -25,7 +30,7 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/sections
+  path: content/accueil
   label: Accueil
   create: all
   match: "**/*"
