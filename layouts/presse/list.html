@@ -20,7 +20,7 @@
     <div class="container">
       <div class="columns is-multiline has-equal-heights">
         {{ range .Data.Pages.ByWeight }}
-        <div class="column is-one-quarter">
+        <div class="column is-one-third">
           <div class="card">
             <div class="card-content">
                 {{ .Content | replaceRE "<p>" "<p class=\"subtitle\">" | safeHTML }}
