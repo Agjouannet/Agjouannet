@@ -14,6 +14,9 @@ Noindex: /search/
 Noindex: /legal/
 
 
+Disallow: /presse/
+Noindex: /presse/
+
 Disallow: /legal/
 Noindex: /legal/
 
