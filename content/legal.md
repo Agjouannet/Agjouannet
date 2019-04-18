@@ -1,5 +1,6 @@
 ---
 title: "Mentions légales"
+robotsdisallow: true
 draft: false
 ---
 
