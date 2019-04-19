@@ -32,11 +32,6 @@ enableRobotsTXT = "true"
 [params.hero]
     textColor = "" # Empty for default color
 
-[params.cta] # Call To Action
-    show = true
-    cta = "Contact"
-    link = "contact" # Relative URL
-
 [params.separator] # Separators between section on the home page
     show = false
 

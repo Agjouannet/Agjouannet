@@ -7,6 +7,10 @@
 	max-width: 300px;
 }
 
+.hero.video .actions .hr.spacer {
+	color: #fff;
+}
+
 .hero.is-fullheight {
     min-height: calc(100vh - 123px);
 }
