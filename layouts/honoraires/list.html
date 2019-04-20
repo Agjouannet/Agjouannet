@@ -51,6 +51,11 @@
 						</h2>
 						<div class="content subtitle is-4">
 							{{ .Content }}
+							{{ if  .Params.button }}
+							<a class="button is-link" href="/cabinet#contactForm">
+								{{ .Params.button }}
+							</a>
+							{{ end }}
 						</div>
 						<div class="hr spacer is-1"></div>
 						</div>
