@@ -2,6 +2,19 @@
 <main class="content">
 
   <section class="section">
+
+    <div class="container spacer-bottom">
+      <div class="columns is-variable has-equal-heights is-8 is-vcentered">
+        <div class="column is-6">
+          <h1 class="title is-3 text-color-green">Cabinet de thérapies naturelles</h1>
+          <h5 class="subtitle text-color-blue">Conseils et soins en Homéopathie, Aromathérapie, Phytothérapie et Réflexothérapie </h5>
+        </div>
+        <div class="column is-6">
+          {{ partial "cta-btn" . }}
+        </div>
+      </div>
+    </div>
+    
     <div class="container">
 
       {{ range .Data.Pages.ByWeight }}
