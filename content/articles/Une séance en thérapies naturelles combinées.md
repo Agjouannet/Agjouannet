@@ -1,10 +1,10 @@
 +++
 author = "Agnès Jouannet"
-date = "2019-04-16T21:30:56.000+00:00"
+date = "2019-04-22T21:30:56+00:00"
 description = "Comment se déroule une séance au cabinet?"
 draft = true
 images = []
-publishDate = "2019-04-16T21:21:42.000+00:00"
+publishDate = "2019-04-22T21:21:42+00:00"
 tags = ["séance", "thérapies naturelles combinées"]
 title = "Une séance en thérapies naturelles combinées"
 
