@@ -3,21 +3,15 @@ author = "Agnès Jouannet"
 date = "2019-04-22T21:30:56+00:00"
 description = "Comment se déroule une séance au cabinet?"
 images = []
-publishDate = "2019-04-26T21:30:00+00:00"
+publishDate = "2019-04-22T21:30:00+00:00"
 tags = ["séance", "thérapies naturelles combinées"]
 title = "Une séance en thérapies naturelles combinées"
 
 +++
-#### Les pratiques naturelles ne sont actuellement pas prises en charge par la sécurité sociale. Néanmoins, de plus en plus de mutuelles remèdes en thérapies naturelles.
+Une séance pour adulte dure environ **_1h-1h30_**. Chaque séance commence par une **_anamnèse_**, recueil des informations concernant les demandes du bénéficiaire, pendant laquelle nous établissons ensemble vos besoins et voyons les progrès accomplis depuis le début de la prise en charge.
 
-Voici quelques mutuelles:
+Ensuite vous pourrez profiter d’un soin en **_phytothérapie_**, réalisé avec des produits naturels “faits maison”: selon les cas il peut s’agir du massage d’une zone douloureuse avec un complexe d’huiles végétales et essentielles, d’un cataplasme de plantes, de l’application d’un onguent, baume ou crème...
 
-* Asetys: Forfait jusqu'à 500 € / 50% de frais réels par séance.
-* Cap Vert: Forfait jusqu'à 240 € / an avec 40 € de remboursement par séance.
-* Avril: Forfait jusqu'à 250 € / an avec 50 € de remboursement par séance.
-* MFIF: Forfait jusqu'à 450 € / an avec 60 € de remboursement par séance
-* CEGEMA: Forfait jusqu'à 150 € / an sans autre plafond.
+Après cela vous serez installés confortablement sur la table de massage et pourrez vous **_relaxer_** pendant l’établissement d’un **_plan thérapeutique spécialement conçu_** pour **_vos besoins_**. Le soin de **_réflexothérapie_** dure environ 30 à 40 minutes.
 
-Et aussi: ECA, Dolce MEDICA Santé Plus, CAP ASSUR (gamme CAP VERT), BIO SANTE, IPSELIA - Mutualité sud-ouest, la BOETIE, La compagnie des femmes, Mutuelle Dijonnaise, Mutuelle générale de Paris, Mutuelle des Pays de Vilaine, Mutuelle du Rempart, Mutuelle verte (Oxygène), MYRIADE Mutuelle, NOVIA Mutuelle, REUNICA Mutuelle, SMIP Mutuelle Rhône-Alpes, Groupe ASSUREMA / Contrat Vie Verte, CCMO partenaire GICARE, Crédit Mutuel / Contrat Réflexe Prévention, cabinet Assurance SAFEWAY / Mutuelle BIO SANTE , MTRL (Lyon), PREVADIES, SAS GROUPE ASSUREMA (groupe de courtage Sphinx) ... Pour en savoir plus: naturopathie, réflexothérapie.
-
-Si c'est le cas, il vous suffira après les factures. Vous êtes libéré sur demande après le soin. Voici un modèle de lettre pour obtenir le remboursement auprès de votre mutuelle: [modèle de demande](https://www.lesfurets.com/mutuelle-sante/documents-utiles/demande-remboursement-soins-mutuelle)
+Enfin nous ferons le point ensemble sur **_les améliorations ressenties_**, une boisson chaude pourra vous être proposée, et nous établirons une stratégie contre les maux qui détériorent votre quotidien. Vous repartirez reposés et nantis d’une **_fiche conseil complète en homéopathie, aromathérapie et phytothérapie_** avec des auto-stimulations réflexes à pratiquer vous-même.
