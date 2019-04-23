@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Cabinet de thérapies naturelles</title>
-    <link>/articles/</link>
-    <description>Recent content in Blog on Cabinet de thérapies naturelles</description>
+    <title>Séance on Cabinet de thérapies naturelles</title>
+    <link>/tags/s%C3%A9ance/</link>
+    <description>Recent content in Séance on Cabinet de thérapies naturelles</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 22 Apr 2019 21:30:56 +0000</lastBuildDate>
     
-	<atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/s%C3%A9ance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       <guid>/articles/une-s%C3%A9ance-en-th%C3%A9rapies-naturelles-combin%C3%A9es/</guid>
       <description>Une séance pour adulte dure environ 1h-1h30. Chaque séance commence par une anamnèse, recueil des informations concernant les demandes du bénéficiaire, pendant laquelle nous établissons ensemble vos besoins et voyons les progrès accomplis depuis le début de la prise en charge.
 Ensuite vous pourrez profiter d’un soin en phytothérapie, réalisé avec des produits naturels “faits maison”: selon les cas il peut s’agir du massage d’une zone douloureuse avec un complexe d’huiles végétales et essentielles, d’un cataplasme de plantes, de l’application d’un onguent, baume ou crème&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Comment être remboursé par ma mutuelle</title>
-      <link>/articles/remboursement/</link>
-      <pubDate>Tue, 16 Apr 2019 21:30:56 +0000</pubDate>
-      
-      <guid>/articles/remboursement/</guid>
-      <description>Les pratiques naturelles ne sont actuellement pas prises en charge par la sécurité sociale. Néanmoins, de plus en plus de mutuelles remèdes en thérapies naturelles. Voici quelques mutuelles:
- Asetys: Forfait jusqu&amp;rsquo;à 500 € / 50% de frais réels par séance. Cap Vert: Forfait jusqu&amp;rsquo;à 240 € / an avec 40 € de remboursement par séance. Avril: Forfait jusqu&amp;rsquo;à 250 € / an avec 50 € de remboursement par séance.</description>
     </item>
     
   </channel>
