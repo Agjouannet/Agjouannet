@@ -2,7 +2,6 @@
 author = "Agnès Jouannet"
 date = "2019-04-22T21:30:56+00:00"
 description = "Comment se déroule une séance au cabinet?"
-images = []
 publishDate = "2019-04-22T21:30:00+00:00"
 tags = ["séance", "thérapies naturelles combinées"]
 title = "Une séance en thérapies naturelles combinées"

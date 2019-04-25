@@ -5,7 +5,6 @@ description: Possibilités de remboursement des thérapies naturelles, et explic
 date: 2019-04-16 21:30:56 +0000
 publishDate: 2019-04-16 21:21:42 +0000
 author: Agnès Jouannet
-images: []
 tags:
 - remboursement
 - mutuelle
