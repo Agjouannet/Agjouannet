@@ -14,3 +14,5 @@ Ensuite vous pourrez profiter d’un soin en **_phytothérapie_**, réalisé ave
 Après cela vous serez installés confortablement sur la table de massage et pourrez vous **_relaxer_** pendant l’établissement d’un **_plan thérapeutique spécialement conçu_** pour **_vos besoins_**. Le soin de **_réflexothérapie_** dure environ 30 à 40 minutes.
 
 Enfin nous ferons le point ensemble sur **_les améliorations ressenties_**, une boisson chaude pourra vous être proposée, et nous établirons une stratégie contre les maux qui détériorent votre quotidien. Vous repartirez reposés et nantis d’une **_fiche conseil complète en homéopathie, aromathérapie et phytothérapie_** avec des auto-stimulations réflexes à pratiquer vous-même.
+
+![](/combinée.png)
