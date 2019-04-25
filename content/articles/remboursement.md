@@ -13,6 +13,8 @@ tags:
 ---
 #### Les pratiques naturelles ne sont actuellement pas prises en charge par la sécurité sociale. Néanmoins, de DE PLUS EN PLUS DE MUTUELLES REMBOURSENT les séances en thérapies naturelles.
 
+![](/uploads/mutuelle.png)
+
 Voici quelques mutuelles:
 
 * Asetys: Forfait jusqu’à 500€/an avec remboursement de 50% des frais réels par séance.
@@ -21,7 +23,7 @@ Voici quelques mutuelles:
 * MFIF : Forfait jusqu’à 450€/an avec 60€ de remboursement par séance
 * CEGEMA: Forfait jusqu’à 150€/an sans autre plafond.
 
-Et aussi : ECA, Dolce MEDICA Santé Plus, CAP ASSUR (gamme CAP VERT), BIO SANTE, IPSELIA – Sud-ouest mutualité, la BOETIE, La compagnie des femmes, Mutuelle Dijonnaise, mutuelle générale de Paris, Mutuelle des Pays de Vilaine, Mutuelle du Rempart, mutuelle verte (gamme nature Oxygène), MYRIADE Mutuelle, NOVIA Mutuelle, REUNICA Mutuelle, SMIP Rhône Alpes Mutuelle, Groupe ASSUREMA / Contrat Vie Verte, CCMO partenaire GICARE, crédit mutuel / Contrat Réflexe Prévention, cabinet d’assurance SAFEWAY / Mutuelle BIO SANTE, MTRL (Lyon), PREVADIES, S.A.S. GROUPE ASSUREMA (groupe de courtage Sphinx). 
+Et aussi : ECA, Dolce MEDICA Santé Plus, CAP ASSUR (gamme CAP VERT), BIO SANTE, IPSELIA – Sud-ouest mutualité, la BOETIE, La compagnie des femmes, Mutuelle Dijonnaise, mutuelle générale de Paris, Mutuelle des Pays de Vilaine, Mutuelle du Rempart, mutuelle verte (gamme nature Oxygène), MYRIADE Mutuelle, NOVIA Mutuelle, REUNICA Mutuelle, SMIP Rhône Alpes Mutuelle, Groupe ASSUREMA / Contrat Vie Verte, CCMO partenaire GICARE, crédit mutuel / Contrat Réflexe Prévention, cabinet d’assurance SAFEWAY / Mutuelle BIO SANTE, MTRL (Lyon), PREVADIES, S.A.S. GROUPE ASSUREMA (groupe de courtage Sphinx).
 
 Le mieux est de vous renseigner directement auprès de votre mutuelle, pour savoir si elle prend en charge ce type de soin: naturopathie, réflexothérapie.
 
