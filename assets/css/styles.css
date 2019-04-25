@@ -54,3 +54,8 @@ a.text-color-green:hover {
   display: flex;
   align-items: center;
 }
+
+.blog-post img {
+	display: block;
+	margin: auto;
+}

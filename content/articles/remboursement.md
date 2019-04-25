@@ -13,7 +13,7 @@ tags:
 ---
 #### Les pratiques naturelles ne sont actuellement pas prises en charge par la sécurité sociale. Néanmoins, de DE PLUS EN PLUS DE MUTUELLES REMBOURSENT les séances en thérapies naturelles.
 
-![](/uploads/mutuelle.png)
+![](/mutuelle.png)
 
 Voici quelques mutuelles:
 
