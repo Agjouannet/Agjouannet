@@ -9,6 +9,7 @@ images: []
 tags:
 - remboursement
 - mutuelle
+draft: true
 
 ---
 #### Les pratiques naturelles ne sont actuellement pas prises en charge par la sécurité sociale. Néanmoins, de plus en plus de mutuelles remèdes en thérapies naturelles.
