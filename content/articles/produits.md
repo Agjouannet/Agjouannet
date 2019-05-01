@@ -19,9 +19,8 @@ Le cabinet de thérapies naturelles met donc à votre disposition un **stock de 
 
 Nous vous proposons uniquement de rembourser les matières premières ayant servies à l’élaboration de votre produit: aucun profit n’est réalisé par le cabinet, nous servons simplement d’intermédiaire pour vous éviter d’avoir à rechercher des herboristeries et des pharmacies pour trouver les produits conseillés!
 
-Parce que votre satisfaction est notre priorité, partagez votre expérience sur nos produits via ce lien: [Donnez votre Avis](https://www.google.com/search?hl=fr-FR&gl=fr&q=Cabinet+de+th%C3%A9rapies+naturelles,+500+Route+de+Clisson,+44120+Vertou&ludocid=10753520657052998457#lrd=0x4805e934f2e364d3:0x953c2e1020781b39,3)
+_Parce que votre satisfaction est notre priorité, partagez votre expérience sur nos produits via ce lien:_ [_Donnez votre Avis_](https://www.google.com/search?hl=fr-FR&gl=fr&q=Cabinet+de+th%C3%A9rapies+naturelles,+500+Route+de+Clisson,+44120+Vertou&ludocid=10753520657052998457#lrd=0x4805e934f2e364d3:0x953c2e1020781b39,3)
 
-  
 Rien ne vous oblige à vous fournir au cabinet. La plupart des produits que nous réalisons (crèmes/onguents/baumes/complexes) sont uniques car chaque recette est adapté en fonction des besoins de son destinataire (du sur-mesure en phytothérapie), vous ne pourrez donc pas les trouver dans le commerce. En revanche nous pourrons vous conseiller des produits approchants, avec les mêmes ingrédients principaux. Vous pouvez aussi vous fournir en plante dans des herboristeries.
 
 Nous avons sélectionné pour vous des fournisseurs de qualité dont voici une liste non exhaustive. Ces fournisseurs ont étés choisis pour leur professionnalisme, leur honnêteté et la qualité des produits que nous avons testés chez eux.
