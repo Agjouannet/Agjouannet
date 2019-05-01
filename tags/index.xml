@@ -5,10 +5,19 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Cabinet de thérapies naturelles</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 16 Apr 2019 21:30:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2019 19:30:56 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Conseils</title>
+      <link>/tags/conseils/</link>
+      <pubDate>Wed, 01 May 2019 19:30:56 +0000</pubDate>
+      
+      <guid>/tags/conseils/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mutuelle</title>
@@ -31,7 +40,7 @@
     <item>
       <title>Séance</title>
       <link>/tags/s%C3%A9ance/</link>
-      <pubDate>Mon, 22 Apr 2019 21:30:56 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 19:30:56 +0000</pubDate>
       
       <guid>/tags/s%C3%A9ance/</guid>
       <description></description>
@@ -40,7 +49,7 @@
     <item>
       <title>Thérapies Naturelles Combinées</title>
       <link>/tags/th%C3%A9rapies-naturelles-combin%C3%A9es/</link>
-      <pubDate>Mon, 22 Apr 2019 21:30:56 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 19:30:56 +0000</pubDate>
       
       <guid>/tags/th%C3%A9rapies-naturelles-combin%C3%A9es/</guid>
       <description></description>
