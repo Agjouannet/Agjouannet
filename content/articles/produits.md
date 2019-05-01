@@ -7,7 +7,7 @@ tags = ["thérapies naturelles combinées", "séance", "conseils"]
 title = "Des produits uniques  au service de votre santé "
 
 +++
-Comme nous sommes nous sommes allés poser toutes ces questions et nous avons effectué un travail de recherche pour vous:
+Comme nous sommes allés poser toutes ces questions et nous avons effectué un travail de recherche pour vous:
 
 * **Des plantes et des matières premières de qualité** , cultivées en France / Allemagne / Suisse, agriculture biologique ou de cultures sauvages.
 * **Des produits naturels et efficaces** , dont tous les composants sont connus et de qualité.
