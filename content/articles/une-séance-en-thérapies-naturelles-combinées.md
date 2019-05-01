@@ -25,7 +25,7 @@ Rien ne vous oblige à vous fournir au cabinet. La plupart des produits que nous
 
 Nous avons sélectionné pour les fournisseurs de qualité dont voici une liste non exhaustive. Ces fournisseurs ont été choisis pour leur professionnalisme, leur honnêteté et la qualité de leurs produits que nous avons testés chez eux.
 
-**Nos fournisseurs** (cette liste regroupe les fournisseurs que nous avons testés et qui nous approvisionnons régulièrement):
+**Nos fournisseurs** (this list regroupe les fournisseurs que nous avons testés et qui nous approvisionnons régulièrement):
 
 Herboristerie Moderne / Yves Moreau: [BIO ou de cultures sauvages](https://www.herboristerie-moderne.fr/tisanes-infusions/plantes-simples/a/)
 
