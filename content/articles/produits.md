@@ -19,7 +19,7 @@ Le cabinet de thérapies naturelles a été **stocké avec les plantes** acheté
 
 Nous sommes contentés de rembourser les matières premières ayant servi à votre produit: aucun profit n'est réalisé par le cabinet, nous servons simplement pour nous permettre de courir les herboristeries et les pharmacies à la recherche des produits conseillés!
 
-_Parce que votre satisfaction est notre priorité, partagez votre expérience sur nos produits via ce lien:_   [_Donnez votre avis_](https://www.google.com/search?hl=fr-FR&gl=fr&q=Cabinet+de+th%C3%A9rapies+naturelles,+500+Route+de+Clisson,+44120+Vertou&ludocid=10753520657052998457#lrd=0x4805e934f2e364d3:0x953c2e1020781b39,3)
+_Parce que votre satisfaction est notre priorité, partagez votre expérience sur nos produits via ce lien:_      [_Donnez votre avis_](https://www.google.com/search?hl=fr-FR&gl=fr&q=Cabinet+de+th%C3%A9rapies+naturelles,+500+Route+de+Clisson,+44120+Vertou&ludocid=10753520657052998457#lrd=0x4805e934f2e364d3:0x953c2e1020781b39,3)
 
 Rien ne vous oblige à vous fournir au cabinet. La plupart des produits que nous réalisons (crèmes / onguents / baumes / complexes) sont uniques en voiture, chaque fois que vous avez besoin (vous sur mesure en phytothérapie), vous ne pouvez pas trouver dans le commerce. En revanche, nous vous conseillons des produits approchants, avec les mêmes ingrédients principaux. Vous pouvez aussi fournir des plantes dans les herboristeries.
 
