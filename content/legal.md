@@ -1,13 +1,14 @@
 ---
-title: "Mentions légales"
+title: Mentions légales
 robotsdisallow: true
-draft: false
----
 
+---
 **Conception et réalisation du site:** l’équipe technique des US
 
 **Construit avec:** [HUGO](https://gohugo.io/)
 **Hébergement:** [GitHub Pages](https://pages.github.com/)
+
+**Numéro de Siret**: 849 157 946 00013
 
 **Conception graphique et logo** (conceptualisation, réalisation sur support papier et informatisation): Agnès Jouannet. Date de création du logo: Juin 2015. Inspiré par le motif celtique du noeud de la Trinité, que l’on retrouve dans le livre de Kells. Choix des couleurs représentant la philosophie de l’entreprise: bleu (ciel,océan/sagesse, sérénité, rêve) et vert (Nature/espérance, concentration, stabilité).
 œuvre protégée au sens de l’article L. 112-2 – 8° du Code la propriété intellectuelle (CPI) : « Sont considérés notamment comme œuvres de l’esprit au sens du présent code : (…) 8° Les œuvres graphiques et typographiques ». Par ailleurs, l’article L. 111-1 du CPI prévoit que «l’auteur d’une œuvre de l’esprit jouit sur cette œuvre, du seul fait de sa création, d’un droit de propriété incorporelle exclusif et opposable à tous».
