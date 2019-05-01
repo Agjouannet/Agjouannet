@@ -17,7 +17,7 @@ Le cabinet de thérapies naturelles met donc à votre disposition un **stock de 
 
 ![Pommade à l'arnica, onguent réparateur pour les allergies cutanées, plantes en vrac: Pissenlit, Pâquerettes et Framboisier.](/IMG_0729.JPG "Ci-dessus:")
 
-Nous vous proposons uniquement de rembourser les matières premières ayant servies à l’élaboration de votre produit: aucun profit n’est réalisé par le cabinet, nous servons simplement d’intermédiaire pour vous éviter d’avoir à courir les herboristeries et les pharmacies à la recherche des produits conseillés!
+Nous vous proposons uniquement de rembourser les matières premières ayant servies à l’élaboration de votre produit: aucun profit n’est réalisé par le cabinet, nous servons simplement d’intermédiaire pour vous éviter d’avoir à rechercher des herboristeries et des pharmacies pour trouver les produits conseillés!
 
 Parce que votre satisfaction est notre priorité, partagez votre expérience sur nos produits via ce lien: [Donnez votre Avis](https://www.google.com/search?hl=fr-FR&gl=fr&q=Cabinet+de+th%C3%A9rapies+naturelles,+500+Route+de+Clisson,+44120+Vertou&ludocid=10753520657052998457#lrd=0x4805e934f2e364d3:0x953c2e1020781b39,3)
 
