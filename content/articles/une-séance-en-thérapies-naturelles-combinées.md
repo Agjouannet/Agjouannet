@@ -1,19 +1,26 @@
 +++
 author = "Agnès Jouannet"
-date = "2019-04-22T21:30:56+00:00"
-description = "Comment se déroule une séance au cabinet?"
-draft = true
-publishDate = "2019-04-22T21:30:00+00:00"
-tags = ["séance", "thérapies naturelles combinées"]
-title = "Une séance en thérapies naturelles combinées"
+date = "2019-05-02T21:30:56+00:00"
+description = "Stop au gâchis! Le cabinet de thérapies naturelles récupère vos contenants vides pour ses préparations. "
+publishDate = "2019-05-02T21:30:00+00:00"
+tags = ["Recyclage ", "Produits du Cabinet"]
+title = "Aidez-nous à protéger la nature!"
 
 +++
-Une séance pour adulte dure environ **_1h-1h30_**. Chaque séance commence par une **_anamnèse_**, recueil des informations concernant les demandes du bénéficiaire, pendant laquelle nous établissons ensemble vos besoins et voyons les progrès accomplis depuis le début de la prise en charge.
+Arrêtez au gâchis! Le cabinet de thérapies naturelles récupère:
 
-Ensuite vous pourrez profiter d’un soin en **_phytothérapie_**, réalisé avec des produits naturels “faits maison”: selon les cas il peut s’agir du massage d’une zone douloureuse avec un complexe d’huiles végétales et essentielles, d’un cataplasme de plantes, de l’application d’un onguent, baume ou crème...
+\-> _Vos bouteilles et flacons en verre ambré_ (100ml à 1L5),
 
-Après cela vous serez installés confortablement sur la table de massage et pourrez vous **_relaxer_** pendant l’établissement d’un **_plan thérapeutique spécialement conçu_** pour **_vos besoins_**. Le soin de **_réflexothérapie_** dure environ 30 à 40 minutes.
+\-> _Vos bouteilles en verre hermétiques_ (500ml à 1L5)
 
-Enfin nous ferons le point ensemble sur **_les améliorations ressenties_**, une boisson chaude pourra vous être proposée, et nous établirons une stratégie contre les maux qui détériorent votre quotidien. Vous repartirez reposés et nantis d’une **_fiche conseil complète en homéopathie, aromathérapie et phytothérapie_** avec des auto-stimulations réflexes à pratiquer vous-même.
+\-> _Vos pots de cosmétiques_ (Yves Rocher etc, 50g, 75g, 100g…)
 
-![](/combinée.png)
+![](/pots lush.jpg)![](/images (2).jpg)![](/images.jpg)![](/bocal_pot_en_verre_herm_tique_anneau_en_silicone_ideal_yaourt_pas_cher_1000.jpg)
+
+Nous n'acceptons que des contenants VIDES, à FERMETURE HERMÉTIQUE, et uniquement des bouteilles en VERRE, pour contenir les crèmes, des onguents, des baumes, des huiles végétales, des macérats et des teintures qui serviront à vos soins. Tous les contenants seront stérilisés avant l'utilisation mais nous vous remercions de nous fournir PROPRES.
+
+Pour 10 pots déposés au cabinet, 500 route de Clisson à Vertou (me contacter pour prévoir le jour et l’heure de dépôt), **nous vous offrons un pot de crème/onguent ou autre (selon votre besoin).**
+
+Nous récupérons également les _pots de compote_ "Nestlé Naturnes", pour 8 pots VIDES et PROPRES déposés au cabinet (me contacter pour prévoir le jour et l’heure de dépôt), **nous vous offrons un pot de pâte à modeler naturelle**.
+
+![](/ob_491864_nestle-naturnes-compotes-bio-sans-sucr.jpg)
