@@ -1,11 +1,6 @@
 ---
 title: Pourquoi consulter?
-description: ''
-images: []
+menu: main
 weight: 3
 sitemap_include: true
-menu:
-  main:
-    weight: 6
-
 ---

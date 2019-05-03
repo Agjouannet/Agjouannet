@@ -1,11 +1,6 @@
 ---
 title: Blog
-description: ''
-images: []
+menu: main
 weight: 6
 sitemap_include: true
-menu:
-  main:
-    weight: 1
-
 ---

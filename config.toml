@@ -10,37 +10,27 @@ title = "Cabinet de thérapies naturelles"
 [outputs]
 home = ["HTML", "RSS"]
 page = ["HTML", "RSS"]
+
 [params]
 BaseMapURL = "https://thenat.services"
 description = "Conseils et soins en Homéopathie, Aromathérapie, Phytothérapie et Réflexothérapie. Découvrez une entreprise basée sur le service et la confiance, dans une approche holistique du bénéficiaire. Le cabinet de thérapies naturelles met tout en oeuvre pour vous faciliter l'accès aux soins par des méthodes innovantes."
 favicon = "favicon/favicon.ico"
 keywords = ["thenat", "thenat.services", "thenat services", "thenat services Vertou", "Conseils et soins sur Vertou", "Agnès Jouannet", "Cabinet de thérapies naturelles", "Cabinet de thérapies", "Cabinet de thérapie", "Consultation", "Conseils", "soins", "naturel", "naturopathie", "Homéopathie", "Aromathérapie", "Phytothérapie", "Réflexothérapie", "détente et relaxation", "massages d'huiles essentielles", "tisanes aux plantes", "soins et auto-stimulations en réflexothérapie combinée", "conseils/soins en aroma-phyto/consultation homéopathie", "Détente et amélioration qualité de vie Nantes environs"]
 logo = "img/logo/logo.png"
+
 [params.fa]
 integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
 version = "5.7.2"
-[params.form]
-action = "https://formspree.io/your@email.com"
-inputEmailLabel = "Email"
-inputEmailName = "email"
-inputEmailPlaceholder = "Your email"
-inputMsgLabel = "Write something"
-inputMsgLength = 750
-inputMsgName = "message"
-inputNameLabel = "Name"
-inputNameName = "name"
-inputNamePlaceholder = "Your name"
-inputSubmitValue = "Send"
-method = "POST"
-[params.hero]
-textColor = ""
+
 [params.posts]
 dateFormat = "2 Jan, 2006"
 showAuthor = true
 showDate = true
 showTags = true
+
 [params.separator]
 show = false
+
 [privacy.googleAnalytics]
 anonymizeIP = true
 disable = false
@@ -54,5 +44,6 @@ disable = true
 disable = true
 [privacy.youtube]
 disable = true
+
 [sitemap]
 filename = "sitemap.xml"
