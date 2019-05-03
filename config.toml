@@ -6,10 +6,7 @@ googleAnalytics = "UA-137241674-1"
 language = "fr-FR"
 paginate = 3
 title = "Cabinet de thérapies naturelles"
-[[menu.main]]
-name = "Accueil"
-url = "<iframe width=\"540\" height=\"305\" src=\"https://sibforms.com/serve/MUIEAE0N7VTHAJJEDGMBh0PjHLP1vO1M5QS2BSlvnL0a6vq-T7TuDBYY5Q4BTFK-PJAnBwbZkvVMWpDRv9TFbAlVAajkuek73thdUH9tcnmWV8IKSOs0BaTf4RFjRAKuY4vEOB5m29IZOGK-KVEXaujCFG_pUAQGmCsMobj8eljDuruzxlMXokB7lqnv1dB_EVThlodCp8dWYypg\" frameborder=\"0\" scrolling=\"auto\" allowfullscreen style=\"display: block;margin-left: auto;margin-right: auto;max-width: 100%;\"></iframe>"
-weight = 4
+
 [outputs]
 home = ["HTML", "RSS"]
 page = ["HTML", "RSS"]
