@@ -3,20 +3,20 @@ label: Article
 hide_body: false
 fields:
 - type: text
-  name: author
-  label: author
-- type: datetime
-  label: date
-  name: date
+  name: title
+  label: title
 - type: text
   name: description
   label: description
 - type: datetime
+  label: date
+  name: date
+- type: datetime
   name: publishdate
   label: publishDate
+- type: text
+  name: author
+  label: author
 - type: tag_list
   name: tags
   label: tags
-- type: text
-  name: title
-  label: title
