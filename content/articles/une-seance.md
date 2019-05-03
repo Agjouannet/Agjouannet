@@ -1,5 +1,5 @@
 +++
-author = "Agnès Jouannet"
+author = "Cabinet de thérapies naturelles"
 date = "2019-04-22T21:30:56+00:00"
 description = "Comment se déroule une séance au cabinet?"
 publishDate = "2019-04-22T21:30:00+00:00"
@@ -7,12 +7,12 @@ tags = ["séance", "thérapies naturelles combinées"]
 title = "Une séance en thérapies naturelles combinées"
 
 +++
-Une séance pour adulte dure environ **_1h-1h30_**. Chaque séance commence par une **_anamnèse_**, recueil des informations concernant les demandes du bénéficiaire, pendant laquelle nous établissons ensemble vos besoins et voyons les progrès accomplis depuis le début de la prise en charge.
+Une séance pour adulte dure environ **_1h-1h30_** . Chaque séance commence par une **_anamnèse_** , recueil d'informations sur les demandes du bénéficiaire, pendant que vous établissez vos besoins et voyons le progrès accompli depuis le début de la prise en charge.
 
-Ensuite vous pourrez profiter d’un soin en **_phytothérapie_**, réalisé avec des produits naturels “faits maison”: selon les cas il peut s’agir du massage d’une zone douloureuse avec un complexe d’huiles végétales et essentielles, d’un cataplasme de plantes, de l’application d’un onguent, baume ou crème...
+Vous pourrez salle de bains d'un en soin Profiter **_phytothérapie_** , réalisé avec des produits naturels «maison Faits»: LES CAS il s'agir du massage mai d'un espace d'Végétales et juin Essentielles Avec Douloureuse Complexe SELON Huiles, d » un cataplasme de plantes, l'application d'un onguent, baume ou crème ...
 
-Après cela vous serez installés confortablement sur la table de massage et pourrez vous **_relaxer_** pendant l’établissement d’un **_plan thérapeutique spécialement conçu_** pour **_vos besoins_**. Le soin de **_réflexothérapie_** dure environ 30 à 40 minutes.
+Vous êtes après une séance de confort sur la table de massage en vous-même. ÊTRE **_Train de commandant_** un pendentif **_Défi_** INSTANT, l'ONU **_Projet de projet designed Dermatologie_** Verser Verser **_Besoin de_** . Le soin de **_réflexothérapie_** dure environ 30 à 40 minutes.
 
-Enfin nous ferons le point ensemble sur **_les améliorations ressenties_**, une boisson chaude pourra vous être proposée, et nous établirons une stratégie contre les maux qui détériorent votre quotidien. Vous repartirez reposés et nantis d’une **_fiche conseil complète en homéopathie, aromathérapie et phytothérapie_** avec des auto-stimulations réflexes à pratiquer vous-même.
+Sur les ferons enfin sur le film **_AMELIORATIONS_** , nous pouvons être proposés, et nous établissons contre une stratégie. Vous repartirez repose et nantis de **_fiche_** complète **_en homéopathie, aromathérapie et phytothérapie_** à auto-stimulation avec play-vous-même.
 
 ![](/combinée.png)
