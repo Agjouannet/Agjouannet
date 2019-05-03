@@ -19,6 +19,10 @@
 	justify-content: flex-end;
 }
 
+#subscribeForm {
+	 height: 860px;
+}
+
 @media only screen and (max-width: 1024px) {
 
 }
@@ -70,6 +74,8 @@
 
 }
 
-@media only screen and (max-width: 340px) {
-
+@media only screen and (max-width: 440px) {
+	#subscribeForm {
+		 height: 1020px;
+	}
 }
