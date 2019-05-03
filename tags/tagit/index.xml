@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tagit on Cabinet de thérapies naturelles</title>
+    <link>/tags/tagit/</link>
+    <description>Recent content in Tagit on Cabinet de thérapies naturelles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 03 May 2019 04:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tagit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New article</title>
+      <link>/articles/new-article/</link>
+      <pubDate>Fri, 03 May 2019 04:00:00 +0000</pubDate>
+      
+      <guid>/articles/new-article/</guid>
+      <description>Test this out
+If this works</description>
+    </item>
+    
+  </channel>
+</rss>
