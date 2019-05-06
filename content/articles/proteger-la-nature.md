@@ -7,7 +7,7 @@ tags = ["Recyclage ", "Produits du Cabinet"]
 title = "Aidez-nous à protéger la nature!"
 
 +++
-Arrêtez au gâchis! Le cabinet de thérapies naturelles récupère:
+Stop au gâchis! Le cabinet de thérapies naturelles récupère:
 
 \-> Vos bouteilles et flacons en verre ambré type sirop pharmaceutique (100ml à 250ml)
 
