@@ -19,8 +19,12 @@ title = "La pharmacie homéopathique des enfants"
 
 **Chamomilla:** pour soulager bébé lors de ses poussées dentaire: 3grs de 1000k une ou deux prises suffisent.
 
-**Cocculus indicus** en granules 9ch ou **Cocculine** en comprimés**:** contre le mal des transports: à prendre la veille et avant le départ en prévention, et lors du voyage si les symptômes apparaissent.
+**Cocculus indicus** en granules 9ch ou **Cocculine** en comprimés: contre le mal des transports: à prendre la veille et avant le départ en prévention, et lors du voyage si les symptômes apparaissent.
 
-**Passiflora composé:** pour aider un bébé nerveux à dormir. (Contient: Passiflora incarnata 3 DH, Ignatia amara 4 CH, Coffea cruda 5 CH, Nycterinia capensis 4 CH, Tellurium metallicum 5 CH, Phosphoricum acidum 7 CH ,Palladium metallicum 5 CH, Magnesium metallicum 5 CH) 5grs 3x/j ou 3 comprimés par jour. 
+**Passiflora composé:** pour aider un bébé nerveux à dormir. (Contient: Passiflora incarnata 3 DH, Ignatia amara 4 CH, Coffea cruda 5 CH, Nycterinia capensis 4 CH, Tellurium metallicum 5 CH, Phosphoricum acidum 7 CH ,Palladium metallicum 5 CH, Magnesium metallicum 5 CH) 5grs 3x/j ou 3 comprimés par jour.
 
-**Stramonium:** pour les enfants qui font des cauchemars ou des terreurs nocturnes: 5grs de 15ch au coucher 4 soirs de suite. 
+**Stramonium:** pour les enfants qui font des cauchemars ou des terreurs nocturnes: 5grs de 15ch au coucher 4 soirs de suite.
+
+POUR MAINTENIR LE REMBOURSEMENT DE L’HOMÉOPATHIE, SIGNEZ ET PARTAGEZ LA PÉTITION: [https://www.monhomeomonchoix.fr/](https://www.monhomeomonchoix.fr/ "Signez et partagez la pétition!")
+
+![](/images-1.jpg)
