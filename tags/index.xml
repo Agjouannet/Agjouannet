@@ -5,7 +5,7 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Cabinet de thérapies naturelles</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 May 2019 19:30:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2019 22:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,9 +13,18 @@
     <item>
       <title>Conseils</title>
       <link>/tags/conseils/</link>
-      <pubDate>Wed, 01 May 2019 19:30:56 +0000</pubDate>
+      <pubDate>Sun, 05 May 2019 22:00:00 +0000</pubDate>
       
       <guid>/tags/conseils/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homéopathie</title>
+      <link>/tags/hom%C3%A9opathie/</link>
+      <pubDate>Sun, 05 May 2019 22:00:00 +0000</pubDate>
+      
+      <guid>/tags/hom%C3%A9opathie/</guid>
       <description></description>
     </item>
     
