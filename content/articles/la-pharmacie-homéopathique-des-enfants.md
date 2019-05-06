@@ -25,6 +25,6 @@ title = "La pharmacie homéopathique des enfants"
 
 **Stramonium:** pour les enfants qui font des cauchemars ou des terreurs nocturnes: 5grs de 15ch au coucher 4 soirs de suite.
 
-POUR MAINTENIR LE REMBOURSEMENT DE L’HOMÉOPATHIE, SIGNEZ ET PARTAGEZ LA PÉTITION: [https://www.monhomeomonchoix.fr/](https://www.monhomeomonchoix.fr/ "Signez et partagez la pétition!")
+POUR MAINTENIR LE REMBOURSEMENT DE L’HOMÉOPATHIE, SIGNEZ ET PARTAGEZ LA PÉTITION: [https://www.monhomeomonchoix.fr/](https://www.monhomeomonchoix.fr/ "Signez et partagez la pétition!") 
 
 ![](/images-1.jpg)
