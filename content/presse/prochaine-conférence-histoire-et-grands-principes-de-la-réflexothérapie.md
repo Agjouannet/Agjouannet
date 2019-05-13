@@ -7,7 +7,7 @@ tags = ["Conférence", "actualités"]
 title = "Prochaine conférence: Histoire et grands principes de la réflexothérapie"
 
 +++
-Le cabinet de thérapies naturelles vous accueille le samedi 6 Juillet 2019 pour sa première conférence: **Histoire et grands principes de la réflexothérapie**.
+Le cabinet de thérapies naturelles vous accueille le **samedi 6 Juillet 2019** pour sa première conférence: **Histoire et grands principes de la réflexothérapie**.
 
 Nous retracerons pour vous l'_évolution de la pratique de stimulation réflexe_ au cours du temps, et nous verrons _ses grands principes de fonctionnement_. Nous aborderons également les _différences entre réflexologie et réflexothérapie_, cette dernière étant la technique pratiquée au cabinet.
 
