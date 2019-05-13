@@ -1,0 +1,20 @@
++++
+author = "Cabinet de thérapies naturelles"
+date = "2019-05-12T22:00:00+00:00"
+description = "Le 6 Juillet 2019 au cabinet 500 route de Clisson."
+publishdate = "2019-05-12T22:00:00+00:00"
+tags = ["Conférence", "actualités"]
+title = "Prochaine conférence: Histoire et grands principes de la réflexothérapie"
+
++++
+Le cabinet de thérapies naturelles vous accueille le samedi 6 Juillet 2019 pour sa première conférence: **Histoire et grands principes de la réflexothérapie**. 
+
+Nous retracerons pour vous l'_évolution de la pratique de stimulation réflexe_ au cours du temps, et nous verrons _ses grands principes de fonctionnement_. Nous aborderons également les _différences entre réflexologie et réflexothérapie_, cette dernière étant la technique pratiquée au cabinet. 
+
+La conférence aura lieu au cabinet, **500 route de Clisson, 44120, Vertou**. L'entrée se fera par le jardin et la salle d'attente. 
+
+Pour des raisons de manque de place, nous donnerons cette conférence plusieurs fois dans la journée: à 10h, 15h, 18h et 20h. 
+
+Une participation de 5€ vous sera demandée, notamment pour la location exceptionnelle du cabinet. Cependant l'accès demeure libre pour les moins de 25 ans. Nous vous remercions de votre compréhension. 
+
+![](/L-intrigante-histoire-du-papyrus-du-web-Ankhmahor-Superposition-bas-relief-papyrus.jpg)
