@@ -5,7 +5,7 @@
     <link>/presse/</link>
     <description>Recent content in Presse on Cabinet de thérapies naturelles</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 May 2019 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2019 22:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/presse/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,6 +20,17 @@
     </item>
     
     <item>
+      <title>Prochaine conférence: Histoire et grands principes de la réflexothérapie</title>
+      <link>/presse/prochaine-conf%C3%A9rence-histoire-et-grands-principes-de-la-r%C3%A9flexoth%C3%A9rapie/</link>
+      <pubDate>Mon, 13 May 2019 22:00:00 +0000</pubDate>
+      
+      <guid>/presse/prochaine-conf%C3%A9rence-histoire-et-grands-principes-de-la-r%C3%A9flexoth%C3%A9rapie/</guid>
+      <description>Le cabinet de thérapies naturelles vous accueille le samedi 6 Juillet 2019 pour sa première conférence: Histoire et grands principes de la réflexothérapie.
+Nous retracerons pour vous l&amp;rsquo;évolution de la pratique de stimulation réflexe au cours du temps, et nous verrons ses grands principes de fonctionnement. Nous aborderons également les différences entre réflexologie et réflexothérapie, cette dernière étant la technique pratiquée au cabinet.
+La conférence aura lieu au cabinet, 500 route de Clisson, 44120, Vertou.</description>
+    </item>
+    
+    <item>
       <title>Conférence suivante: Les migraines</title>
       <link>/presse/conf%C3%A9rence-suivante-les-migraines/</link>
       <pubDate>Sun, 12 May 2019 22:00:00 +0000</pubDate>
@@ -27,17 +38,6 @@
       <guid>/presse/conf%C3%A9rence-suivante-les-migraines/</guid>
       <description>Le cabinet de thérapies naturelles vous propose le samedi 6 Juillet 2019 sa conférence intitulée: Histoire et grands principes de la réflexothérapie.
 La conférence suivante concernera les migraines et leur traitement par les thérapies naturelles. Nous vous communiquerons la date lorsqu&amp;rsquo;elle sera établie. Vous pouvez dès à présent réserver votre formulaire d&amp;rsquo;inscription.</description>
-    </item>
-    
-    <item>
-      <title>Prochaine conférence: Histoire et grands principes de la réflexothérapie</title>
-      <link>/presse/prochaine-conf%C3%A9rence-histoire-et-grands-principes-de-la-r%C3%A9flexoth%C3%A9rapie/</link>
-      <pubDate>Sun, 12 May 2019 22:00:00 +0000</pubDate>
-      
-      <guid>/presse/prochaine-conf%C3%A9rence-histoire-et-grands-principes-de-la-r%C3%A9flexoth%C3%A9rapie/</guid>
-      <description>Le cabinet de thérapies naturelles vous accueille le samedi 6 Juillet 2019 pour sa première conférence: Histoire et grands principes de la réflexothérapie.
-Nous retracerons pour vous l&amp;rsquo;évolution de la pratique de stimulation réflexe au cours du temps, et nous verrons ses grands principes de fonctionnement. Nous aborderons également les différences entre réflexologie et réflexothérapie, cette dernière étant la technique pratiquée au cabinet.
-La conférence aura lieu au cabinet, 500 route de Clisson, 44120, Vertou.</description>
     </item>
     
   </channel>
