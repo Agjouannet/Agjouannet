@@ -1,8 +1,8 @@
 +++
 author = "Cabinet de thérapies naturelles"
-date = "2019-05-12T22:00:00+00:00"
+date = "2019-05-13T22:00:00+00:00"
 description = "Le 6 Juillet 2019 au cabinet: 500 route de Clisson."
-publishdate = "2019-05-12T22:00:00+00:00"
+publishdate = "2019-05-13T22:00:00+00:00"
 tags = ["Conférence", "actualités"]
 title = "Prochaine conférence: Histoire et grands principes de la réflexothérapie"
 
