@@ -7,6 +7,6 @@ tags = []
 title = "La musicothérapie réceptive"
 
 +++
-La musicothérapie réceptive consiste à ralentir les ondes cérébrales pour induire la relaxation ou synchroniser les ondes de l'hémisphère droit et celles de l'hémisphère gauche, en écoutant des enregistrements conçus à cet effet. **_Au cabinet nous diffusons de la musique douce dont les ondes, entre 4 et 7 Hertz, vous aident à atteindre un état de profonde relaxation en plein éveil._** Cet état de relaxation en plein éveil vous permet de recevoir les soins dans les meilleures conditions.
+La musicothérapie réceptive consiste à ralentir les ondes cérébrales pour induire la relaxation ou synchroniser les ondes de l'hémisphère droit et celles de l'hémisphère gauche, en écoutant des enregistrements conçus à cet effet. Au cabinet nous diffusons de la musique douce dont les ondes, entre 4 et 7 Hertz, vous aident à atteindre un état de profonde relaxation en plein éveil. Cet état de relaxation en plein éveil vous permet de recevoir les soins dans les meilleures conditions.
 
 ![](/musicotherapie.png)
