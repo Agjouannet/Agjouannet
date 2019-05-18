@@ -1,9 +1,8 @@
 +++
-age = "18 ans"
-draft = true
+age = "75 ans"
 stars = 5
-title = "Thérèse"
+title = "Fleur"
 weight = 1
 
 +++
-"J’ai consulté pour des maux de tête et une fatigue oculaire, dès la première séance en réflexothérapie (auriculaire et plantaire) les douleurs ont disparues. Super moment de détente dans une ambiance agréablement aménagée. Agnès est bienveillante, à l’écoute et professionnelle, je recommande vivement!"
+"J'ai consulté en thérapies naturelles combinées car je souffre d'arthrose et d'ostéoporose. Le traitement de phytothérapie est efficace et l'élixir du Suédois, que je prend en tisane et applique en compresse localement, enlève la douleur que j'avais au doigt."
