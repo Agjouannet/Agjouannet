@@ -21,7 +21,6 @@ fields:
   name: tags
   label: tags
 pages:
-- content/therapies/la-musicothérapie-réceptive.md
 - content/presse/prochaine-conférence-histoire-et-grands-principes-de-la-réflexothérapie.md
 - content/presse/conférence-suivante-les-migraines.md
 - content/articles/la-pharmacie-homéopathique-des-enfants.md
