@@ -4,7 +4,7 @@ date = "2019-05-05T22:00:00+00:00"
 description = "Quelques remèdes homéopathiques à avoir sous la main!"
 publishdate = "2019-05-05T22:00:00+00:00"
 tags = ["Homéopathie", "conseils"]
-title = "La pharmacie homéopathique des enfants"
+title = "Homéopathie: la pharmacie des enfants"
 
 +++
 **Ignatia:** symptômes contradictoires (l’enfant rit et pleure à la fois), excitation nerveuse des enfants suite à une journée riche en émotions. Prendre en 7ch, 3grs selon le besoin ( toutes les heures ou les demies-heures environ, espacer les prises en fonction de l'amélioration).
