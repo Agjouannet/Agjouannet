@@ -1,5 +1,5 @@
 +++
-age = "0 à 33 ans "
+age = "de 11 mois à 33 ans "
 stars = 5
 title = "Famille G"
 weight = 1
