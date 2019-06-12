@@ -5,7 +5,7 @@ title = "Abonnement conseils à distance"
 weight = 6
 
 +++
-Le patient bénéficie, en contrepartie du versement d’un forfait périodique d’honoraires, des services suivants :
+![](/IMG_20190612_0001.jpg)Le patient bénéficie, en contrepartie du versement d’un forfait périodique d’honoraires, des services suivants :
 
 \-conseils par email (allocation d’un crédit périodique d’heures de conseil) .
 
