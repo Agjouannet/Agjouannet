@@ -1,9 +1,14 @@
 +++
-button = "Nous contacter pour réserver une consultation à distance"
-draft = true
+button = "Nous contacter pour définir le contrat d'abonnement"
 imageLink = "cst_distance.jpg"
-title = "Consultations à distance"
+title = "Abonnement conseils à distance"
 weight = 6
 
 +++
-Elles se déroulent par Téléphone ou Appel vidéo Whats’app, au même prix qu'une consultation en cabinet. Cette solution est utile pour tous ceux qui ne peuvent se déplacer au cabinet. Dans ce cas le règlement s’effectue par virement bancaire au moment de la prise de rendez-vous.
+Le patient bénéficie, en contrepartie du versement d’un forfait périodique d’honoraires, des services suivants : 
+
+\-conseils par mail ou sms en temps réel (allocation d’un crédit périodique d’heures de conseil) . 
+
+\-facturation privilégiée (tarifs moindres qu’en consultation). Ces heures de conseil vous permettent de consulter librement le praticien sur toute question de santé en naturopathie (aroma-phytothérapie), homéopathie, fleurs de Bach: ces questions donnent lieu, selon le cas et suivant votre souhait, à des réponses orales, à des consultations écrites (mail/sms).
+
+ Le coût de l’abonnement dépend du nombre d’heures de conseil allouées par période: 1h de conseil équivaut à 40€ d'honoraire, soit 480/an pour 1h de conseil par mois, 120/trimestre, 240/semestre etc...
