@@ -3,8 +3,8 @@ author = "Cabinet de thérapies naturelles "
 date = "2019-04-22T21:30:56+00:00"
 description = "Comment se déroule une séance au cabinet?"
 publishDate = "2019-04-22T21:30:00+00:00"
-tags = ["séance", "thérapies naturelles combinées"]
-title = "Une séance en thérapies naturelles combinées"
+tags = ["séance", "thérapies naturelles combinées", "homépathie", "aromathérapie", "phytothérapie", "consultation"]
+title = "Une consultation en thérapies naturelles combinées"
 
 +++
 Une séance pour adulte dure environ 1h-1h30. Chaque séance commence par une _anamnèse_, recueil des informations concernant les demandes du bénéficiaire, pendant laquelle nous établissons ensemble vos besoins et voyons les progrès accomplis depuis le début de la prise en charge.
