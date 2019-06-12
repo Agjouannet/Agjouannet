@@ -1,7 +1,7 @@
 ---
-title: Comment être remboursé par ma mutuelle
-description: Possibilités de remboursement des thérapies naturelles, et explications
-  du processus.
+title: 'Naturopathie, réflexologie: comment être remboursé par ma mutuelle'
+description: 'Possibilités de remboursement des thérapies naturelles: naturopathie/réflexologie,
+  et l''explication du processus.'
 date: 2019-04-16T21:30:56.000+00:00
 publishDate: 2019-04-16T21:21:42.000+00:00
 author: Cabinet de thérapies naturelles
