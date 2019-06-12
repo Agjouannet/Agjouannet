@@ -1,9 +1,9 @@
 +++
 author = "Cabinet de thérapies naturelles"
 date = "2019-05-13T22:00:00+00:00"
-description = "Le 6 Juillet 2019 au cabinet: 500 route de Clisson."
+description = "Le 6 Juillet 2019 au cabinet: 500 route de Clisson. Conférence sur la réflexologie et ateliers"
 publishdate = "2019-05-13T22:00:00+00:00"
-tags = ["Conférence", "actualités"]
+tags = ["Conférence", "actualités", "réflexologie", "ateliers", "portes ouvertes"]
 title = "Journée portes ouvertes au cabinet de thérapies naturelles"
 
 +++
