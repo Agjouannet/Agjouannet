@@ -4,7 +4,7 @@ date = "2019-05-01T19:30:56+00:00"
 description = "A la fin de chaque consultation, nous vous donnons une fiche de conseils en homéopathie, aromathérapie, phytothérapie, fleurs de Bach...Vous vous demandez quels sont les meilleurs fournisseurs? Les critères pour choisir des plantes de qualité? Les laboratoires de confiance? Les bons plans: rapport qualité/prix?"
 publishDate = "2019-04-30T22:00:00+00:00"
 tags = ["thérapies naturelles combinées", "conseils", "consultation", "phytothérapie", "naturopathie"]
-title = "Des produits uniques  au service de votre santé "
+title = "Naturopathie: des produits uniques au service de votre santé "
 
 +++
 A la fin de chaque consultation, nous vous donnons une **fiche de conseils** en homéopathie, aromathérapie, phytothérapie, fleurs de Bach...Vous vous demandez quels sont les meilleurs fournisseurs? Les critères pour choisir des plantes de qualité? Les laboratoires de confiance? Les bons plans: rapport qualité/prix?
