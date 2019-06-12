@@ -3,7 +3,7 @@ author = "Cabinet de thérapies naturelles"
 date = "2019-05-02T21:30:56+00:00"
 description = "Stop au gâchis! Le cabinet de thérapies naturelles récupère vos contenants vides pour ses préparations. "
 publishDate = "2019-05-02T21:30:00+00:00"
-tags = ["Recyclage ", "Produits du Cabinet"]
+tags = ["Recyclage ", "Produits du Cabinet", "naturopathie", "phytothérapie"]
 title = "Aidez-nous à protéger la nature!"
 
 +++
