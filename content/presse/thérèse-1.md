@@ -1,6 +1,5 @@
 +++
 age = "0 à 33 ans "
-draft = true
 stars = 5
 title = "Famille G"
 weight = 1
