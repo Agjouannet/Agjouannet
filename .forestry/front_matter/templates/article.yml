@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/articles/avant-pendant-après-un-soin-de-réflexologie.md
 - content/presse/prochaine-conférence-histoire-et-grands-principes-de-la-réflexothérapie.md
 - content/presse/conférence-suivante-les-migraines.md
 - content/articles/la-pharmacie-homéopathique-des-enfants.md
