@@ -5,11 +5,12 @@ description = "Le 6 Juillet 2019 au cabinet: 500 route de Clisson. Conférence s
 publishdate = "2019-05-13T22:00:00+00:00"
 tags = ["Conférence", "actualités", "réflexologie", "ateliers", "portes ouvertes"]
 title = "Journée portes ouvertes au cabinet de thérapies naturelles"
+order = "1"
 
 +++
 Le cabinet de thérapies naturelles vous accueille le **samedi 6 Juillet 2019** pour une journée découverte! Au programme: sa première conférence: **Histoire et grands principes de la réflexologie**, ainsi que des **Ateliers découvertes** pour recevoir un soin de 5min en réflexologie et apprendre des auto-stimulations.
 
-Au cours de la conférence, nous retracerons pour vous l'_évolution de la pratique de stimulation réflexe_ au cours du temps, et nous verrons _ses grands principes de fonctionnement_. 
+Au cours de la conférence, nous retracerons pour vous l'_évolution de la pratique de stimulation réflexe_ au cours du temps, et nous verrons _ses grands principes de fonctionnement_.
 
 La conférence aura lieu au cabinet, **500 route de Clisson, 44120, Vertou**. L'entrée se fera par le jardin et la salle d'attente.
 

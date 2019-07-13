@@ -13,9 +13,10 @@ page = ["HTML", "RSS"]
 
 [params]
 BaseMapURL = "https://thenat.services"
-description = "Conseils et soins en Homéopathie, Aromathérapie, Phytothérapie et Réflexothérapie. Découvrez une entreprise basée sur le service et la confiance, dans une approche holistique du bénéficiaire. Le cabinet de thérapies naturelles met tout en oeuvre pour vous faciliter l'accès aux soins par des méthodes innovantes."
+description = "Conseils et soins en Homéopathie, Aromathérapie, Phytothérapie et Réflexologie. Découvrez une entreprise basée sur le service et la confiance, dans une approche holistique du bénéficiaire. Le cabinet de thérapies naturelles met tout en oeuvre pour vous faciliter l'accès aux soins par des méthodes innovantes."
 favicon = "favicon/favicon.ico"
-keywords = ["thenat", "thenat.services", "thenat services", "thenat services Vertou", "Conseils et soins sur Vertou", "Agnès Jouannet", "Cabinet de thérapies naturelles", "Cabinet de thérapies", "Cabinet de thérapie", "Consultation", "Conseils", "soins", "naturel", "naturopathie", "Homéopathie", "Aromathérapie", "Phytothérapie", "Réflexothérapie", "détente et relaxation", "massages d'huiles essentielles", "tisanes aux plantes", "soins et auto-stimulations en réflexothérapie combinée", "conseils/soins en aroma-phyto/consultation homéopathie", "Détente et amélioration qualité de vie Nantes environs"]
+keywords = ["thenat", "thenat.services", "thenat services", "thenat services Vertou", "Conseils et soins sur Vertou", "Agnès Jouannet", "Cabinet de thérapies naturelles", "Cabinet de thérapies", "Cabinet de thérapie", "Consultation", "Conseils", "soins", "naturel", "naturopathie", "Homéopathie", "Aromathérapie", "Phytothérapie", 
+"Réflexologie", "détente et relaxation", "massages d'huiles essentielles", "tisanes aux plantes", "soins et auto-stimulations en réflexothérapie combinée", "conseils/soins en aroma-phyto/consultation homéopathie", "Détente et amélioration qualité de vie Nantes environs"]
 logo = "img/logo/logo.png"
 
 [params.fa]
