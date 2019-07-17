@@ -1,10 +1,10 @@
 +++
 author = "Cabinet de thérapies naturelles"
 date = "2019-07-16T22:00:00+00:00"
-description = "Episode 1: La stimulation réflexe il y a 5 000 ans"
+description = "Episode 1: La stimulation réflexe en Europe il y a 5 000 ans"
 publishdate = "2019-07-16T22:00:00+00:00"
 tags = ["acupuncture", "réflexologie", "histoire", "Ötzi", "chalcolithique"]
-title = "Les premières traces de stimulation réflexe..."
+title = "Petite histoire de la réflexologie"
 
 +++
 Il faut savoir que la pratique de la stimulation réflexe s’apparente à l’acupuncture, qui était pratiquée en Europe déjà il y a plus de 5000ans ! Pour preuve, Ötzi, homme du Chalcolithique.
