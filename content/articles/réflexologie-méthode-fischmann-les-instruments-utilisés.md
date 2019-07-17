@@ -16,5 +16,5 @@ Un point réflexe comporte plusieurs récepteurs nerveux : certains réagissent 
 * stimulations par pression (pression simple, double pression, pression étirée, détecteur manuel),
 * stimulations par lissages et étirement (pression étirée, lissage manuel).
 
-![](/IMG_0715-1.JPG) ![](/IMG_0714-1.JPG)![](/IMG_0709-1.JPG) ![](/IMG_0716-1.JPG)  
-![](/cendrier-moxa-MX-EXT-4-250.jpg)            ![](/istockphoto-120750793-612x612.jpg)
+![](/IMG_0715-1.JPG)      ![](/IMG_0714-1.JPG)![](/IMG_0709-1.JPG)      ![](/IMG_0716-1.JPG)  
+![](/cendrier-moxa-MX-EXT-4-250.jpg)                 ![](/istockphoto-120750793-612x612.jpg)

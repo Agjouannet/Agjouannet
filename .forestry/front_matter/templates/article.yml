@@ -21,9 +21,9 @@ fields:
   name: tags
   label: tags
 pages:
+- content/articles/réflexologie-méthode-fischmann-les-instruments-utilisés.md
 - content/articles/les-premières-traces-de-stimulation-réflexe-episode-1.md
 - content/presse/prochaine-conférence-histoire-et-grands-principes-de-la-réflexothérapie.md
-- content/articles/réflexologie-méthode-fischmann-les-instruments-utilisés.md
 - content/articles/avant-pendant-après-un-soin-de-réflexologie.md
 - content/presse/conférence-suivante-les-migraines.md
 - content/articles/la-pharmacie-homéopathique-des-enfants.md
