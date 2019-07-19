@@ -25,4 +25,10 @@ La gravure d'origine a été redessinée en imitation de papyrus, image qui circ
 
 ![](/ankhmahor.jpg)
 
-Source: Alain Cabello, _l'intrigante histoire du papyrus du web_.
+D'autres versions circulent également (moins connues celles-là), inspirées du Mastaba d'Ankhmahor:
+
+![](/28052688_2009764249292009_254104046_n-300x182.jpg) 
+
+![](/massage-history.jpg)
+
+Source: Alain Cabello, _l'intrigante histoire du papyrus du web_. + google images
