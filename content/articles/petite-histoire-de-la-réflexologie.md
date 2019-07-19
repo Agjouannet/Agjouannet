@@ -31,4 +31,4 @@ D'autres versions circulent également (moins connues celles-là), inspirées du
 
 ![](/massage-history.jpg)
 
-Source: Alain Cabello, _l'intrigante histoire du papyrus du web_. + google images
+Sources: Alain Cabello, _l'intrigante histoire du papyrus du web_. + google images
