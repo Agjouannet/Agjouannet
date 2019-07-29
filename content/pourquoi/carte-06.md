@@ -9,3 +9,4 @@ weight: "6"
 * Insuffisance veineuse
 * Jambes lourdes
 * Varices/ecchymoses
+* Relaxation/détente profonde
