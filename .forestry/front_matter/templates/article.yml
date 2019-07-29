@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/articles/petite-histoire-de-la-réflexologie-1.md
 - content/articles/petite-histoire-de-la-réflexologie.md
 - content/articles/réflexologie-méthode-fischmann-les-instruments-utilisés.md
 - content/articles/les-premières-traces-de-stimulation-réflexe-episode-1.md
