@@ -5,10 +5,9 @@ weight: "2"
 
 ---
 * Troubles du sommeil
-* Troubles de la concentration
-* Nervosité
+* Troubles de la mémoire et de la concentration
+* Nervosité/surmenage
 * Stress, anxiété, dépression
-* Perte de mémoire
 * Préparation aux examens
 * Arrêt de tabac
 * Burn Out
