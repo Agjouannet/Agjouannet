@@ -10,3 +10,4 @@ weight: "6"
 * Jambes lourdes
 * Varices/ecchymoses
 * Relaxation/détente profonde
+* Oppression thoracique
