@@ -1,11 +1,11 @@
 ---
 title: Système locomoteur
 type: carte
-weight: 3
+weight: "3"
 
 ---
 * Rhumatismes
 * Tendinites
 * Douleurs musculaires (accompagnement des sportifs)
-* Les fractures
+* Fractures
 * Dentition (bébés)
