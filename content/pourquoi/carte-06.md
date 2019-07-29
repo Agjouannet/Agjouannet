@@ -1,10 +1,10 @@
 ---
-title: "Système cardio-vasculaire"
-type: "carte"
-weight: 6
----
+title: Système cardio-vasculaire
+type: carte
+weight: "6"
 
-* Tachycardie,
+---
+* Tachycardie/palpitations
 * Crampes (angoisse/tabac)
 * Insuffisance veineuse
 * Jambes lourdes
