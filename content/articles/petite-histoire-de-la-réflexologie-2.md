@@ -11,7 +11,7 @@ Le récit des Indiens Cherokees tend à prouver que la réflexologie aurait auss
 
 ![](/800px-80_-_Machu_Picchu_-_Juin_2009_-_edit.jpg)
 
- Pour ces populations, le massage réflexe des pieds s'apparente à un art sacré, car les pieds symbolisent la partie du corps qui relie l’homme à l’univers qui l’entoure.Pour ces civilisations, le massage réflexe des pieds s’apparente à un art sacré, car les pieds symbolisent la partie du corps qui relie l’homme à l’univers qui l’entoure.Pour ces civilisations, le massage réflexe des pieds s’apparente à un art sacré, car les pieds symbolisent la partie du corps qui relie l’homme à l’univers qui l’entoure.Pour ces civilisations, le massage réflexe des pieds s’apparente à un art sacré, car les pieds symbolisent la partie du corps qui relie l’homme à l’univers qui l’entoure.Pour ces civilisations, le massage réflexe des pieds s’apparente à un art sacré, car les pieds symbolisent la partie du corps qui relie l’homme à l’univers qui l’entoure.Pour ces civilisations, le massage réflexe des pieds s’apparente à un art sacré, car les pieds symbolisent la partie du corps qui relie l’homme à l’univers qui l’entoure.Pour ces civilisations, le massage réflexe des pieds s’apparente à un art sacré, car les pieds symbolisent la partie du corps qui relie l’homme à l’univers qui l’entoure.
+Pour ces populations, le massage réflexe des pieds s'apparente à un art sacré, car les pieds symbolisent la partie du corps qui relie l’homme à l’univers qui l’entoure.
 
 ![](/apr9yxed.jpg)
 
