@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/honoraires/nous-retrouver-sur-les-réseaux.md
 - content/articles/petite-histoire-de-la-réflexologie-2.md
 - content/articles/petite-histoire-de-la-réflexologie.md
 - content/articles/réflexologie-méthode-fischmann-les-instruments-utilisés.md
