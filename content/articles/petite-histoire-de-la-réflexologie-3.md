@@ -2,7 +2,6 @@
 author = "Cabinet de thérapies naturelles"
 date = "2019-08-06T22:00:00+00:00"
 description = "Episode 5: Vers l'étude des pratiques réflexes"
-draft = true
 publishdate = "2019-08-06T22:00:00+00:00"
 tags = ["histoire", "réflexologie", "europe", "Dr William FITZGERALD ", "Sir Henry HEAD "]
 title = "Petite histoire de la réflexologie"
