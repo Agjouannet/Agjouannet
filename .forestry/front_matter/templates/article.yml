@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/presse/nous-retrouver-sur-les-réseaux.md
 - content/honoraires/nous-retrouver-sur-les-réseaux.md
 - content/articles/petite-histoire-de-la-réflexologie-2.md
 - content/articles/petite-histoire-de-la-réflexologie.md

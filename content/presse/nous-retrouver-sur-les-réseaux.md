@@ -1,0 +1,10 @@
++++
+author = ""
+date = ""
+description = ""
+publishdate = ""
+tags = []
+title = "Nous retrouver sur les réseaux:"
+
++++
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="light" data-vanity="agnès-jouannet-785340190"><a class="LI-simple-link" href='[https://fr.linkedin.com/in/agn%C3%A8s-jouannet-785340190?trk=profile-badge](https://fr.linkedin.com/in/agn%C3%A8s-jouannet-785340190?trk=profile-badge "https://fr.linkedin.com/in/agn%C3%A8s-jouannet-785340190?trk=profile-badge")'>Agnès Jouannet</a></div>
