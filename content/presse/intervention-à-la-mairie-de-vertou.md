@@ -1,8 +1,8 @@
 +++
 author = "Cabinet de thérapies naturelles"
-date = "2019-09-02T22:00:00+00:00"
+date = "2019-09-01T22:00:00+00:00"
 description = "Mise en situation professionnelle de réflexologie"
-publishdate = "2019-09-02T22:00:00+00:00"
+publishdate = "2019-09-01T22:00:00+00:00"
 tags = ["vertou", "réflexologie", "stage", "expérience professionnelle"]
 title = "Intervention à la mairie de Vertou"
 
