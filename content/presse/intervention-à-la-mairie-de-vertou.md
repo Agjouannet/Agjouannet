@@ -4,7 +4,7 @@ date = "2019-09-01T22:00:00+00:00"
 description = "Mise en situation professionnelle de réflexologie"
 publishdate = "2019-09-01T22:00:00+00:00"
 tags = ["vertou", "réflexologie", "stage", "expérience professionnelle"]
-title = "Intervention à la mairie de Vertou, Septembre-Octobre 2019"
+title = "Intervention à la mairie de Vertou, Octobre 2019"
 
 +++
 Sur le mois d'octobre je serai présente à la mairie de Vertou comme prestataire de services gratuits, pour proposer au personnel de la mairie des soins de réflexologie dans  le cadre de ma formation à l'école internationale de réflexologie.
