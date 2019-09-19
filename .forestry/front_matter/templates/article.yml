@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/accueil/Platon.md
 - content/presse/prestation-de-services-au-centre-aquatique-so-pool.md
 - content/presse/intervention-à-la-mairie-de-vertou.md
 - content/presse/conférence-suivante-les-migraines.md
