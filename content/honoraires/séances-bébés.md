@@ -1,10 +1,8 @@
 +++
-draft = true
 imageLink = "soin_bb.jpg"
-title = "Séances bébés"
-weight = 4
+title = "Cures"
+weight = "5"
 
 +++
-* Jusqu'à 4 ans
-* Séance de 30 min et 45 min
-* 50% de réductions!
+* Suivi de 3 séances réparties sur 1 mois, alliant les différentes thérapies naturelles 
+* Bien-être, Préparation aux examens, Arrêt de tabac, Détox, Prévention maux de l'hiver
