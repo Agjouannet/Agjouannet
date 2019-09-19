@@ -1,9 +1,9 @@
 ---
 title: Une entreprise de service
 description: ''
-weight: 4
+weight: "4"
 actionLink: "/honoraires/"
 actionText: Honoraires
 
 ---
-Le cabinet de thérapie naturelle met tout en oeuvre pour votre bien-être: pas de tarif propre à chaque thérapie, les connaissances sont regroupées pour un soin de meilleure qualité! (=3 soins pour le prix d'1!) Les séances et honoraires sont également adaptés aux enfants et aux bébés, ainsi qu'aux prises en charge de trois soins. Des avantages pour les familles sont aussi disponibles. Des solutions innovantes sont mises en place pour plus d'accessibilité: suivi téléphonique, consultation à distance, déplacement et prise en cas d'urgence, ateliers...L'objectif: se rendre toujours plus accessible et vous rendre acteurs de votre santé au naturel!
+Le cabinet de thérapie naturelle met tout en oeuvre pour votre bien-être: vous pouvez opter pour une séance de naturopathie (comprenant aroma-phytothérapie, homéopathie, fleurs de Bach) ou une séance de réflexologie: 50€ pour 1h de soins et de conseils. Vous avez également la possibilité de choisir une séance en thérapies naturelles combinées (naturopathie+réflexologie): 70€ pour 1h30 de soins et de conseils. Nous proposons des tarifs réduits pour les moins de 3 ans (bébés), de 3 à 18 ans (enfants) et de 18 à 25 ans (étudiants). Vous bénéficiez également de nombreux  services et avantages complémentaires gratuits, décrits en page "honoraires".
