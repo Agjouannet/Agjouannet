@@ -4,5 +4,6 @@ title = "Cures"
 weight = "5"
 
 +++
-* Suivi de 3 séances réparties sur 1 mois, alliant les différentes thérapies naturelles, 130€
+* Suivi de 3 séances réparties sur 1 mois, alliant les différentes thérapies naturelles
+* 130€ payables par chèques/espèces dès la première séance, encaissement possible en plusieurs fois.
 * Bien-être, Préparation aux examens, Arrêt de tabac, Détox, Prévention maux de l'hiver
