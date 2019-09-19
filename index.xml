@@ -255,17 +255,6 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
     </item>
     
     <item>
-      <title>Abonnement conseils à distance</title>
-      <link>/honoraires/consultations-%C3%A0-distance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/honoraires/consultations-%C3%A0-distance/</guid>
-      <description>Le patient bénéficie, en contrepartie du versement d’un forfait périodique d’honoraires, des services suivants :
--conseils par email (allocation d’un crédit périodique d’heures de conseil) .
--facturation privilégiée (tarifs moindres qu’en consultation). Ces heures de conseil vous permettent de consulter librement le praticien sur toute question de santé en naturopathie, homéopathie, fleurs de Bach: ces questions donnent lieu à une réponse écrite, sous forme de fiche conseil envoyée par courriel.</description>
-    </item>
-    
-    <item>
       <title>Ateliers et conférences</title>
       <link>/honoraires/08/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -339,12 +328,14 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
     </item>
     
     <item>
-      <title>Cartes familles</title>
-      <link>/honoraires/09/</link>
+      <title>Abonnement conseils à distance</title>
+      <link>/honoraires/consultations-%C3%A0-distance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/honoraires/09/</guid>
-      <description>Pour récompenser ses fidèles sujets, le cabinet a créé une carte fidélité donnant accès à 8séances+1gratuite! Carte à validité permanente, 1 carte par foyer (tous les membres d&amp;rsquo;une même famille sont inscrit sur la même carte). Cette carte vous est délivrée sur demande à votre première séance.</description>
+      <guid>/honoraires/consultations-%C3%A0-distance/</guid>
+      <description>Le patient bénéficie, en contrepartie du versement d’un forfait périodique d’honoraires, des services suivants :
+-conseils par email (allocation d’un crédit périodique d’heures de conseil) .
+-facturation privilégiée (tarifs moindres qu’en consultation). Ces heures de conseil vous permettent de consulter librement le praticien sur toute question de santé en naturopathie, homéopathie, fleurs de Bach: ces questions donnent lieu à une réponse écrite, sous forme de fiche conseil envoyée par courriel.</description>
     </item>
     
     <item>
@@ -357,12 +348,12 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
     </item>
     
     <item>
-      <title>Cartes Cadeaux</title>
-      <link>/honoraires/10/</link>
+      <title>Cartes familles</title>
+      <link>/honoraires/09/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/honoraires/10/</guid>
-      <description>Vous souhaitez faire un cadeau d&amp;rsquo;anniversaire? Vous offrir un moment de détente et bien-être pour vous reposer des préparatifs du mariage avant la cérémonie? Offrir un moment de relaxation et une cure de phytothérapie à votre femme après une naissance ?marquer la fête des mères, des pères, des grands-mères&amp;hellip;? Fêter un anniversaire de mariage? Alors la carte cadeau est faite pour vous: choisissez l&amp;rsquo;option de séance que vous voulez offrir, validité permanente garantie!</description>
+      <guid>/honoraires/09/</guid>
+      <description>Pour récompenser ses fidèles sujets, le cabinet a créé une carte fidélité donnant accès à 8séances+1gratuite! Carte à validité permanente, 1 carte par foyer (tous les membres d&amp;rsquo;une même famille sont inscrit sur la même carte). Cette carte vous est délivrée sur demande à votre première séance.</description>
     </item>
     
     <item>
@@ -381,6 +372,15 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
       
       <guid>/pourquoi/carte-12/</guid>
       <description> Cancers Asthme chronique Maladie de Raynaud Addictions (alcool, tabac&amp;hellip;) Fibromyalgie  </description>
+    </item>
+    
+    <item>
+      <title>Cartes Cadeaux</title>
+      <link>/honoraires/10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/honoraires/10/</guid>
+      <description>Vous souhaitez faire un cadeau d&amp;rsquo;anniversaire? Vous offrir un moment de détente et bien-être pour vous reposer des préparatifs du mariage avant la cérémonie? Offrir un moment de relaxation et une cure de phytothérapie à votre femme après une naissance ?marquer la fête des mères, des pères, des grands-mères&amp;hellip;? Fêter un anniversaire de mariage? Alors la carte cadeau est faite pour vous: choisissez l&amp;rsquo;option de séance que vous voulez offrir, validité permanente garantie!</description>
     </item>
     
     <item>
