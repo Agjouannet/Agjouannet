@@ -1,10 +1,10 @@
 +++
 author = "Cabinet de thérapies naturelles"
-date = "2019-09-01T22:00:00+00:00"
-description = "Mise en situation professionnelle de réflexologie"
-publishdate = "2019-09-01T22:00:00+00:00"
+date = "2019-10-04T22:00:00+00:00"
+description = "S'adapter à tous les locaux pour créer un espace de bien-être, intime et chaleureux."
+publishdate = "2019-10-05T18:00:00+00:00"
 tags = ["vertou", "réflexologie", "stage", "expérience professionnelle"]
-title = "Intervention à la mairie de Vertou, Octobre 2019"
+title = "Intervention en entreprises"
 
 +++
 Prestations de réflexologie pour les entreprises: s'adapter à tous les locaux pour créer un espace de bien-être, intime et chaleureux.
