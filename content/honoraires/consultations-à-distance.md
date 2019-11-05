@@ -3,7 +3,7 @@ button = "Nous contacter pour définir le contrat d'abonnement"
 buttonLink = "/cabinet#contactForm"
 imageLink = "abonnement.jpg"
 title = "Abonnement conseils à distance"
-weight = "10"
+weight = "8"
 
 +++
 Le patient bénéficie, en contrepartie du versement d’un forfait périodique d’honoraires, des services suivants :
