@@ -1,9 +1,9 @@
 +++
-draft = true
 imageLink = "soins_adultes.jpg"
-title = "Séances adultes"
-weight = 1
+title = "Suivi thérapeutique"
+weight = "2"
 
 +++
-* Naturopathie OU réflexologie,1h de soin et conseils: 50€
-* Thérapies naturelles combinées (naturopathie ET réflexologie), 1h30 de soin et conseils: 70€
+* Après une séance simple
+* 3 séances de 30 min sur 1 semaine
+* 75€ payables par chèques/espèces dès la première séance, encaissement possible en plusieurs fois.
