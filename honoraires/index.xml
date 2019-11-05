@@ -73,16 +73,6 @@
     </item>
     
     <item>
-      <title>Prise en urgence</title>
-      <link>/honoraires/07/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/honoraires/07/</guid>
-      <description>Dans la mesure du possible, vous pouvez bénéficier de la priorité de rendez-vous:
- Priorité au cabinet sans frais supplémentaires Déplacement jusqu’à votre domicile (séance à domicile, aide au soin d’un malade etc.). Le prix correspondra à celui d’une séance en cabinet quel que soit le temps passé chez vous, avec 10€ d&amp;rsquo;indemnités kilométriques.  </description>
-    </item>
-    
-    <item>
       <title>Abonnement conseils à distance</title>
       <link>/honoraires/consultations-%C3%A0-distance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -91,6 +81,16 @@
       <description>Le patient bénéficie, en contrepartie du versement d’un forfait périodique d’honoraires, des services suivants :
 -conseils par email (allocation d’un crédit périodique d’heures de conseil) .
 -facturation privilégiée (tarifs moindres qu’en consultation). Ces heures de conseil vous permettent de consulter librement le praticien sur toute question de santé en naturopathie, homéopathie, fleurs de Bach: ces questions donnent lieu à une réponse écrite, sous forme de fiche conseil envoyée par courriel.</description>
+    </item>
+    
+    <item>
+      <title>Prise en urgence</title>
+      <link>/honoraires/07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/honoraires/07/</guid>
+      <description>Dans la mesure du possible, vous pouvez bénéficier de la priorité de rendez-vous:
+ Priorité au cabinet sans frais supplémentaires Déplacement jusqu’à votre domicile (séance à domicile, aide au soin d’un malade etc.). Le prix correspondra à celui d’une séance en cabinet quel que soit le temps passé chez vous, avec 10€ d&amp;rsquo;indemnités kilométriques.  </description>
     </item>
     
     <item>
