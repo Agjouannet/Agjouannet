@@ -21,8 +21,8 @@ fields:
   name: tags
   label: tags
 pages:
-- content/articles/réflexologie-les-réactions-au-traitement.md
 - content/presse/intervention-à-la-mairie-de-vertou-octobre-2019.md
+- content/articles/réflexologie-les-réactions-au-traitement.md
 - content/presse/prestation-de-services-au-centre-aquatique-so-pool.md
 - content/presse/intervention-à-la-mairie-de-vertou.md
 - content/presse/conférence-suivante-les-migraines.md
