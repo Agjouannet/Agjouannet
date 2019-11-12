@@ -1,9 +1,8 @@
 +++
-age = "55 ans"
-draft = true
+age = "50 ans"
 stars = "5"
-title = "Christophe"
-weight = "4"
+title = "Nathalie"
+weight = "2"
 
 +++
-"Bonjour madame, je suis très satisfait de vos soins car les douleurs lombaires ont presque disparues deux jours après, merci."
+"Les deux soins semblent m'avoir équilibré le sommeil car depuis je dors très bien! Je vous remercie...et bonne continuation."
