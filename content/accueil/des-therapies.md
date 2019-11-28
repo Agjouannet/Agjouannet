@@ -13,3 +13,7 @@ L'**homéopathie** gère les signes psychiques et physiques de la personne. L'**
 Les consultations de **naturopathie** comprennent, en fonction de vos besoins, des soins en aroma-phytothérapie, et des conseils en homéopathie, aroma-phytothérapie et fleurs de Bach. Les séances de **réflexologie** se déroulent sur deux micro-systèmes parmi les suivants: mains, pieds, oreilles, visage et dos. Elles s'accompagnent de l'enseignement de quelques gestes d'auto-stimulation. Les consultations en t**hérapies naturelles combinées** reprennent les soins et les conseils de naturopathie et de réflexologie.
 
 A la fin de chaque consultation nous vous remettons une **fiche conseil** complète et variée: médicaments homéopathiques, plantes, huiles essentielles, gestes d'auto-stimulation réflexe, hygiène et rythme de vie...Par respect pour le travail accompli bien en amont de votre consultation, les rendez-vous non honorés ou décommandés à moins de 5 jours seront facturés.
+
+{{< link name="Naturopathie" link="" class="notification is-primary">}}
+{{< link name="Réflexologie" link="" class="notification is-primary">}}
+{{< link name="Thérapies combinées" link="" class="notification is-primary">}}
