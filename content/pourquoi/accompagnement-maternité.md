@@ -1,14 +1,15 @@
 +++
-draft = true
-title = "Accompagnement maternité"
+title = "Accompagnement nourrissons"
 type = "carte"
 weight = "13"
 
 +++
-* 1er trimestre: nausées, hypersomnie, bascule de l'utérus, tension des seins...
-* 2ème trimestre: gestion du stress, gestion du poids
-* 3ème trimestre: tensions musculaires/sciatique, canal carpien/tarsien, relaxation avant l'accouchement (à terme dépassé), accompagnement pendant le travail.
-* 4ème trimestre – post partum: aider la maman à mieux vivre ses cicatrices (césarienne, épisiotomie), seins douloureux, aide à l'allaitement, baby blues
-* Aide à gérer le stress, améliore la digestion, régularise le sommeil,
+La plupart des bébés apprécient ces stimulations douces et rythmées.
 
-  relâche les tensions musculaires, relaxe avant l’accouchement et l’allaitement...
+Ce contact affectueux peut atténuer leur mauvaise humeur et leur irritabilité.
+
+* contribue à une bonne digestion et peut soulager les coliques
+* favorise la formation de liens affectifs, la communication, permet d’être à l’écoute des signaux non verbaux de bébé
+* régularise le rythme de sommeil de bébé
+* les techniques stimulent les muscles et la circulation sanguine
+* aide bébé à mieux téter, à se calmer, à faire ses dents, à mieux respirer, à mieux vivre son exzéma...
