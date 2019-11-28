@@ -15,7 +15,7 @@ page = ["HTML", "RSS"]
 BaseMapURL = "https://thenat.services"
 description = "Conseils et soins en Homéopathie, Aromathérapie, Phytothérapie et Réflexologie. Découvrez une entreprise basée sur le service et la confiance, dans une approche holistique du bénéficiaire. Le cabinet de thérapies naturelles met tout en oeuvre pour vous faciliter l'accès aux soins par des méthodes innovantes."
 favicon = "favicon/favicon.ico"
-keywords = ["thenat", "thenat.services", "thenat services", "thenat services Vertou", "Conseils et soins sur Vertou", "Agnès Jouannet", "Cabinet de thérapies naturelles", "Cabinet de thérapies", "Cabinet de thérapie", "Consultation", "Conseils", "soins", "naturel", "naturopathie", "Homéopathie", "Aromathérapie", "Phytothérapie", 
+keywords = ["thenat", "thenat.services", "thenat services", "thenat services Vertou", "Conseils et soins sur Vertou", "Agnès Jouannet", "Cabinet de thérapies naturelles", "Cabinet de thérapies", "Cabinet de thérapie", "Consultation", "Conseils", "soins", "naturel", "naturopathie", "Homéopathie", "Aromathérapie", "Phytothérapie",
 "Réflexologie", "détente et relaxation", "massages d'huiles essentielles", "tisanes aux plantes", "soins et auto-stimulations en réflexothérapie combinée", "conseils/soins en aroma-phyto/consultation homéopathie", "Détente et amélioration qualité de vie Nantes environs"]
 logo = "img/logo/logo.png"
 
@@ -28,6 +28,19 @@ dateFormat = "2 Jan, 2006"
 showAuthor = true
 showDate = true
 showTags = true
+
+[params.social]
+    twitter = "https://twitter.com/"
+    facebook = "https://www.facebook.com/AJ.naturo.reflex/"
+    github = ""
+    instagram = "https://www.instagram.com/cabinet_therapies.naturelles/"
+    pinterest = ""
+    youtube = "https://youtube.com/"
+    linkedin = "https://linkedin.com/"
+    weibo = ""
+    mastodon = ""
+    tumblr = "https://www.tumblr.com/"
+    flickr = ""
 
 [params.separator]
 show = false

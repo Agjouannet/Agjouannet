@@ -68,3 +68,9 @@ a.text-color-green:hover {
 .card-content .subtitle img {
 	max-width: 250px;
 }
+
+.footer__social__link {
+    color: #4a4a4a;
+    font-size: 35px;
+		margin: 10px;
+}
