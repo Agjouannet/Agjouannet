@@ -4,6 +4,8 @@ type: carte
 weight: "12"
 
 ---
+Accompagnement du stress et des douleurs liées à:
+
 * Cancers
 * Asthme chronique
 * Maladie de Raynaud
