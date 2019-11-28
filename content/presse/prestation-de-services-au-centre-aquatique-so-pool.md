@@ -36,4 +36,4 @@ Formule **Energie:**
 
 Vous pourrez également tenter de remporter une séance complète au cabinet! Pour cela, il vous suffit de remplir un bulletin de participation et de le déposer dans l'urne mise à votre disposition, à l'accueil du centre aquatique! 3 participants seront tirés au sort le **vendredi 27 Septembre à 21h30**!
 
-![](/téléchargement (1).jpg)
+![](/pool.jpg)
