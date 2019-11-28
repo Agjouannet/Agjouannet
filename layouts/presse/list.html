@@ -19,6 +19,12 @@
 		style="display: block;margin:auto;"></iframe>
 	</div-->
 
+	<div class="has-text-centered">
+		<a class="is-size-5 button is-link" target="_blank" rel="noopener noreferrer" href="https://search.google.com/local/writereview?placeid=ChIJ02Tj8jTpBUgRORt4IBAuPJU">
+			Partager votre avis
+		</a>
+	</div>
+
   <section class="section">
     <div class="container">
       <div class="columns is-multiline">
@@ -26,7 +32,7 @@
         <div class="column is-half" {{ if  .Params.order }} style = "order:1;" {{ end }}>
           <div class="card" style="height:100%;">
             <div class="card-content">
-                {{ .Content | replaceRE "<p>" "<p class=\"subtitle\">" | safeHTML }}
+                {{ .Content | replaceRE "<p>" "<p class=\"subtitle flow\">" | safeHTML }}
               <p class="has-text-centered">
                 {{ range $i, $sequence :=  (seq .Params.stars) }}
                 <span class="icon has-text-warning">

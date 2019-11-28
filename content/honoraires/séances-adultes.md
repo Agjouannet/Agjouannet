@@ -1,5 +1,5 @@
 +++
-imageLink = "soins_adultes.jpg"
+imageLink = "suivi-therapeutique.jpg"
 title = "Suivi thérapeutique"
 weight = "2"
 

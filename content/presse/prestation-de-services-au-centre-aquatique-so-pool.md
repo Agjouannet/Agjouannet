@@ -5,9 +5,11 @@ description = "Intervention sur un mois à la piscine de Basse-Goulaine"
 publishdate = "2019-09-05T22:00:00+00:00"
 tags = ["prestation de services", "réflexologie en entreprise", "soins gratuits"]
 title = "Prestation de services au centre aquatique So Pool, Septembre 2019"
-
+weight= 11
 +++
-![](/IMG_1338.JPG)Du 10 au 27 Septembre, je serai présente à la piscine So Pool pour vous proposer des soins gratuits d'1/2h, entre vos cours. 3 formules au choix pour vous faire découvrir la réflexologie!
+![](/IMG_1338.JPG)
+
+Du 10 au 27 Septembre, je serai présente à la piscine So Pool pour vous proposer des soins gratuits d'1/2h, entre vos cours. 3 formules au choix pour vous faire découvrir la réflexologie!
 
 Formule **Sérénité:**
 

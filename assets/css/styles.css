@@ -60,3 +60,11 @@ a.text-color-green:hover {
 	margin: auto;
 	max-height: 75vh;
 }
+
+.card-content .subtitle.flow {
+	text-align: center;
+}
+
+.card-content .subtitle img {
+	max-width: 250px;
+}
