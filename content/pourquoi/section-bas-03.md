@@ -1,7 +1,7 @@
 ---
 title: Pourquoi préférer ces thérapies naturelles à un produit chimique lorsque cela
   est possible?
-weight: "16"
+weight: "18"
 
 ---
 * Elles respectent le fonctionnement lévogyre (polarisation de la lumière vers la gauche) de notre organisme. Tout organisme vivant (plantes et êtres humains) est lévogyre. Le médicament chimique lui, est composé de molécules lévogyres et de molécules dextrogyres : il agit donc de manière trop intrusive dans notre organisme, pouvant provoquer des effets secondaires. D’autre part, un médicament chimique ne comporte qu’une catégorie de molécule (par exemple, prendre de l’aspirine c’est prendre des molécules d’acide acétylsalicylique et rien d’autre) tandis que dans une plante, il y a une myriade de molécules différentes qui agissent en synergie, protégeant des effets secondaires possibles d’une des molécules. Il est très intéressant aussi de se soigner par ces thérapies naturelles en complémentarité de la médecine traditionnelle : en cas de médication lourde par exemple, ces thérapies pourront soigner un effet secondaire ou permettre de drainer les toxines accumulées dans le corps.
