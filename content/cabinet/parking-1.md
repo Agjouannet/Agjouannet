@@ -1,5 +1,5 @@
 +++
-imageLink = ["IMG_20191113_152715_005.jpg", "IMG_20191113_152715_008.jpg"]
+imageLink = []
 title = "parking"
 weight = "3"
 
