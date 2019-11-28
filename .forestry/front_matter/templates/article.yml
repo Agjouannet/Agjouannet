@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/therapies/honoraires-réflexologie.md
 - content/therapies/honoraires-naturopathie.md
 - content/therapies/reflexo.md
 - content/presse/intervention-à-la-mairie-de-vertou.md

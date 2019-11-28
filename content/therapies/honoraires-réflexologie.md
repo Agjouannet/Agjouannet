@@ -2,6 +2,7 @@
 author = ""
 date = ""
 description = ""
+draft = true
 publishdate = ""
 tags = []
 title = "Honoraires réflexologie"
