@@ -1,10 +1,9 @@
 +++
-draft = true
 imageLink = "reflexotherapie.jpg"
-title = "Réflexologie"
-weight = "2"
+title = "Thérapies naturelles combinées"
+weight = "3"
 
 +++
-En stimulant une zone sur les **pieds**, les **mains**, le **visage**,les **oreilles**, le **crâne** ou le **dos**, le praticien envoie un message de régulation à l'organisme. La méthode, douce et efficace, est à la fois **manuelle et instrumentale**.  La séance s’accompagne de musicothérapie réceptive : nous diffusons de la musique douce pour vous aider à atteindre un état de **profonde relaxation en plein éveil,** de manière à recevoir le soin dans les meilleures conditions. 
+Le cabinet de thérapies naturelles développe une méthode unique regroupant plusieurs **thérapies complémentaires** dans le but d'obtenir des **résultats plus rapides et pérennes**. La naturopathie et la réflexologie combinées entre elles permettent de rétablir l'**équilibre général** de l'organisme et d'**améliorer la qualité de vie**, prenant en compte le bénéficiaire dans ses dimensions à la fois **mentales et corporelles**. 
 
-La séance commence par un **échange** pour déterminer vos besoins et vos attentes, puis vous bénéficiez d'un **soin réflexe unique**: le choix des zones, le choix des microsystèmes et des instruments de stimulation sont revus à chaque séance en **adaptation constante** à vos besoins et votre évolution. Des résultats sont notables dès la première séance, et des **auto-stimulations** sont enseignées pour vous donner plus d’autonomie!
+La séance commence par un **échange** pendant lequel nous établissons un plan d'action selon vos besoins et vos attentes. Vous bénéficiez ensuite d'un **soin réflexe sublimé** par des synergies d'huiles essentielles ou d'autres produits naturels aux plantes (tous réalisés par mes soins). Le tout se déroule dans une ambiance olfactive, sonore et visuelle propice à une **relaxation profonde en plein éveil**. Enfin vous repartez reposés, soulagés et munis d'une f**iche conseil en naturopathie** ainsi que d'une **fiche d'auto-stimulations.** 
