@@ -2,16 +2,17 @@
 author = ""
 date = ""
 description = ""
-draft = true
 publishdate = ""
 tags = []
-title = "Honoraires réflexologie"
+title = "Honoraires Thérapies combinées"
 
 +++
-Séance personnalisée de réflexologie 1h......................................................................................50€
+Séance personnalisée de naturopathie et réflexologie 1h30.....................................80€
 
-Suivi thérapeutique de naturopathie 3x 30min après une séance personnalisée................75€
+Suivi thérapeutique 3x 30min après une séance personnalisée.................................75€
 
-Carte fidélité 6 séances + 1 gratuite................................................................................................300€
+Cure thérapeutique (vitalité, détox, sérénité, cure du moment) 3 séances d'1h sur 1mois +un livret conseil en naturopathie.............................180€
 
-Atelier à partir de 1h ...............................................................................................................................15€
+Carte fidélité 6 séances + 1 gratuite........................................................................................480€
+
+Atelier à partir de 1h .......................................................................................................15€
