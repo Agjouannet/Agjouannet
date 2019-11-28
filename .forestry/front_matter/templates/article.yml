@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/therapies/naturopathie.md
 - content/presse/intervention-à-la-mairie-de-vertou.md
 - content/presse/conférence-suivante-les-migraines.md
 - content/presse/prochaine-conférence-histoire-et-grands-principes-de-la-réflexothérapie.md
