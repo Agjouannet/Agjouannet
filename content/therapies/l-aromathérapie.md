@@ -1,6 +1,6 @@
 +++
 imageLink = "aromatherapie.jpg"
-title = "L'Aromathérapie"
+title = "Naturopathie"
 weight = "1"
 
 +++
