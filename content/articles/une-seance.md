@@ -15,4 +15,4 @@ Après cela vous serez installés confortablement sur la table de massage et pou
 
 Enfin nous ferons le point ensemble sur les améliorations ressenties, une boisson chaude pourra vous être proposée, et nous établirons une stratégie contre les maux qui détériorent votre quotidien. Vous repartirez reposés et nantis d’une _fiche conseil complète_ en homéopathie, aromathérapie et phytothérapie avec des auto-stimulations réflexes à pratiquer vous-même.
 
-![](/combinée.png)
+![](/combinee.png)

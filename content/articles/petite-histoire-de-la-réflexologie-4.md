@@ -24,7 +24,7 @@ Pour résumer, la méthode Fischmann se distingue des autres méthodes de réfle
 >
 > Sonia Fischmann.
 
-![](/combinée.PNG)
+![](/combinee.png)
 
 Les pratiques manuelles permettent au bénéficiaire de se relaxer profondément. Les instruments utilisés garantissent la précision des stimulations: le praticien utilise un Bâton de Verre (BV), un Détecteur Manuel (DM), un Détecteur Fréquentiel (DF), un bâton de Moxa (MX) ou des chaufferettes (CH), ainsi que des graines de Vacaria. Les graines permettent de faire durer le soin notamment par l’auto-stimulation. Avec la méthode Fischmann, le bénéficiaire devient acteur de sa santé en pratiquant l’auto-stimulation que lui aura enseigné le praticien. La méthode est assez évolutive dans le fait qu’elle ne comporte que très peu de protocoles et se base sur la réalisation d’un plan thérapeutique unique à chaque séance, d’où l’intérêt pour le praticien de maîtriser les bases de physiologie.
 
