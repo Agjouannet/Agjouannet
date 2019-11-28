@@ -1,9 +1,8 @@
 +++
-draft = true
 imageLink = ["parking.jpg"]
 title = "parking"
-weight = "2"
+weight = "3"
 
 +++
-* 5 places de parking disponibles (l'entrée s'effectue par le portail puis en longeant le bâtiment sur la gauche).
-* 1 place réservée aux personnes prioritaires (femmes enceintes, handicap, personnes âgées).
+* Salle d'attente lumineuse et confortable, magasines et livres à disposition, ainsi que des jeux pour les enfants.
+* Des jeux d'extérieurs sont également disponibles pour les beaux jours!
