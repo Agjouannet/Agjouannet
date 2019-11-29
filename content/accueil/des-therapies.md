@@ -2,8 +2,6 @@
 title: Des thérapies combinées pour un soin holistique
 description: ''
 weight: "2"
-actionLink: "/services/"
-actionText: Plus d'Infos
 
 ---
 {{< services-start >}}
