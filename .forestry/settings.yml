@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: content/nourrissons
+  label: Maternité & Nourrissons
+  create: all
+  match: "**/*"
 - type: document
   path: content/legal.md
   label: Mentions légales
