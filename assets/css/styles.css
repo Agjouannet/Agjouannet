@@ -74,3 +74,8 @@ a.text-color-green:hover {
     font-size: 35px;
 		margin: 10px;
 }
+
+.partner-logo img {
+		max-width: 150px;
+		margin-left: 20px;
+}

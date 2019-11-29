@@ -6,7 +6,10 @@ actionLink: "/services/"
 actionText: Plus d'Infos
 
 ---
-
-{{< link name="Naturopathie" link="" class="notification is-primary">}}
-{{< link name="Réflexologie" link="" class="notification is-primary">}}
-{{< link name="Thérapies combinées" link="" class="notification is-primary">}}
+{{< services-start >}}
+{{< link name="Réflexologie méthode fischmann" img="image-1" link="/therapies/#Réflexologie" class="">}}
+{{< link name="Thérapies naturelles combinées" img="image-2" link="/therapies/#Thérapies naturelles combinées" class="">}}
+{{< link name="Naturopathie" img="image-3" link="/therapies/#Naturopathie" class="">}}
+{{< link name="Maternité" img="image-4" link="" class="">}}
+{{< link name="Nourrisson" img="image-5" link="" class="">}}
+{{< services-end >}}

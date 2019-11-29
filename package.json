@@ -4,7 +4,7 @@
   "main": "assets/sass/bulmaStyles.scss",
   "devDependencies": {
     "bulma": "^0.7.2",
-    "node-sass": "^4.9.2"
+    "node-sass": "^4.13.0"
   },
   "scripts": {
     "css-build": "node-sass --omit-source-map-url assets/scss/bulmaStyles.scss assets/css/bulmaStyles.css",

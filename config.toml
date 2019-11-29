@@ -30,16 +30,16 @@ showDate = true
 showTags = true
 
 [params.social]
-    twitter = "https://twitter.com/"
+    twitter = "https://twitter.com/AJnaturoreflexo"
     facebook = "https://www.facebook.com/AJ.naturo.reflex/"
     github = ""
     instagram = "https://www.instagram.com/cabinet_therapies.naturelles/"
     pinterest = ""
     youtube = "https://youtube.com/"
-    linkedin = "https://linkedin.com/"
+    linkedin = "https://linkedin.com/in/agnès-jouannet-785340190"
     weibo = ""
     mastodon = ""
-    tumblr = "https://www.tumblr.com/"
+    tumblr = "https://ajnaturo-reflexo.tumblr.com/"
     flickr = ""
 
 [params.separator]
