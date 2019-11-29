@@ -11,21 +11,12 @@
     
     
     <item>
-      <title>A l&#39;origineeee: une vocation d&#39;aide</title>
+      <title>A l&#39;origine: une vocation d&#39;aide</title>
       <link>/accueil/origine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/accueil/origine/</guid>
-      <description>Né d’une vocation d’aide et de l’amour de la nature, le cabinet de thérapies naturelles repose sur une philosophie holistique (du grec «holos» , le tout, c’est à dire qui s’intéresse la personne dans sa globalité). La vision holistique de l’être humain tient compte de ses dimensions physiques, mentales, émotionnelles, familiales, sociales, culturelles, spirituelles.. Nous voulons aider le bénéficiaire à retrouver un équilibre de vie dans toutes ces dimensions. Le naturopathe et le réflexologue sont là avant tout pour améliorer votre qualité de vie et vous procurer du bien-être.</description>
-    </item>
-    
-    <item>
-      <title>L&#39;Homéopathie</title>
-      <link>/therapies/01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/therapies/01/</guid>
-      <description>L’homéopathie, découverte par le médecin Samuel Hahnemann, repose sur le fait qu’une substance toxique, administrée à faible dose, est capable de guérir des symptômes semblables à ceux qu’elle provoque chez un sujet sain à plus forte dose. Le remède homéopathique est comme une personne avec des signes psychiques et des signes physiques : plus le remède est semblable au bénéficiaire, plus il sera efficace.</description>
+      <description>Né d’une vocation d’aide et de l’amour de la nature, le cabinet de thérapies naturelles repose sur une philosophie holistique (du grec «holos» , le tout, c’est à dire qui s’intéresse la personne dans sa globalité). La vision holistique de l’être humain tient compte de ses dimensions physiques, mentales, émotionnelles, familiales, sociales, culturelles, spirituelles&amp;hellip; Nous voulons aider le bénéficiaire à retrouver un équilibre de vie dans toutes ces dimensions. Le naturopathe et le réflexologue sont là avant tout pour améliorer votre qualité de vie et vous procurer du bien-être.</description>
     </item>
     
     <item>
@@ -34,7 +25,26 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/cabinet/acces/</guid>
-      <description> 500 route de Clisson, 44120 Vertou. Accessible aux personnes à mobilité réduite, situé en rez-de-chaussée et donnant sur un jardin. Situé dans un complexe regroupant principalement des psychologues.  </description>
+      <description> 500 route de Clisson, 44120 Vertou. Accessible par le train (à moins de 5min à pied) et par le bus (Gare de Sud (ligne 42), Saupin (ligne 42), Gare de Nord (lignes 27 et 42)). Accessible aux personnes à mobilité réduite, situé en rez-de-chaussée et donnant sur un jardin. Situé dans un complexe regroupant principalement des psychologues.  </description>
+    </item>
+    
+    <item>
+      <title>Maternité</title>
+      <link>/nourrissons/maternite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/nourrissons/maternite/</guid>
+      <description> Aide à gérer le stress, améliore la digestion, régularise le sommeil, relâche les tensions musculaires, relaxe avant l’accouchement et l’allaitement, gestion
+Fees </description>
+    </item>
+    
+    <item>
+      <title>Naturopathie</title>
+      <link>/therapies/l-aromath%C3%A9rapie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/therapies/l-aromath%C3%A9rapie/</guid>
+      <description>La consultation de naturopathie comprend des soins et conseils en homéopathie (se soigner au quotidien grâce à des doses douces et efficaces, respectueuses de notre organisme et de l&amp;rsquo;environnement) ; en aroma-phytothérapie (Soulager de nombreux maux physiques et psychiques grâce aux plantes et aux huiles essentielles prises sous divers formes : infusions, bains, baumes, huiles de massage&amp;hellip;) ; en fleurs de Bach (élixirs floraux pour un apaisement émotionnel) ; en hygiène de vie (aider l&amp;rsquo;organisme à se maintenir en bonne santé par lui-même, se reconnecter aux rythmes biologiques).</description>
     </item>
     
     <item>
@@ -75,16 +85,6 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
     </item>
     
     <item>
-      <title></title>
-      <link>/accueil/le-logo-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/accueil/le-logo-1/</guid>
-      <description> &amp;ldquo;L&amp;rsquo;essentiel n&amp;rsquo;est pas de vivre, mais de bien vivre&amp;rdquo; Platon
- </description>
-    </item>
-    
-    <item>
       <title>Christophe</title>
       <link>/presse/christelle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -99,17 +99,32 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/accueil/des-therapies/</guid>
-      <description>La combinaison des différentes thérapies naturelles garantit une prise en charge complète tant au niveau mental que corporel.
-L&amp;rsquo;homéopathie gère les signes psychiques et physiques de la personne. L&amp;rsquo;aromathérapie en externe peut avoir également une connotation spirituelle, et elle soulage de nombreux maux. La phytothérapie prévient et soulage les situations physiques, tandis que les fleurs de Bach sont spécifiques aux troubles émotionnels. La réflexologie quant à elle agit comme incitatrice d&amp;rsquo;auto-guérison, favorisant une meilleure gestion des émotions, du stress et des douleurs.</description>
+      <description> Réflexologie méthode fischmann    Thérapies naturelles combinées    Naturopathie    Maternité    Nourrisson    </description>
     </item>
     
     <item>
-      <title>L&#39;Aromathérapie</title>
-      <link>/therapies/02/</link>
+      <title>Nourrissons</title>
+      <link>/nourrissons/nourrissons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/therapies/02/</guid>
-      <description>L’aromathérapie consiste à soigner grâce aux huiles essentielles présentes dans certaines plantes : chacune d’entre elle a ses propriétés (anti-inflammatoire, cicatrisante&amp;hellip;). Elles peuvent être prises en interne et en externe, et même si l’on trouve de nombreux conseils sur internet il est important de consulter un professionnel car certaines comportent des contre-indications sévères.</description>
+      <guid>/nourrissons/nourrissons/</guid>
+      <description>Cette séance de réflexologie est très relaxante.
+La plupart des bébés apprécient ces stimulations douces et rythmées.
+Ce contact affectueux peut atténuer leur mauvaise humeur et leur irritabilité.
+§ Il contribue à une bonne digestion
+§ Il peut soulager les coliques
+§ Il favorise la formation de liens affectifs
+§ Il favorise la communication, il permet d’être à l’écoute des signaux non verbaux de bébé
+§ Il régularise le rythme de sommeil des nourrissons</description>
+    </item>
+    
+    <item>
+      <title>Réflexologie</title>
+      <link>/therapies/la-r%C3%A9flexologie-m%C3%A9thode-fischmann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/therapies/la-r%C3%A9flexologie-m%C3%A9thode-fischmann/</guid>
+      <description>En stimulant une zone sur les pieds, les mains, le visage,les oreilles, le crâne ou le dos, le praticien envoie un message de régulation à l&amp;rsquo;organisme. La méthode, douce et efficace, est à la fois manuelle et instrumentale. La séance s’accompagne de musicothérapie réceptive : nous diffusons de la musique douce pour vous aider à atteindre un état de profonde relaxation en plein éveil, de manière à recevoir le soin dans les meilleures conditions.</description>
     </item>
     
     <item>
@@ -127,7 +142,7 @@ L&amp;rsquo;homéopathie gère les signes psychiques et physiques de la personne
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pourquoi/carte-02/</guid>
-      <description> Troubles du sommeil Troubles de la mémoire et de la concentration Nervosité/surmenage Stress, anxiété, dépression Préparation aux examens Arrêt de tabac Burn Out Fibromyalgies Névralgies  </description>
+      <description> Troubles du sommeil Troubles de la mémoire et de la concentration Nervosité/surmenage Stress, anxiété, dépression, burn out Préparation aux examens Arrêt de tabac Fibromyalgies Névralgies  </description>
     </item>
     
     <item>
@@ -136,7 +151,7 @@ L&amp;rsquo;homéopathie gère les signes psychiques et physiques de la personne
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/cabinet/parking/</guid>
-      <description> 5 places de parking disponibles (l&amp;rsquo;entrée s&amp;rsquo;effectue par le portail puis en longeant le bâtiment sur la gauche). 1 place réservée aux personnes prioritaires (femmes enceintes, handicap, personnes âgées).  </description>
+      <description> 5 places de parking disponibles gratuitement (l&amp;rsquo;entrée s&amp;rsquo;effectue par le portail puis en longeant le bâtiment sur la gauche). 1 place réservée aux personnes prioritaires (femmes enceintes, handicap, personnes âgées).  </description>
     </item>
     
     <item>
@@ -146,24 +161,6 @@ L&amp;rsquo;homéopathie gère les signes psychiques et physiques de la personne
       
       <guid>/honoraires/s%C3%A9ances-b%C3%A9b%C3%A9s/</guid>
       <description> Cure de 3 séances réparties sur 1 mois, alliant les différentes thérapies naturelles 135€ payables par chèques/espèces dès la première séance, encaissement possible en plusieurs fois. Bien-être, Préparation aux examens, Arrêt de tabac, Détox, Prévention maux de l&amp;rsquo;hiver  </description>
-    </item>
-    
-    <item>
-      <title>Intérieur</title>
-      <link>/cabinet/interieur/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/cabinet/interieur/</guid>
-      <description> Le cabinet de thérapies naturelles s&amp;rsquo;engage à pratiquer dans un espace confortable et propre. Les règles d&amp;rsquo;hygiènes dues à la profession sont appliquées avec rigueur. Le chauffage, un plaid et des coussins sont à disposition pour le bien-être du bénéficiaire.  </description>
-    </item>
-    
-    <item>
-      <title>La Phytothérapie</title>
-      <link>/therapies/03/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/therapies/03/</guid>
-      <description>La phytothérapie est l’emploi des plantes en général pour soigner sous différentes formes : infusions, décoctions, extraits, teintures, eaux florales, huiles végétales&amp;hellip;Elle comprend également les fleurs de Bach, élixirs qui agissent sur l’état émotionnel (peur, tristesse, colère) et participent au rétablissement de l’équilibre intérieur (sérénité, joie, confiance).</description>
     </item>
     
     <item>
@@ -185,22 +182,32 @@ L&amp;rsquo;homéopathie gère les signes psychiques et physiques de la personne
     </item>
     
     <item>
+      <title>Thérapies naturelles combinées</title>
+      <link>/therapies/combinees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/therapies/combinees/</guid>
+      <description>Le cabinet de thérapies naturelles développe une méthode unique regroupant plusieurs thérapies complémentaires dans le but d&amp;rsquo;obtenir des résultats plus rapides et pérennes. La naturopathie et la réflexologie combinées entre elles permettent de rétablir l&amp;rsquo;équilibre général de l&amp;rsquo;organisme et d&amp;rsquo;améliorer la qualité de vie, prenant en compte le bénéficiaire dans ses dimensions à la fois mentales et corporelles.
+La séance commence par un échange pendant lequel nous établissons un plan d&amp;rsquo;action selon vos besoins et vos attentes.</description>
+    </item>
+    
+    <item>
       <title>Une formation complète</title>
       <link>/accueil/une-formation-complete/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/accueil/une-formation-complete/</guid>
-      <description>Passionné depuis toujours par les plantes et par l&amp;rsquo;altruisme, je me suis intéressée aux médecines complémentaires à titre personnel d&amp;rsquo;abord, puis j&amp;rsquo;ai souhaité élargir mon champ d&amp;rsquo;action grâce à des formations professionnelles: en 2017 j&amp;rsquo;obtenais mon certificat de conseillère en Homéopathie avec le CERFPA. L&amp;rsquo;année suivante, j&amp;rsquo;obtenais un certificat européen de compétences professionnelles en aroma-phytothérapie, validé par une semaine de stage à l&amp;rsquo;école, près de Nice. Cette année je complète les soins avec la réflexologie (EIR Nantes), vers une spécialisation maternité et nourrisson.</description>
+      <description>  2017 CERFPA  Certificat de conseillère en homéopathie  2018 CERFPA  Certificat Européen de conseillère en aromathérapie  2019 EIR  Certificat praticienne en réflexologies combinées  2019 EIR  Certificat de spécialisation en réflexologie maternité &amp;amp; nourrisson  ... Cabinet de thérapies naturelles  Ouvert depuis mars 2019    Partenariat   &amp;ldquo;Un bien n&amp;rsquo;est agréable que s&amp;rsquo;il est partagé&amp;rdquo; Sénèque
+ </description>
     </item>
     
     <item>
-      <title></title>
-      <link>/accueil/une-formation-compl%C3%A8te/</link>
+      <title>parking</title>
+      <link>/cabinet/parking-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/accueil/une-formation-compl%C3%A8te/</guid>
-      <description> &amp;ldquo;Un bien n&amp;rsquo;est agréable que s&amp;rsquo;il est partagé&amp;rdquo; Sénèque
- </description>
+      <guid>/cabinet/parking-1/</guid>
+      <description> Salle d&amp;rsquo;attente lumineuse et confortable, magasines et livres à disposition, ainsi que des jeux pour les enfants. Des jeux d&amp;rsquo;extérieurs sont également disponibles pour les beaux jours!  </description>
     </item>
     
     <item>
@@ -213,12 +220,12 @@ L&amp;rsquo;homéopathie gère les signes psychiques et physiques de la personne
     </item>
     
     <item>
-      <title>La Réflexologie méthode Fischmann</title>
-      <link>/therapies/04/</link>
+      <title>Intérieur</title>
+      <link>/cabinet/interieur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/therapies/04/</guid>
-      <description>La réflexologie méthode Fischmann est une thérapie par stimulation réflexe : en stimulant une zone sur les pieds, les mains, le visage, les oreilles, le crâne ou le dos, le praticien informe le cerveau d’un déséquilibre, pour que celui-ci envoie un message de régulation à l’organe concerné. La méthode, douce et efficace, est à la fois manuelle et instrumentale. Des auto-stimulations sont enseignées pour vous donner plus d&amp;rsquo;autonomie!</description>
+      <guid>/cabinet/interieur/</guid>
+      <description> Le cabinet de thérapies naturelles s&amp;rsquo;engage à pratiquer dans un espace confortable et propre. Les règles d&amp;rsquo;hygiènes dues à la profession sont appliquées avec rigueur. Le chauffage, un plaid et des coussins sont à disposition pour le bien-être du bénéficiaire.  </description>
     </item>
     
     <item>
@@ -245,7 +252,7 @@ L&amp;rsquo;homéopathie gère les signes psychiques et physiques de la personne
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/accueil/une-entreprise-de-service/</guid>
-      <description>Le cabinet de thérapie naturelle met tout en oeuvre pour votre bien-être: vous pouvez opter pour une séance de naturopathie (comprenant aroma-phytothérapie, homéopathie, fleurs de Bach) ou une séance de réflexologie: 50€ pour 1h de soins et de conseils. Vous avez également la possibilité de choisir une séance en thérapies naturelles combinées (naturopathie+réflexologie): 70€ pour 1h30 de soins et de conseils. Nous proposons des tarifs réduits pour les moins de 4 ans (bébés), de 4 à 12 ans (enfants) et de 12 à 25 ans (étudiants).</description>
+      <description>Le cabinet de thérapie naturelle met tout en oeuvre pour votre bien-être: vous pouvez opter pour une séance de naturopathie, de réflexologie ou thérapies naturelles combinées. Des services et honoraires particuliers sont adaptés à la spécialisation maternité/nourrisson. Une facture vous est délivrée sur demande, pour un remboursement par votre mutuelle. Vous bénéficiez également de nombreux services et avantages complémentaires gratuits pour rendre les soins plus accessibles!</description>
     </item>
     
     <item>
@@ -265,15 +272,6 @@ La conférence suivante concernera les migraines et leur traitement par les thé
       
       <guid>/honoraires/08/</guid>
       <description> Des ateliers de formation: 2h-30€ (par thérapie ou par thématique). Des ateliers de soin: 1h-15€ (détente/art thérapie pour enfants et adultes). Des conférences (avec intervenants extérieurs).  </description>
-    </item>
-    
-    <item>
-      <title>La Musicothérapie réceptive</title>
-      <link>/therapies/05/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/therapies/05/</guid>
-      <description>La musicothérapie réceptive consiste à ralentir les ondes cérébrales pour induire la relaxation ou synchroniser les ondes de l&amp;rsquo;hémisphère droit et celles de l&amp;rsquo;hémisphère gauche, en écoutant des enregistrements conçus à cet effet. Au cabinet nous diffusons de la musique douce dont les ondes, entre 4 et 7 Hertz, vous aident à atteindre un état de profonde relaxation en plein éveil. Cet état de relaxation en plein éveil vous permet de recevoir les soins dans les meilleures conditions.</description>
     </item>
     
     <item>
@@ -404,7 +402,7 @@ Le cabinet de thérapies naturelles est disponible pour toutes les entreprises d
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pourquoi/carte-09/</guid>
-      <description> Constipation/diarrhées Nausées, migraines, maux de têtes liés à la digestion Ballonnements, spasmes intestinaux Ulcères de l&amp;rsquo;estomac, ulcère gastro-duodénal  </description>
+      <description> Constipation/diarrhées Nausées, migraines, maux de têtes liés à la digestion Ballonnements, spasmes intestinaux Améliore la digestion  </description>
     </item>
     
     <item>
@@ -475,7 +473,28 @@ Prestation au centre aquatique So Pool, installation dans une cabine des vestiai
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pourquoi/carte-12/</guid>
-      <description> Cancers Asthme chronique Maladie de Raynaud Addictions (alcool, tabac&amp;hellip;) Fibromyalgie  </description>
+      <description>Accompagnement du stress et des douleurs liées à:
+ Cancers Asthme chronique Maladie de Raynaud Addictions (alcool, tabac&amp;hellip;) Fibromyalgie  </description>
+    </item>
+    
+    <item>
+      <title>Accompagnement maternité</title>
+      <link>/pourquoi/accompagnement-de-pathologies-lourdes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pourquoi/accompagnement-de-pathologies-lourdes/</guid>
+      <description>1er trimestre: nausées, hypersomnie, bascule de l&amp;rsquo;utérus, tension des seins&amp;hellip; 2ème trimestre: gestion du stress, gestion du poids 3ème trimestre: tensions musculaires/sciatique, canal carpien/tarsien, relaxation avant l&amp;rsquo;accouchement (à terme dépassé), accompagnement pendant le travail. 4ème trimestre – post partum: aider la maman à mieux vivre ses cicatrices (césarienne, épisiotomie), seins douloureux, aide à l&amp;rsquo;allaitement, baby blues Aide à gérer le stress, améliore la digestion, régularise le sommeil,  relâche les tensions musculaires, relaxe avant l’accouchement et l’allaitement&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Accompagnement nourrissons</title>
+      <link>/pourquoi/accompagnement-maternit%C3%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pourquoi/accompagnement-maternit%C3%A9/</guid>
+      <description>La plupart des bébés apprécient ces stimulations douces et rythmées.
+Ce contact affectueux peut atténuer leur mauvaise humeur et leur irritabilité.
+ contribue à une bonne digestion et peut soulager les coliques favorise la formation de liens affectifs, la communication, permet d’être à l’écoute des signaux non verbaux de bébé régularise le rythme de sommeil de bébé les techniques stimulent les muscles et la circulation sanguine aide bébé à mieux téter, à se calmer, à faire ses dents, à mieux respirer, à mieux vivre son exzéma&amp;hellip;  </description>
     </item>
     
     <item>

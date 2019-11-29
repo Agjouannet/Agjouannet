@@ -1,57 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Les thérapies naturelles on Cabinet de thérapies naturelles</title>
+    <title>Naturopathie &amp; Réflexologie on Cabinet de thérapies naturelles</title>
     <link>/therapies/</link>
-    <description>Recent content in Les thérapies naturelles on Cabinet de thérapies naturelles</description>
+    <description>Recent content in Naturopathie &amp; Réflexologie on Cabinet de thérapies naturelles</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="/therapies/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>L&#39;Homéopathie</title>
-      <link>/therapies/01/</link>
+      <title>Naturopathie</title>
+      <link>/therapies/l-aromath%C3%A9rapie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/therapies/01/</guid>
-      <description>L’homéopathie, découverte par le médecin Samuel Hahnemann, repose sur le fait qu’une substance toxique, administrée à faible dose, est capable de guérir des symptômes semblables à ceux qu’elle provoque chez un sujet sain à plus forte dose. Le remède homéopathique est comme une personne avec des signes psychiques et des signes physiques : plus le remède est semblable au bénéficiaire, plus il sera efficace.</description>
+      <guid>/therapies/l-aromath%C3%A9rapie/</guid>
+      <description>La consultation de naturopathie comprend des soins et conseils en homéopathie (se soigner au quotidien grâce à des doses douces et efficaces, respectueuses de notre organisme et de l&amp;rsquo;environnement) ; en aroma-phytothérapie (Soulager de nombreux maux physiques et psychiques grâce aux plantes et aux huiles essentielles prises sous divers formes : infusions, bains, baumes, huiles de massage&amp;hellip;) ; en fleurs de Bach (élixirs floraux pour un apaisement émotionnel) ; en hygiène de vie (aider l&amp;rsquo;organisme à se maintenir en bonne santé par lui-même, se reconnecter aux rythmes biologiques).</description>
     </item>
     
     <item>
-      <title>L&#39;Aromathérapie</title>
-      <link>/therapies/02/</link>
+      <title>Réflexologie</title>
+      <link>/therapies/la-r%C3%A9flexologie-m%C3%A9thode-fischmann/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/therapies/02/</guid>
-      <description>L’aromathérapie consiste à soigner grâce aux huiles essentielles présentes dans certaines plantes : chacune d’entre elle a ses propriétés (anti-inflammatoire, cicatrisante&amp;hellip;). Elles peuvent être prises en interne et en externe, et même si l’on trouve de nombreux conseils sur internet il est important de consulter un professionnel car certaines comportent des contre-indications sévères.</description>
+      <guid>/therapies/la-r%C3%A9flexologie-m%C3%A9thode-fischmann/</guid>
+      <description>En stimulant une zone sur les pieds, les mains, le visage,les oreilles, le crâne ou le dos, le praticien envoie un message de régulation à l&amp;rsquo;organisme. La méthode, douce et efficace, est à la fois manuelle et instrumentale. La séance s’accompagne de musicothérapie réceptive : nous diffusons de la musique douce pour vous aider à atteindre un état de profonde relaxation en plein éveil, de manière à recevoir le soin dans les meilleures conditions.</description>
     </item>
     
     <item>
-      <title>La Phytothérapie</title>
-      <link>/therapies/03/</link>
+      <title>Thérapies naturelles combinées</title>
+      <link>/therapies/combinees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/therapies/03/</guid>
-      <description>La phytothérapie est l’emploi des plantes en général pour soigner sous différentes formes : infusions, décoctions, extraits, teintures, eaux florales, huiles végétales&amp;hellip;Elle comprend également les fleurs de Bach, élixirs qui agissent sur l’état émotionnel (peur, tristesse, colère) et participent au rétablissement de l’équilibre intérieur (sérénité, joie, confiance).</description>
-    </item>
-    
-    <item>
-      <title>La Réflexologie méthode Fischmann</title>
-      <link>/therapies/04/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/therapies/04/</guid>
-      <description>La réflexologie méthode Fischmann est une thérapie par stimulation réflexe : en stimulant une zone sur les pieds, les mains, le visage, les oreilles, le crâne ou le dos, le praticien informe le cerveau d’un déséquilibre, pour que celui-ci envoie un message de régulation à l’organe concerné. La méthode, douce et efficace, est à la fois manuelle et instrumentale. Des auto-stimulations sont enseignées pour vous donner plus d&amp;rsquo;autonomie!</description>
-    </item>
-    
-    <item>
-      <title>La Musicothérapie réceptive</title>
-      <link>/therapies/05/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/therapies/05/</guid>
-      <description>La musicothérapie réceptive consiste à ralentir les ondes cérébrales pour induire la relaxation ou synchroniser les ondes de l&amp;rsquo;hémisphère droit et celles de l&amp;rsquo;hémisphère gauche, en écoutant des enregistrements conçus à cet effet. Au cabinet nous diffusons de la musique douce dont les ondes, entre 4 et 7 Hertz, vous aident à atteindre un état de profonde relaxation en plein éveil. Cet état de relaxation en plein éveil vous permet de recevoir les soins dans les meilleures conditions.</description>
+      <guid>/therapies/combinees/</guid>
+      <description>Le cabinet de thérapies naturelles développe une méthode unique regroupant plusieurs thérapies complémentaires dans le but d&amp;rsquo;obtenir des résultats plus rapides et pérennes. La naturopathie et la réflexologie combinées entre elles permettent de rétablir l&amp;rsquo;équilibre général de l&amp;rsquo;organisme et d&amp;rsquo;améliorer la qualité de vie, prenant en compte le bénéficiaire dans ses dimensions à la fois mentales et corporelles.
+La séance commence par un échange pendant lequel nous établissons un plan d&amp;rsquo;action selon vos besoins et vos attentes.</description>
     </item>
     
   </channel>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maternité &amp; Nourrissons on Cabinet de thérapies naturelles</title>
+    <link>/nourrissons/</link>
+    <description>Recent content in Maternité &amp; Nourrissons on Cabinet de thérapies naturelles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/nourrissons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maternité</title>
+      <link>/nourrissons/maternite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/nourrissons/maternite/</guid>
+      <description> Aide à gérer le stress, améliore la digestion, régularise le sommeil, relâche les tensions musculaires, relaxe avant l’accouchement et l’allaitement, gestion
+Fees </description>
+    </item>
+    
+    <item>
+      <title>Nourrissons</title>
+      <link>/nourrissons/nourrissons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/nourrissons/nourrissons/</guid>
+      <description>Cette séance de réflexologie est très relaxante.
+La plupart des bébés apprécient ces stimulations douces et rythmées.
+Ce contact affectueux peut atténuer leur mauvaise humeur et leur irritabilité.
+§ Il contribue à une bonne digestion
+§ Il peut soulager les coliques
+§ Il favorise la formation de liens affectifs
+§ Il favorise la communication, il permet d’être à l’écoute des signaux non verbaux de bébé
+§ Il régularise le rythme de sommeil des nourrissons</description>
+    </item>
+    
+  </channel>
+</rss>
