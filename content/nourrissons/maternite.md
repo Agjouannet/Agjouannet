@@ -4,6 +4,6 @@ title = "Maternité"
 weight = "1"
 
 +++
-Maternité
+Aide à gérer le stress, améliore la digestion, régularise le sommeil, relâche les tensions musculaires, relaxe avant l’accouchement et l’allaitement, gestion
 
 ##### Fees

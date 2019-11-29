@@ -41,6 +41,9 @@
             {{ if modBool .Weight 3 }}
             </div>
             {{ end }}
+            {{ if .Params.last }}
+            </div>
+            {{ end }}
 
           {{ else }}
           <div class="column">

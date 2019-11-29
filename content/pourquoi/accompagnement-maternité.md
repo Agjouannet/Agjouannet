@@ -2,7 +2,7 @@
 title = "Accompagnement nourrissons"
 type = "carte"
 weight = "14"
-
+last = true
 +++
 La plupart des bébés apprécient ces stimulations douces et rythmées.
 
