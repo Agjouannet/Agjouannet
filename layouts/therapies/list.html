@@ -14,13 +14,7 @@
 	{{ range .Data.Pages.ByWeight }}
 	<section class="section" id="{{ .Title }}">
 		<div class="container">
-			<div class="columns is-variable has-equal-heights is-8 is-vcentered">
-				<div class="column is-6">
-					<div class="section-media aos-init aos-animate has-text-right" data-aos="zoom-in-up" data-aos-duration="1000">
-						<img class="full-width" role="presentation" src="/img/services/{{ .Params.imageLink }}" style="max-width:20rem;">
-					</div>
-				</div>
-				<div class="column is-6">
+			<div class="column">
 					<div class="section-header">
 						<h2 class="title is-2 is-spaced"> {{ .Title }}
 							<span class="spacer is-horizontal is-05"></span>
@@ -28,9 +22,11 @@
 						<div class="content subtitle is-4">
 							{{ .Content }}
 						</div>
+						<div class="section-media has-text-centered">
+							<img class="full-width" role="presentation" src="/img/services/{{ .Params.imageLink }}" style="max-width:20rem;">
+						</div>
 						<div class="hr spacer is-1"></div>
 						</div>
-					</div>
 				</div>
 			</div>
 	</section>
