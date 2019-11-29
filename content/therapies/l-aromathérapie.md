@@ -8,7 +8,7 @@ La consultation de naturopathie comprend des soins et conseils en **homéopathie
 
 La séance commence par un **échange** pour déterminer vos besoins et vos attentes, puis vous bénéficiez d’un **soin thérapeutique** avec des **produits naturels** totalement réalisés par votre praticienne. L'ambiance est douce et tamisée, une musique calme vous aide à vous ancrer dans l'**instant présent**. Vous repartez soulagés et nantis d’une **fiche conseil** complète et variée!
 
-##### Fees
+##### Honoraires
 
 Séance personnalisée de naturopathie 1h.......................................................................................................................50€
 
