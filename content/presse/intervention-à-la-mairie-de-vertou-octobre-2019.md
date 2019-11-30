@@ -5,7 +5,8 @@ description = "S'adapter à tous les locaux pour créer un espace de bien-être,
 publishdate = 2019-10-05T18:00:00Z
 tags = ["vertou", "réflexologie", "stage", "expérience professionnelle"]
 title = "Intervention en entreprises"
-weight= 12
+weight = 12
+
 +++
 Prestations de réflexologie pour les entreprises: s'adapter à tous les locaux pour créer un espace de bien-être, intime et chaleureux.
 
