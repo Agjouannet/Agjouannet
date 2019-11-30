@@ -10,12 +10,12 @@ La séance commence par un **échange** pendant lequel nous établissons un plan
 
 ##### Honoraires
 
-Séance personnalisée de naturopathie et réflexologie 1h30..............................................80€
+Séance personnalisée de naturopathie et réflexologie 1h30.........................................................80€
 
-Suivi thérapeutique 3x 30min après une séance personnalisée...........................................75€
+Suivi thérapeutique 3x 30min après une séance personnalisée.....................................................75€
 
-Cure thérapeutique (vitalité, détox, sérénité, cure du moment) 3 séances d'1h sur 1mois +un livret conseil en naturopathie..............180€
+Cure thérapeutique (vitalité, détox, sérénité, cure du moment) 3 séances d'1h sur 1mois +un livret conseil en naturopathie..180€
 
-Carte fidélité 6 séances + 1 gratuite...................................................................................................480€
+Carte fidélité 6 séances + 1 gratuite...........................................................................................................480€
 
-Atelier à partir de 1h .................................................................................................................15€
+Atelier à partir de 1h ............................................................................................................................15€
