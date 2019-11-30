@@ -14,7 +14,7 @@ La séance de réflexologie est très relaxante pour bébé: la plupart des béb
 
 La séance commence par un **échange** pour faire connaissance avec bébé et préciser ses besoins,  bébé est accompagné par un ou plusieurs proches qui resteront auprès de lui pendant toute la séance. Bébé sera **confortablement installée** pour la séance de **réflexologie**, grâce à un **matériel adapté** pour le recevoir. Des produits naturels et tout doux seront proposés pour sublimer le soin.  Le tout se déroule dans une ambiance olfactive, sonore et visuelle propice à une **relaxation profonde en plein éveil**. Pour finir, votre praticien vous offre un livret conseil en naturopathie pour soulager bébé au quotidien! 
 
-L'atelier parents-bébé permet également de découvrir quelques gestes simples pour aider bébé par la réflexologie!
+L'atelier parents-bébé permet également de découvrir quelques gestes simples pour aider bébé par la réflexologie tout en renforçant les liens familiaux!
 
 ##### Honoraires
 
