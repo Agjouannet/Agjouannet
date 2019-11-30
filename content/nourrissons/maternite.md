@@ -15,3 +15,7 @@ weight = "1"
 La séance commence par un **échange** pour préciser les besoins et attentes de la future ou jeune maman. Puis celle-ci est **confortablement installée** pour la séance de **réflexologie**, grâce à un **matériel adapté** pour la recevoir. Des produits naturels, adaptés à la maternité et à l'allaitement vous seront proposés pour sublimer le soin. Le tout se déroule dans une ambiance olfactive, sonore et visuelle propice à une **relaxation profonde en plein éveil**. Pour finir, la future ou jeune maman repart avec un livret conseil en naturopathie et une fiche d'auto-stimulations!
 
 ##### Honoraires
+
+* Séance de réflexologie maternité de 60’ (accompagner la grossesse par la stimulation de zones réflexes plantaires, palmaires, faciales, auriculaires, dorsales et combinées).............................50€
+* 10 Séances de réflexologie maternité (idéal pour un bon cadeau! 1 séance par mois de grossesse + 1 séance de relaxation avant la naissance et 1 séance post-natale)...........;................................450€
+* 5 Séances de réflexologie maternité (idéal pour un bon cadeau! 1 séance par trimestre + 1 séance de relaxation avant la naissance et 1 séance post-natale)..................................................................225€
