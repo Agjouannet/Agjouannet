@@ -1,6 +1,6 @@
 +++
 imageLink = []
-title = "parking"
+title = "Salle d'attente"
 weight = "3"
 
 +++
