@@ -1,6 +1,9 @@
 ---
-title: Le cabinet
-menu: main
-weight: 5
+title: Infos pratiques
+weight: "5"
 sitemap_include: true
+menu:
+  main:
+    weight: 5
+
 ---
