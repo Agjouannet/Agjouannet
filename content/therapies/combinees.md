@@ -8,14 +8,14 @@ Le cabinet de thérapies naturelles développe une méthode unique regroupant pl
 
 La séance commence par un **échange** pendant lequel nous établissons un plan d'action selon vos besoins et vos attentes. Vous bénéficiez ensuite d'un **soin réflexe sublimé** par des synergies d'huiles essentielles ou d'autres produits naturels aux plantes (tous réalisés par mes soins). Le tout se déroule dans une ambiance olfactive, sonore et visuelle propice à une **relaxation profonde en plein éveil**. Enfin vous repartez reposés, soulagés et munis d'une f**iche conseil en naturopathie** ainsi que d'une **fiche d'auto-stimulations.**
 
-##### Fees
+##### Honoraires
 
-Séance personnalisée de naturopathie et réflexologie 1h30.....................................80€
+Séance personnalisée de naturopathie et réflexologie 1h30..............................................80€
 
-Suivi thérapeutique 3x 30min après une séance personnalisée.................................75€
+Suivi thérapeutique 3x 30min après une séance personnalisée...........................................75€
 
-Cure thérapeutique (vitalité, détox, sérénité, cure du moment) 3 séances d'1h sur 1mois +un livret conseil en naturopathie.............................180€
+Cure thérapeutique (vitalité, détox, sérénité, cure du moment) 3 séances d'1h sur 1mois +un livret conseil en naturopathie..............180€
 
-Carte fidélité 6 séances + 1 gratuite........................................................................................480€
+Carte fidélité 6 séances + 1 gratuite...................................................................................................480€
 
-Atelier à partir de 1h .......................................................................................................15€
+Atelier à partir de 1h .................................................................................................................15€
