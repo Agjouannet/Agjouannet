@@ -8,12 +8,12 @@ En stimulant une zone sur les **pieds**, les **mains**, le **visage**,les **orei
 
 La séance commence par un **échange** pour déterminer vos besoins et vos attentes, puis vous bénéficiez d'un **soin réflexe unique**: le choix des zones, le choix des microsystèmes et des instruments de stimulation sont revus à chaque séance en **adaptation constante** à vos besoins et votre évolution. Des résultats sont notables dès la première séance, et des **auto-stimulations** sont enseignées pour vous donner plus d’autonomie!
 
-##### Fees
+##### Honoraires
 
-Séance personnalisée de réflexologie 1h......................................................................................50€
+Séance personnalisée de réflexologie 1h................................................................................................50€
 
-Suivi thérapeutique de naturopathie 3x 30min après une séance personnalisée................75€
+Suivi thérapeutique de naturopathie 3x 30min après une séance personnalisée..........................75€
 
-Carte fidélité 6 séances + 1 gratuite................................................................................................300€
+Carte fidélité 6 séances + 1 gratuite..........................................................................................................300€
 
-Atelier à partir de 1h ...............................................................................................................................15€
+Atelier à partir de 1h .........................................................................................................................................15€
