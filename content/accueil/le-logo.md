@@ -2,6 +2,7 @@
 title: Le logo
 description: ''
 weight: "5"
+draft: true
 
 ---
 * Les couleurs : rappelant l’océan et le ciel, le bleu est une couleur étroitement liée au rêve, à la sagesse et à la sérénité. Comme l'eau qui désaltère, elle a un côté rafraîchissant et pur qui permet de retrouver un certain calme intérieur lié aux choses profondes. Associé à la nature, le vert est une couleur apaisante et tonifiante à la fois. C’est la couleur de l’espérance, de la stabilité et de la concentration.
