@@ -4,7 +4,7 @@ title = "Maternité"
 weight = "1"
 
 +++
-La réflexologie méthode Fischmann apporte un confort bienveillant à tous niveaux. Sur le plan physique, elle favorise le relâchement des structures anatomiques (musculaire, tissulaire, articulaire, etc.) et améliore la vascularisation, la circulations sanguine et lymphatique. Sur le plan psychique, elle aide la future maman à se relaxer pour gérer ce stress qui est à l’origine de nombreux dysfonctionnements.
+La réflexologie méthode Fischmann apporte confort et bien-être à tous niveaux. Sur le plan physique, elle favorise le relâchement des structures anatomiques (musculaire, tissulaire, articulaire, etc.) et améliore la vascularisation, la circulations sanguine et lymphatique. Sur le plan psychique, elle aide la future maman à se relaxer pour gérer ce stress qui est à l’origine de nombreux dysfonctionnements.
 
 Cette spécialisation me permet de prendre soin de la maman aux différentes étapes de la maternité, grâce à des perfectionnements techniques et à une meilleure compréhension des changements physiologiques de la future maman pour la prendre en soin en toute sécurité. Les protocoles mis en place par Sonia Fischmann, réflexologue expert grâce à des années d'expériences, permettent de recevoir la maman, seule ou accompagnée, au cabinet, à domicile ou encore au sein d’institutions spécialisées.
 
