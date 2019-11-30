@@ -1,11 +1,13 @@
 +++
 author = "Cabinet de thérapies naturelles"
-date = "2019-09-05T22:00:00+00:00"
+date = 2019-09-05T22:00:00Z
 description = "Intervention sur un mois à la piscine de Basse-Goulaine"
-publishdate = "2019-09-05T22:00:00+00:00"
+draft = true
+publishdate = 2019-09-05T22:00:00Z
 tags = ["prestation de services", "réflexologie en entreprise", "soins gratuits"]
 title = "Prestation de services au centre aquatique So Pool, Septembre 2019"
-weight= 11
+weight = 11
+
 +++
 ![](/IMG_1338.JPG)
 

@@ -1,11 +1,13 @@
 +++
 author = "Cabinet de thérapies naturelles"
-date = "2019-05-13T22:00:00+00:00"
+date = 2019-05-13T22:00:00Z
 description = "Le 6 Juillet 2019 au cabinet: 500 route de Clisson. Conférence sur la réflexologie et ateliers"
-publishdate = "2019-05-13T22:00:00+00:00"
+draft = true
+publishdate = 2019-05-13T22:00:00Z
 tags = ["Conférence", "actualités", "réflexologie", "ateliers", "portes ouvertes"]
 title = "Journée portes ouvertes au cabinet de thérapies naturelles"
-weight= 10
+weight = 10
+
 +++
 Le cabinet de thérapies naturelles vous accueille le **samedi 6 Juillet 2019** pour une journée découverte! Au programme: sa première conférence: **Histoire et grands principes de la réflexologie**, ainsi que des **Ateliers découvertes** pour recevoir un soin de 5min en réflexologie et apprendre des auto-stimulations.
 

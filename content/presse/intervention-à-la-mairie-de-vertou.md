@@ -1,11 +1,13 @@
 +++
 author = "Cabinet de thérapies naturelles"
-date = "2019-09-01T22:00:00+00:00"
+date = 2019-09-01T22:00:00Z
 description = "Mise en situation professionnelle de réflexologie"
-publishdate = "2019-09-01T22:00:00+00:00"
+draft = true
+publishdate = 2019-09-01T22:00:00Z
 tags = ["vertou", "réflexologie", "stage", "expérience professionnelle"]
 title = "Intervention à la mairie de Vertou, Octobre 2019"
-weight= 9
+weight = 9
+
 +++
 Sur le mois d'octobre je serai présente à la mairie de Vertou comme prestataire de services gratuits, pour proposer au personnel de la mairie des soins de réflexologie dans  le cadre de ma formation à l'école internationale de réflexologie.
 
