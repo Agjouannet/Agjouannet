@@ -15,6 +15,6 @@ La séance commence par un **échange** pour préciser les besoins et attentes d
 
 ##### Honoraires
 
-* Séance de réflexologie maternité de 60’ (accompagner la grossesse par la stimulation de zones réflexes plantaires, palmaires, faciales, auriculaires, dorsales et combinées).............................50€
-* 10 Séances de réflexologie maternité (idéal pour un bon cadeau! 1 séance par mois de grossesse + 1 séance de relaxation avant la naissance et 1 séance post-natale)...........;................................450€
-* 5 Séances de réflexologie maternité (idéal pour un bon cadeau! 1 séance par trimestre + 1 séance de relaxation avant la naissance et 1 séance post-natale)..................................................................225€
+* Séance de réflexologie maternité de 60’ (accompagner la grossesse par la stimulation de zones réflexes plantaires, palmaires, faciales, auriculaires, dorsales et combinées)...............................................................................50€
+* 10 Séances de réflexologie maternité (idéal pour un bon cadeau! 1 séance par mois de grossesse + 1 séance de relaxation avant la naissance et 1 séance post-natale)........................................................................................450€
+* 5 Séances de réflexologie maternité (idéal pour un bon cadeau! 1 séance par trimestre + 1 séance de relaxation avant la naissance et 1 séance post-natale).........................................................................................225€
