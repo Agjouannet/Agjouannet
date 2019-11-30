@@ -9,8 +9,7 @@ weight = "1"
 * 3ème trimestre: tensions musculaires/sciatique, canal carpien/tarsien, relaxation avant l'accouchement (à terme dépassé), accompagnement pendant le travail.
 * 4ème trimestre – post partum: aider la maman à mieux vivre ses cicatrices (césarienne, épisiotomie), seins douloureux, aide à l'allaitement, baby blues
 * Aide à gérer le stress, améliore la digestion, régularise le sommeil,
-
-  relâche les tensions musculaires, relaxe avant l’accouchement et l’allaitement…
+* relâche les tensions musculaires, relaxe avant l’accouchement et l’allaitement…
 
 La séance commence par un **échange** pour préciser les besoins et attentes de la future ou jeune maman. Puis celle-ci est **confortablement installée** pour la séance de **réflexologie**, grâce à un **matériel adapté** pour la recevoir. Des produits naturels, adaptés à la maternité et à l'allaitement vous seront proposés pour sublimer le soin. Le tout se déroule dans une ambiance olfactive, sonore et visuelle propice à une **relaxation profonde en plein éveil**. Pour finir, la future ou jeune maman repart avec un livret conseil en naturopathie et une fiche d'auto-stimulations!
 
