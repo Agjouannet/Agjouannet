@@ -1,7 +1,7 @@
 +++
 imageLink = []
 title = "Salle d'attente"
-weight = "3"
+weight = "4"
 
 +++
 * Salle d'attente lumineuse et confortable, magasines et livres à disposition, ainsi que des jeux pour les enfants.
