@@ -28,21 +28,21 @@
     </item>
     
     <item>
-      <title>Salle d&#39;attente</title>
-      <link>/cabinet/parking-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/cabinet/parking-1/</guid>
-      <description> Salle d&amp;rsquo;attente lumineuse et confortable, magasines et livres à disposition, ainsi que des jeux pour les enfants. Des jeux d&amp;rsquo;extérieurs sont également disponibles pour les beaux jours!  </description>
-    </item>
-    
-    <item>
       <title>parking</title>
       <link>/cabinet/parking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/cabinet/parking/</guid>
       <description> 5 places de parking disponibles gratuitement (l&amp;rsquo;entrée s&amp;rsquo;effectue par le portail puis en longeant le bâtiment sur la gauche). 1 place réservée aux personnes prioritaires (femmes enceintes, handicap, personnes âgées).  </description>
+    </item>
+    
+    <item>
+      <title>Salle d&#39;attente</title>
+      <link>/cabinet/parking-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cabinet/parking-1/</guid>
+      <description> Salle d&amp;rsquo;attente lumineuse et confortable, magasines et livres à disposition, ainsi que des jeux pour les enfants. Des jeux d&amp;rsquo;extérieurs sont également disponibles pour les beaux jours!  </description>
     </item>
     
     <item>
