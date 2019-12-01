@@ -2,7 +2,7 @@
 title: parking
 imageLink:
 - parking.jpg
-weight: "2"
+weight: "3"
 
 ---
 * 5 places de parking disponibles gratuitement (l'entrée s'effectue par le portail puis en longeant le bâtiment sur la gauche).
