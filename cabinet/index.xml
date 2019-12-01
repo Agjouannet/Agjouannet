@@ -10,15 +10,6 @@
     
     
     <item>
-      <title>Le cabinet</title>
-      <link>/cabinet/acces/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/cabinet/acces/</guid>
-      <description> 500 route de Clisson, 44120 Vertou. Accessible par le train (gare à moins de 5min à pied) et par le bus (Gare de Sud (ligne 42), Saupin (ligne 42), Gare de Nord (lignes 27 et 42)). Accessible aux personnes à mobilité réduite, situé en rez-de-chaussée et donnant sur un jardin. Situé dans un complexe regroupant principalement des psychothérapeutes.  </description>
-    </item>
-    
-    <item>
       <title>Réservation</title>
       <link>/cabinet/le-cabinet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -28,12 +19,12 @@
     </item>
     
     <item>
-      <title>parking</title>
-      <link>/cabinet/parking/</link>
+      <title>Le cabinet</title>
+      <link>/cabinet/acces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cabinet/parking/</guid>
-      <description> 5 places de parking disponibles gratuitement (l&amp;rsquo;entrée s&amp;rsquo;effectue par le portail puis en longeant le bâtiment sur la gauche). 1 place réservée aux personnes prioritaires (femmes enceintes, handicap, personnes âgées).  </description>
+      <guid>/cabinet/acces/</guid>
+      <description> 500 route de Clisson, 44120 Vertou. Accessible par le train (gare à moins de 5min à pied) et par le bus (Gare de Sud (ligne 42), Saupin (ligne 42), Gare de Nord (lignes 27 et 42)). Accessible aux personnes à mobilité réduite, situé en rez-de-chaussée et donnant sur un jardin. Situé dans un complexe regroupant principalement des psychothérapeutes.  </description>
     </item>
     
     <item>
@@ -43,6 +34,15 @@
       
       <guid>/cabinet/parking-1/</guid>
       <description> Salle d&amp;rsquo;attente lumineuse et confortable, magasines et livres à disposition, ainsi que des jeux pour les enfants. Des jeux d&amp;rsquo;extérieurs sont également disponibles pour les beaux jours!  </description>
+    </item>
+    
+    <item>
+      <title>parking</title>
+      <link>/cabinet/parking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cabinet/parking/</guid>
+      <description> 5 places de parking disponibles gratuitement (l&amp;rsquo;entrée s&amp;rsquo;effectue par le portail puis en longeant le bâtiment sur la gauche). 1 place réservée aux personnes prioritaires (femmes enceintes, handicap, personnes âgées).  </description>
     </item>
     
     <item>

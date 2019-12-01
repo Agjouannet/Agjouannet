@@ -20,15 +20,6 @@
     </item>
     
     <item>
-      <title>Le cabinet</title>
-      <link>/cabinet/acces/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/cabinet/acces/</guid>
-      <description> 500 route de Clisson, 44120 Vertou. Accessible par le train (gare à moins de 5min à pied) et par le bus (Gare de Sud (ligne 42), Saupin (ligne 42), Gare de Nord (lignes 27 et 42)). Accessible aux personnes à mobilité réduite, situé en rez-de-chaussée et donnant sur un jardin. Situé dans un complexe regroupant principalement des psychothérapeutes.  </description>
-    </item>
-    
-    <item>
       <title>Maternité</title>
       <link>/nourrissons/maternite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -112,6 +103,15 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
     </item>
     
     <item>
+      <title>Le cabinet</title>
+      <link>/cabinet/acces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cabinet/acces/</guid>
+      <description> 500 route de Clisson, 44120 Vertou. Accessible par le train (gare à moins de 5min à pied) et par le bus (Gare de Sud (ligne 42), Saupin (ligne 42), Gare de Nord (lignes 27 et 42)). Accessible aux personnes à mobilité réduite, situé en rez-de-chaussée et donnant sur un jardin. Situé dans un complexe regroupant principalement des psychothérapeutes.  </description>
+    </item>
+    
+    <item>
       <title>Nourrissons</title>
       <link>/nourrissons/nourrissons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -145,15 +145,6 @@ Voici un aperçu des situations dans lesquelles vous pourriez consulter. Il s&am
       
       <guid>/pourquoi/carte-02/</guid>
       <description> Troubles du sommeil Troubles de la mémoire et de la concentration Nervosité/surmenage Stress, anxiété, dépression, burn out Préparation aux examens Arrêt de tabac Fibromyalgies Névralgies  </description>
-    </item>
-    
-    <item>
-      <title>parking</title>
-      <link>/cabinet/parking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/cabinet/parking/</guid>
-      <description> 5 places de parking disponibles gratuitement (l&amp;rsquo;entrée s&amp;rsquo;effectue par le portail puis en longeant le bâtiment sur la gauche). 1 place réservée aux personnes prioritaires (femmes enceintes, handicap, personnes âgées).  </description>
     </item>
     
     <item>
@@ -210,6 +201,15 @@ La séance commence par un échange pendant lequel nous établissons un plan d&a
       <guid>/accueil/une-formation-complete/</guid>
       <description>  2017 CERFPA  Certificat de conseillère en homéopathie  2018 CERFPA  Certificat Européen de conseillère en aromathérapie  2019 EIR  Certificat praticienne en réflexologies combinées  2019 EIR  Certificat de spécialisation en réflexologie maternité &amp;amp; nourrisson  ... Cabinet de thérapies naturelles  Ouvert depuis mars 2019    Partenariat   &amp;ldquo;Un bien n&amp;rsquo;est agréable que s&amp;rsquo;il est partagé&amp;rdquo; Sénèque
  </description>
+    </item>
+    
+    <item>
+      <title>parking</title>
+      <link>/cabinet/parking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cabinet/parking/</guid>
+      <description> 5 places de parking disponibles gratuitement (l&amp;rsquo;entrée s&amp;rsquo;effectue par le portail puis en longeant le bâtiment sur la gauche). 1 place réservée aux personnes prioritaires (femmes enceintes, handicap, personnes âgées).  </description>
     </item>
     
     <item>
