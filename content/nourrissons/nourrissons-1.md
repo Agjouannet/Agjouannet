@@ -1,22 +1,21 @@
 +++
-draft = true
 imageLink = "image-5.jpg"
-title = "Nourrissons"
-weight = "2"
+title = "Prochaine journée des ateliers mardi 7 janvier 2020-de 8h à 18h"
+weight = "3"
 
 +++
-Toucher son bébé, le masser, est un moment de communication pour les parents, un échange privilégié pour lui montrer qu’il est aimé et le soulager. La stimulation réflexe est un moyen fabuleux de prendre soin des petits bouts. Le lissage des zones réflexes des pieds permet d’accompagner les petits maux du nourrisson et de l’aider à mieux s’adapter à ce nouveau monde. La séance de réflexologie est très relaxante: la plupart des bébés apprécient ces stimulations douces et rythmées. Ce contact affectueux peut atténuer leur mauvaise humeur et leur irritabilité.
+Apprenez à stimuler bébé au quotidien, pour qu'il se sente mieux! Il s'agit d'un atelier privé, rien que pour bébé et vous!
 
-La réflexologie va également aider les parents à se sentir mieux. En effet, dès que leur enfant pleure trop longtemps, ou qu’il s ‘agite un peu, les parents se sentent nerveux et mal à l’aise. Les bébés sont de vraies éponges, ils ressentent le stress de leurs parents et très vite s’installe une fatigue générale.
+Vous apprendrez les bons gestes de massage réflexe pour apaiser bébé, l'aider à mieux dormir, à mieux digérer...un moment de douceur et de communication intense!
 
-La spécialisation suivie m'offre la possibilité de prendre soin de votre petit trésor selon une approche spécifique sensorielle basée sur la compréhension des modes de fonctionnement de la relation parents/bébé. Les protocoles de stimulation mis en place permettent de recevoir le nourrisson et ses parents en cabinet, à domicile ou encore au sein de services de maternité.
+Si l'atelier vous a plu, vous pouvez le renouveler deux autres fois dans le mois:
 
-La séance commence par un **échange** pour faire connaissance avec bébé et préciser ses besoins,  bébé est accompagné par un ou plusieurs proches qui resteront auprès de lui pendant toute la séance. Bébé sera **confortablement installée** pour la séance de **réflexologie**, grâce à un **matériel adapté** pour le recevoir. Des produits naturels et tout doux seront proposés pour sublimer le soin.  Le tout se déroule dans une ambiance olfactive, sonore et visuelle propice à une **relaxation profonde en plein éveil**. Pour finir, votre praticien vous offre un livret conseil en naturopathie pour soulager bébé au quotidien!
+\- Une fois avec un autre proche (par exemple papa, grand-mère, marraine...) qui apprendra également les gestes de stimulation.
 
-L'atelier parents-bébé permet également de découvrir quelques gestes simples pour aider bébé par la réflexologie tout en renforçant les liens familiaux!
+\- Une fois avec les frères et sœurs , qui pourront tous imiter les parents en s’entraînant sur des poupons!
 
-##### Honoraires
+La plupart des bébés apprécient ces stimulations douces et rythmées. Ce contact affectueux peut atténuer leur mauvaise humeur et leur irritabilité. Le fait d'englober toute la famille permet de recréer du lien autour de bébé! Important: votre réflexologue est spécialisée dans l'accompagnement des nourrissons!
 
-* Séance de réflexologie bébé 30’ (aider bébé à se relaxer, mieux digérer, mieux dormir, mieux téter, etc.)............................................................................................................35€
-* Vivre une expérience sensorielle de 30’ (stimuler bébé pour le relaxer, lui faire vivre une expérience sensorielle).......................................................................................................35€
-* Atelier parents/bébé de 30’.......................................................................................................35€
+Mode d'emploi:
+
+Je réserve chaque 1er mardi du mois aux ateliers parents-bébé (de 8h à 18h). Rendez-vous [en ligne](https://thenat.setmore.com/services) (choisir: atelier privé parent-bébé) ou appelez-moi pour réserver un créneau de 30min au moment qui vous convient!
