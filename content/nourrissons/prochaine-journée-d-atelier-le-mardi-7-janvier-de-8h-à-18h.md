@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Prochaine journée d'atelier le mardi 7 janvier de 8h à 18h"
 
 +++
