@@ -2,23 +2,24 @@
 author = "Cabinet de thérapies naturelles"
 date = "2019-05-13T22:00:00+00:00"
 description = "Le 6 Juillet 2019 au cabinet: 500 route de Clisson. Conférence sur la réflexologie et ateliers"
-draft = true
 publishdate = "2019-05-13T22:00:00+00:00"
 tags = ["Conférence", "actualités", "réflexologie", "ateliers", "portes ouvertes"]
-title = "Journée portes ouvertes au cabinet de thérapies naturelles"
+title = "Prochaine journée de l'Atelier parents-bébé: mardi 7 janvier 2020"
 weight = 10
 
 +++
-Le cabinet de thérapies naturelles vous accueille le **samedi 6 Juillet 2019** pour une journée découverte! Au programme: sa première conférence: **Histoire et grands principes de la réflexologie**, ainsi que des **Ateliers découvertes** pour recevoir un soin de 5min en réflexologie et apprendre des auto-stimulations.
+Apprenez à stimuler bébé au quotidien, pour qu'il se sente mieux! Il s'agit d'un atelier privé, rien que pour bébé et vous!
 
-Au cours de la conférence, nous retracerons pour vous l'_évolution de la pratique de stimulation réflexe_ au cours du temps, et nous verrons _ses grands principes de fonctionnement_.
+Vous apprendrez les bons gestes de massage réflexe pour apaiser bébé, l'aider à mieux dormir, à mieux digérer...un moment de douceur et de communication intense!
 
-La conférence aura lieu au cabinet, **500 route de Clisson, 44120, Vertou**. L'entrée se fera par le jardin et la salle d'attente.
+Si l'atelier vous a plu, vous pouvez le renouveler deux autres fois dans le mois:
 
-Pour des raisons de manque de place, nous donnerons cette conférence plusieurs fois dans la journée: à 10h, 15h, 18h et 20h. Les ateliers se feront entre chaque conférence.
+\- Une fois avec un autre proche (par exemple papa, grand-mère, marraine...) qui apprendra également les gestes de stimulation.
 
-Une participation de 5€ vous sera demandée, notamment pour la location exceptionnelle du cabinet. Cependant l'accès demeure libre pour les moins de 25 ans. Nous vous remercions de votre compréhension.
+\- Une fois avec les frères et sœurs , qui pourront tous imiter les parents en s’entraînant sur des poupons!
 
-Afin d'organiser au mieux cette journée, nous vous prions de bien vouloir vous inscrire [ici](https://docs.google.com/forms/d/e/1FAIpQLSdvejOSFSIJom5e2hxWPSgHwE_B7Xu6EjEenPVbuxJqRwCcyg/viewform?usp=sf_link).
+La plupart des bébés apprécient ces stimulations douces et rythmées. Ce contact affectueux peut atténuer leur mauvaise humeur et leur irritabilité. Le fait d'englober toute la famille permet de recréer du lien autour de bébé! Important: votre réflexologue est spécialisée dans l'accompagnement des nourrissons!
 
-![](/L-intrigante-histoire-du-papyrus-du-web-Ankhmahor-Superposition-bas-relief-papyrus.jpg)
+Mode d'emploi:
+
+Je réserve chaque 1er mardi du mois aux ateliers parents-bébé (de 8h à 18h). Rendez-vous [en ligne](https://thenat.setmore.com/services) (choisir: atelier privé parent-bébé) ou appelez-moi pour réserver un créneau de 30min au moment qui vous convient!
