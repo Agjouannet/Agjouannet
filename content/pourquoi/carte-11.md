@@ -1,9 +1,9 @@
 ---
-title: "Fleurs de Bach"
-type: "carte"
-weight: 11
----
+title: Fleurs de Bach
+type: carte
+weight: "11"
 
+---
 * Peur (du noir, de la foule...)
 * Etat d'incertitude et de découragement
 * Manque d'intérêt pour le présent (nostalgie...)

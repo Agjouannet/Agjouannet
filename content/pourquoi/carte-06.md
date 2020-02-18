@@ -2,6 +2,7 @@
 title: Système cardio-vasculaire
 type: carte
 weight: "6"
+draft: true
 
 ---
 * Tachycardie/palpitations

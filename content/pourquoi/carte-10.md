@@ -2,6 +2,7 @@
 title: Système urinaire
 type: carte
 weight: "10"
+draft: true
 
 ---
 * Cystites
