@@ -2,6 +2,7 @@
 title: Système lymphatique
 type: carte
 weight: "1"
+draft: true
 
 ---
 * Aide à la circulation et à l'élimination

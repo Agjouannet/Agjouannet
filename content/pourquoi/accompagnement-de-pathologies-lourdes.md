@@ -4,7 +4,6 @@ type = "carte"
 weight = "13"
 
 +++
-
 * 1er trimestre: nausées, hypersomnie, bascule de l'utérus, tension des seins...
 * 2ème trimestre: gestion du stress, gestion du poids
 * 3ème trimestre: tensions musculaires/sciatique, canal carpien/tarsien, relaxation avant l'accouchement (à terme dépassé), accompagnement pendant le travail.
