@@ -1,5 +1,8 @@
 +++
 title = "Votre rôle d'ambassadeur/drice"
+[menu.main]
+name = "V.I.P"
+weight = 7
 
 +++
 En adhérant au programme V.I.P vous devenez ambassadeur/drice du bien-être. Vos missions:
