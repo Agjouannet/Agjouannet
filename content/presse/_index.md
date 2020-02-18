@@ -1,7 +1,10 @@
 ---
 title: Presse
-menu: main
-weight: 7
+weight: "7"
 robotsdisallow: true
 sitemap_include: false
+menu:
+  main:
+    weight: 4
+
 ---

@@ -1,6 +1,9 @@
 ---
 title: Maternité & Nourrissons
-menu: main
-weight: 3
+weight: "3"
 sitemap_include: true
+menu:
+  main:
+    weight: 1
+
 ---

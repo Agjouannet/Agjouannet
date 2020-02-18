@@ -6,45 +6,40 @@ googleAnalytics = "UA-137241674-1"
 language = "fr-FR"
 paginate = 3
 title = "Cabinet de thérapies naturelles"
-
+[[menu.main]]
+name = "Accueil"
+weight = 6
 [outputs]
 home = ["HTML", "RSS"]
 page = ["HTML", "RSS"]
-
 [params]
 BaseMapURL = "https://thenat.services"
 description = "Conseils et soins en Homéopathie, Aromathérapie, Phytothérapie et Réflexologie. Découvrez une entreprise basée sur le service et la confiance, dans une approche holistique du bénéficiaire. Le cabinet de thérapies naturelles met tout en oeuvre pour vous faciliter l'accès aux soins par des méthodes innovantes."
 favicon = "favicon/favicon.ico"
-keywords = ["thenat", "thenat.services", "thenat services", "thenat services Vertou", "Conseils et soins sur Vertou", "Agnès Jouannet", "Cabinet de thérapies naturelles", "Cabinet de thérapies", "Cabinet de thérapie", "Consultation", "Conseils", "soins", "naturel", "naturopathie", "Homéopathie", "Aromathérapie", "Phytothérapie",
-"Réflexologie", "détente et relaxation", "massages d'huiles essentielles", "tisanes aux plantes", "soins et auto-stimulations en réflexothérapie combinée", "conseils/soins en aroma-phyto/consultation homéopathie", "Détente et amélioration qualité de vie Nantes environs"]
+keywords = ["thenat", "thenat.services", "thenat services", "thenat services Vertou", "Conseils et soins sur Vertou", "Agnès Jouannet", "Cabinet de thérapies naturelles", "Cabinet de thérapies", "Cabinet de thérapie", "Consultation", "Conseils", "soins", "naturel", "naturopathie", "Homéopathie", "Aromathérapie", "Phytothérapie", "Réflexologie", "détente et relaxation", "massages d'huiles essentielles", "tisanes aux plantes", "soins et auto-stimulations en réflexothérapie combinée", "conseils/soins en aroma-phyto/consultation homéopathie", "Détente et amélioration qualité de vie Nantes environs"]
 logo = "img/logo/logo.png"
-
 [params.fa]
 integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
 version = "5.7.2"
-
 [params.posts]
 dateFormat = "2 Jan, 2006"
 showAuthor = true
 showDate = true
 showTags = true
-
-[params.social]
-    twitter = "https://twitter.com/AJnaturoreflexo"
-    facebook = "https://www.facebook.com/AJ.naturo.reflex/"
-    github = ""
-    instagram = "https://www.instagram.com/cabinet_therapies.naturelles/"
-    pinterest = ""
-    youtube = "https://youtube.com/"
-    linkedin = "https://linkedin.com/in/agnès-jouannet-785340190"
-    weibo = ""
-    mastodon = ""
-    tumblr = "https://ajnaturo-reflexo.tumblr.com/"
-    flickr = ""
-
 [params.separator]
 show = false
-
+[params.social]
+facebook = "https://www.facebook.com/AJ.naturo.reflex/"
+flickr = ""
+github = ""
+instagram = "https://www.instagram.com/cabinet_therapies.naturelles/"
+linkedin = "https://linkedin.com/in/agnès-jouannet-785340190"
+mastodon = ""
+pinterest = ""
+tumblr = "https://ajnaturo-reflexo.tumblr.com/"
+twitter = "https://twitter.com/AJnaturoreflexo"
+weibo = ""
+youtube = "https://youtube.com/"
 [privacy.googleAnalytics]
 anonymizeIP = true
 disable = false
@@ -58,6 +53,5 @@ disable = true
 disable = true
 [privacy.youtube]
 disable = true
-
 [sitemap]
 filename = "sitemap.xml"
