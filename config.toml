@@ -7,6 +7,9 @@ language = "fr-FR"
 paginate = 3
 title = "Cabinet de thérapies naturelles"
 [[menu.main]]
+name = "V.I.P"
+weight = 7
+[[menu.main]]
 name = "Accueil"
 weight = 6
 [outputs]
