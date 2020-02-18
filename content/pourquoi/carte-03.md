@@ -2,6 +2,7 @@
 title: Système locomoteur
 type: carte
 weight: "3"
+draft: true
 
 ---
 * Rhumatismes
