@@ -4,6 +4,6 @@ weight: "6"
 sitemap_include: true
 menu:
   main:
-    weight: 5
+    weight: 7
 
 ---
