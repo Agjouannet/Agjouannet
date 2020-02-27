@@ -9,9 +9,6 @@ title = "Cabinet de thérapies naturelles"
 [[menu.main]]
 name = "Accueil"
 weight = 1
-[[menu.main]]
-name = "V.I.P"
-weight = 4
 [outputs]
 home = ["HTML", "RSS"]
 page = ["HTML", "RSS"]
