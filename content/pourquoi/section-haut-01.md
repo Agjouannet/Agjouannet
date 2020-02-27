@@ -1,7 +1,6 @@
 ---
 title: Que peuvent accompagner ces thérapies?
 weight: "1"
-draft: true
 
 ---
 L'Homéopathie, l'aromathérapie, la phytothérapie et la réflexothérapie se complètent: elles permettent d'aborder différentes situations sur un plan à la fois physique et psychique. Les soins et les conseils dispensés lors d'une séance en thérapies naturelles peuvent apporter un soulagement aux douleurs et aux stress, une amélioration générale de la qualité de vie, un équilibre corporel et mental.

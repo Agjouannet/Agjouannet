@@ -2,7 +2,6 @@
 title: Système endocrinien
 type: carte
 weight: "4"
-draft: true
 
 ---
 * Fatigue chronique

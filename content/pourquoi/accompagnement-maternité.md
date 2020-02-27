@@ -1,5 +1,4 @@
 +++
-draft = true
 last = "true"
 title = "Accompagnement nourrissons"
 type = "carte"
