@@ -2,7 +2,6 @@
 title: Système nerveux
 type: carte
 weight: "2"
-draft: true
 
 ---
 * Troubles du sommeil

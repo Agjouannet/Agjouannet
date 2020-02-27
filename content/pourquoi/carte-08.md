@@ -2,7 +2,6 @@
 title: Système génital
 type: carte
 weight: "8"
-draft: true
 
 ---
 * Aide à la fertilité
