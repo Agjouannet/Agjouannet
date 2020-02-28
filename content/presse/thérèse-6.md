@@ -1,7 +1,7 @@
 +++
 age = "35 ans"
 stars = "5"
-title = "Florance"
+title = "Florence"
 weight = "2"
 
 +++
