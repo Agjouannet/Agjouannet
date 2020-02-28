@@ -6,9 +6,6 @@ googleAnalytics = "UA-137241674-1"
 language = "fr-FR"
 paginate = 3
 title = "Cabinet de thérapies naturelles"
-[[menu.main]]
-name = "Accueil"
-weight = 1
 [outputs]
 home = ["HTML", "RSS"]
 page = ["HTML", "RSS"]

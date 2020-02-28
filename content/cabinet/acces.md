@@ -1,7 +1,6 @@
 ---
 title: Le cabinet
-imageLink:
-- cabinet.jpg
+imageLink: ["cabinet.jpg"]
 weight: "2"
 
 ---

@@ -1,7 +1,6 @@
 ---
 title: parking
-imageLink:
-- parking.jpg
+imageLink: ["parking.jpg"]
 weight: "3"
 
 ---

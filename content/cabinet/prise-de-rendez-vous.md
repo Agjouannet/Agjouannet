@@ -5,6 +5,7 @@ description = ""
 publishdate = ""
 tags = []
 title = "Prise de rendez-vous"
+imageLink = []
 
 +++
 * Les **prises de rendez-vous** se font en ligne via notre [site partenaire setmore](https://thenat.setmore.com/services), ce qui vous permet de choisir vous-même le créneau qui vous convient, ou bien par téléphone: 07 62 82 73 03.
