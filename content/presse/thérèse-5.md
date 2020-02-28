@@ -1,9 +1,8 @@
 +++
-age = "18 ans"
-draft = true
+age = "14 et 15 ans"
 stars = "5"
-title = "Thérèse"
+title = "Chloé et Lucas"
 weight = "1"
 
 +++
-"J’ai consulté pour des maux de tête et une fatigue oculaire, dès la première séance en réflexothérapie (auriculaire et plantaire) les douleurs ont disparues. Super moment de détente dans une ambiance agréablement aménagée. Agnès est bienveillante, à l’écoute et professionnelle, je recommande vivement!"
+"Les enfants étaient ravis de leur soins, je les ai sentis vraiment relaxés les jours suivants et ça leur a permis de se poser les bonnes questions, de prendre leur bien-être en main"
