@@ -5,6 +5,6 @@ robotsdisallow: true
 sitemap_include: false
 menu:
   main:
-    weight: 5
+    weight: 4
 
 ---
