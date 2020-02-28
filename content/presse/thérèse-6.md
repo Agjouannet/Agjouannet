@@ -1,9 +1,10 @@
 +++
-age = "18 ans"
-draft = true
+age = "35 ans"
 stars = "5"
-title = "Thérèse"
+title = "Florance"
 weight = "1"
 
 +++
-"J’ai consulté pour des maux de tête et une fatigue oculaire, dès la première séance en réflexothérapie (auriculaire et plantaire) les douleurs ont disparues. Super moment de détente dans une ambiance agréablement aménagée. Agnès est bienveillante, à l’écoute et professionnelle, je recommande vivement!"
+"C'est surprenant, je ressens comme de l'eau qui coule derrière le front et autour des yeux, alors que vous massez mes mains...et ça va déjà beaucoup mieux!" 
+
+Migraine, réflexologie palmaire
