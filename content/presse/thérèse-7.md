@@ -1,9 +1,10 @@
 +++
-age = "18 ans"
-draft = true
+age = "50 ans"
 stars = "5"
-title = "Thérèse"
+title = "Lucile"
 weight = "1"
 
 +++
-"J’ai consulté pour des maux de tête et une fatigue oculaire, dès la première séance en réflexothérapie (auriculaire et plantaire) les douleurs ont disparues. Super moment de détente dans une ambiance agréablement aménagée. Agnès est bienveillante, à l’écoute et professionnelle, je recommande vivement!"
+"Bonjour madame Jouannet, je voulais vous remercier pour votre chaleureux accueil jeudi dernier. J'ai passé un très bon weekend...pas de problème de digestion et je suis restée zen!"
+
+Problèmes digestifs: maux de ventre, faiblesse hépatique et irritabilité liée à la fatigue et au stress, hyperactivité
