@@ -2,7 +2,7 @@
 age = "40 ans"
 stars = "5"
 title = "Armelle"
-weight = "1"
+weight = "4"
 
 +++
 "Ces 5 min de réflexologie m'ont fait un bien fou, en m'atténuant beaucoup la migraine qui ne passait pas depuis des jours, je vous remercie!"
