@@ -1,9 +1,8 @@
 +++
-age = "18 ans"
-draft = true
+age = "50 ans"
 stars = "5"
-title = "Thérèse"
+title = "Marylène"
 weight = "1"
 
 +++
-"J’ai consulté pour des maux de tête et une fatigue oculaire, dès la première séance en réflexothérapie (auriculaire et plantaire) les douleurs ont disparues. Super moment de détente dans une ambiance agréablement aménagée. Agnès est bienveillante, à l’écoute et professionnelle, je recommande vivement!"
+"Bonjour, suite à ma séance de vendredi, j'ai plutôt bien dormi ce weekend, réveillée à l'heure où je me lève en semaine et sans réveil nocturne à rallonge!"
