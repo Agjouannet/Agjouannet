@@ -17,5 +17,5 @@ L'atelier parents-bébé permet également de découvrir quelques gestes simples
 ##### Honoraires
 
 * Séance de réflexologie bébé 30’ (aider bébé à se relaxer, mieux digérer, mieux dormir, mieux téter, etc.).............35€
-* Vivre une expérience sensorielle de 30’ (stimuler bébé pour le relaxer, lui faire vivre une expérience sensorielle)..........35€
+* Vivre une expérience sensorielle de 30’ (stimuler bébé pour le relaxer, lui faire vivre une expérience sensorielle)...35€
 * Atelier parents/bébé de 30’........................................................................................................................................................................................35€
