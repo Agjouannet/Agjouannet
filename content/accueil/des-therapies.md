@@ -1,5 +1,5 @@
 ---
-title: Des thérapies combinées pour un soin holistique
+title: Des thérapies complémentaires pour un soin holistique
 description: ''
 weight: "2"
 
