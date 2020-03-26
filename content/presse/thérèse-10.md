@@ -5,4 +5,4 @@ title = "On parle de nous sur Insta!"
 weight = "1"
 
 +++
-![](/insta.PNG)
+![](/instabio.PNG)
