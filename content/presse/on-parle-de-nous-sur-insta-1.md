@@ -1,9 +1,8 @@
 +++
-age = ""
-draft = true
-stars = ""
+age = "Atelier réflexologie parents-bébé"
+stars = "5"
 title = "On parle de nous sur Insta!"
 weight = "1"
 
 +++
-![](/instabio.PNG)
+![](/instabb.PNG)
