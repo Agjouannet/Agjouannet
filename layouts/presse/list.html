@@ -34,11 +34,13 @@
             <div class="card-content">
                 {{ .Content | replaceRE "<p>" "<p class=\"subtitle flow\">" | safeHTML }}
               <p class="has-text-centered">
-                {{ range $i, $sequence :=  (seq .Params.stars) }}
-                <span class="icon has-text-warning">
-                  <i class="fas fa-star"></i>
-                </span>
-                {{ end }}
+								{{ if isset .Params "stars" }}
+	                {{ range $i, $sequence :=  (seq .Params.stars) }}
+	                <span class="icon has-text-warning">
+	                  <i class="fas fa-star"></i>
+	                </span>
+	                {{ end }}
+								{{ end }}
               </p>
               <p class="subtitle has-text-centered">
                 {{ .Title }}, {{ .Params.age }}

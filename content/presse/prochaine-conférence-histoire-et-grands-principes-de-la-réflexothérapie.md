@@ -7,7 +7,7 @@ publishdate = 2019-05-13T22:00:00Z
 tags = ["Conférence", "actualités", "réflexologie", "ateliers", "portes ouvertes"]
 title = "Journée portes ouvertes au cabinet de thérapies naturelles"
 weight = 10
-
+stars = 0
 +++
 Le cabinet de thérapies naturelles vous accueille le **samedi 6 Juillet 2019** pour une journée découverte! Au programme: sa première conférence: **Histoire et grands principes de la réflexologie**, ainsi que des **Ateliers découvertes** pour recevoir un soin de 5min en réflexologie et apprendre des auto-stimulations.
 

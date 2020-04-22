@@ -6,7 +6,7 @@ publishdate = "2019-05-13T22:00:00+00:00"
 tags = ["Conférence", "actualités", "réflexologie", "ateliers", "portes ouvertes"]
 title = "Prochaine journée de l'Atelier parents-bébé: mardi 7 janvier 2020"
 weight = 10
-
+stars = 0
 +++
 Apprenez à stimuler bébé au quotidien, pour qu'il se sente mieux! Il s'agit d'un atelier privé, rien que pour bébé et vous!
 

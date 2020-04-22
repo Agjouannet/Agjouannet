@@ -7,7 +7,7 @@ publishdate = 2019-09-05T22:00:00Z
 tags = ["prestation de services", "réflexologie en entreprise", "soins gratuits"]
 title = "Prestation de services au centre aquatique So Pool, Septembre 2019"
 weight = 11
-
+stars = 0
 +++
 ![](/IMG_1338.JPG)
 

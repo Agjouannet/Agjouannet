@@ -7,7 +7,7 @@ publishdate = 2019-10-05T18:00:00Z
 tags = ["vertou", "réflexologie", "stage", "expérience professionnelle"]
 title = "Intervention en entreprises"
 weight = 12
-
+stars = 0
 +++
 Prestations de réflexologie pour les entreprises: s'adapter à tous les locaux pour créer un espace de bien-être, intime et chaleureux.
 
