@@ -3,7 +3,7 @@ draft = true
 title = "Votre bulle de bien-être V.I.P"
 [menu.main]
 name = "Devenir V.I.P"
-weight = 6
+weight = 4
 
 +++
 En adhérant au programme V.I.P vous devenez des stars et nous vous créons votre bulle de bien-être personnalisée:

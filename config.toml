@@ -6,6 +6,14 @@ googleAnalytics = "UA-137241674-1"
 language = "fr-FR"
 paginate = 3
 title = "Cabinet de thérapies naturelles"
+[[menu.main]]
+name = "Espace Ateliers"
+url = "https://thenat.services/espace-ateliers"
+weight = 3
+[[menu.main]]
+name = "Carte des soins"
+url = "https://thenat.services/carte-des-soins"
+weight = 2
 [outputs]
 home = ["HTML", "RSS"]
 page = ["HTML", "RSS"]
