@@ -3,10 +3,11 @@ author = "Cabinet de thérapies naturelles"
 date = "2019-05-13T22:00:00+00:00"
 description = "Le 6 Juillet 2019 au cabinet: 500 route de Clisson. Conférence sur la réflexologie et ateliers"
 publishdate = "2019-05-13T22:00:00+00:00"
-tags = ["Conférence", "actualités", "réflexologie", "ateliers", "portes ouvertes"]
-title = "Prochaine journée de l'Atelier parents-bébé: mardi 7 janvier 2020"
-weight = 10
 stars = 0
+tags = ["Conférence", "actualités", "réflexologie", "ateliers", "portes ouvertes"]
+title = "Atelier parents-bébé"
+weight = 10
+
 +++
 Apprenez à stimuler bébé au quotidien, pour qu'il se sente mieux! Il s'agit d'un atelier privé, rien que pour bébé et vous!
 
@@ -22,4 +23,4 @@ La plupart des bébés apprécient ces stimulations douces et rythmées. Ce cont
 
 Mode d'emploi:
 
-Je réserve chaque 1er mardi du mois aux ateliers parents-bébé (de 8h à 18h). Rendez-vous [en ligne](https://thenat.setmore.com/services) (choisir: atelier privé parent-bébé) ou appelez-moi pour réserver un créneau de 30min au moment qui vous convient!
+Rendez-vous [en ligne](https://thenat.setmore.com/services) (choisir: atelier privé parent-bébé) ou appelez-moi pour réserver un créneau de 30min au moment qui vous convient!
