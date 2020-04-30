@@ -7,6 +7,10 @@ language = "fr-FR"
 paginate = 3
 title = "Cabinet de thérapies naturelles"
 [[menu.main]]
+name = "Devenir V.I.P"
+url = "https://thenat.services/vip"
+weight = 6
+[[menu.main]]
 name = "Espace Ateliers"
 url = "https://thenat.services/espace-ateliers"
 weight = 3
