@@ -5,6 +5,36 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/accueil
+  label: Accueil
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/soins
+  label: Soins
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ateliers
+  label: Ateliers
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/vip
+  label: V.I.P
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/presse
+  label: Presse
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cabinet
+  label: Le Cabinet
+  create: all
+  match: "**/*"
+- type: directory
   path: content/nourrissons
   label: Maternité & Nourrissons
   create: all
@@ -18,11 +48,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/presse
-  label: Presse
-  create: all
-  match: "**/*"
-- type: directory
   path: content/therapies
   label: Therapies
   create: all
@@ -33,18 +58,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/cabinet
-  label: Le Cabinet
-  create: all
-  match: "**/*"
-- type: directory
   path: content/honoraires
   label: Honoraires
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/accueil
-  label: Accueil
   create: all
   match: "**/*"
 upload_dir: static
