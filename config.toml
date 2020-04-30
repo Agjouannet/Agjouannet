@@ -9,7 +9,7 @@ title = "Cabinet de thérapies naturelles"
 [[menu.main]]
 name = "Devenir V.I.P"
 url = "https://thenat.services/vip"
-weight = 6
+weight = 4
 [[menu.main]]
 name = "Espace Ateliers"
 url = "https://thenat.services/espace-ateliers"
