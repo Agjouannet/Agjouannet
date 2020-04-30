@@ -39,9 +39,6 @@ sections:
   label: Maternité & Nourrissons
   create: all
   match: "**/*"
-- type: document
-  path: content/legal.md
-  label: Mentions légales
 - type: directory
   path: content/articles
   label: Blog
@@ -62,6 +59,9 @@ sections:
   label: Honoraires
   create: all
   match: "**/*"
+- type: document
+  path: content/legal.md
+  label: Mentions légales
 upload_dir: static
 public_path: ''
 front_matter_path: ''
