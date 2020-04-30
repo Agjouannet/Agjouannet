@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/vip
+  label: V.I.P
+  create: all
+  match: "**/*"
+- type: directory
   path: content/accueil
   label: Accueil
   create: all
