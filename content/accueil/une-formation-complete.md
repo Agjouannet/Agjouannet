@@ -15,7 +15,7 @@ J'ai également réalisé des prestations en bénévolat pour des organisations,
 
 {{< timeline-start >}}
 {{< timeline  step="one" year="2017" heading="CERFPA" text="Qualification de conseillère en homéopathie" >}}
-{{< timeline  step="two" year="2018" heading="CERFPA" text="Qualification Européen de conseillère en aromathérapie et phytothérapie" >}}
+{{< timeline  step="two" year="2018" heading="CERFPA" text="Qualification Européenne de conseillère en aromathérapie et phytothérapie" >}}
 {{< timeline  step="three" year="2019" heading="EIR" text="Qualification praticienne en réflexologies combinées" >}}
 {{< timeline  step="four" year="2019" heading="EIR" text="Qualification de spécialisation en réflexologie maternité & nourrisson" >}}
 {{< timeline  step="five" year="..." heading="Cabinet de thérapies naturelles" text="Ouvert depuis mars 2019" >}}
