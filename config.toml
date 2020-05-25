@@ -6,14 +6,6 @@ googleAnalytics = "UA-137241674-1"
 language = "fr-FR"
 paginate = 3
 title = "Cabinet de thérapies naturelles"
-[[menu.main]]
-name = "Espace Ateliers"
-url = "https://thenat.services/espace-ateliers"
-weight = 3
-[[menu.main]]
-name = "Carte des soins"
-url = "https://thenat.services/carte-des-soins"
-weight = 2
 [outputs]
 home = ["HTML", "RSS"]
 page = ["HTML", "RSS"]
@@ -37,14 +29,14 @@ show = false
 facebook = "https://www.facebook.com/AJ.naturo.reflex/"
 flickr = ""
 github = ""
-instagram = "https://www.instagram.com/cabinet_therapies.naturelles/"
+instagram = "https://www.instagram.com/agnes.naturopathiereflexologie/"
 linkedin = "https://linkedin.com/in/agnès-jouannet-785340190"
 mastodon = ""
 pinterest = ""
 tumblr = "https://ajnaturo-reflexo.tumblr.com/"
 twitter = "https://twitter.com/AJnaturoreflexo"
 weibo = ""
-youtube = "https://youtube.com/"
+youtube = "https://www.youtube.com/channel/UCVxOsgswWXB9IVHBqHvod1w"
 [privacy.googleAnalytics]
 anonymizeIP = true
 disable = false

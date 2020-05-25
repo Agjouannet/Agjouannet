@@ -14,10 +14,10 @@ J'ai également réalisé des prestations en bénévolat pour des organisations,
 !-->
 
 {{< timeline-start >}}
-{{< timeline  step="one" year="2017" heading="CERFPA" text="Certificat de conseillère en homéopathie" >}}
-{{< timeline  step="two" year="2018" heading="CERFPA" text="Certificat Européen de conseillère en aromathérapie" >}}
-{{< timeline  step="three" year="2019" heading="EIR" text="Certificat praticienne en réflexologies combinées" >}}
-{{< timeline  step="four" year="2019" heading="EIR" text="Certificat de spécialisation en réflexologie maternité & nourrisson" >}}
+{{< timeline  step="one" year="2017" heading="CERFPA" text="Qualification de conseillère en homéopathie" >}}
+{{< timeline  step="two" year="2018" heading="CERFPA" text="Qualification Européen de conseillère en aromathérapie et phytothérapie" >}}
+{{< timeline  step="three" year="2019" heading="EIR" text="Qualification praticienne en réflexologies combinées" >}}
+{{< timeline  step="four" year="2019" heading="EIR" text="Qualification de spécialisation en réflexologie maternité & nourrisson" >}}
 {{< timeline  step="five" year="..." heading="Cabinet de thérapies naturelles" text="Ouvert depuis mars 2019" >}}
 {{< timeline-end >}}
 
@@ -25,6 +25,8 @@ J'ai également réalisé des prestations en bénévolat pour des organisations,
 ##### Partenariat
 ![So Pool](/img/logo/so-pool-logo.jpg)
 ![Happy Baby Box](/img/logo/happy-baby-box-logo.png)
+![Les Ateliers qui font du bien](/img/logo/ateliers-logo.png)
+![Habille toi et ses petits pois](/img/logo/etsespetitspois.jpeg)
 {{< partner-logo-end >}}
 
 > _"Un bien n'est agréable que s'il est partagé" Sénèque_

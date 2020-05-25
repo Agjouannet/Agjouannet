@@ -1,6 +1,6 @@
 ---
 title: Infos pratiques
-weight: "5"
+weight: "6"
 sitemap_include: true
 menu:
   main:

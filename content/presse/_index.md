@@ -1,6 +1,6 @@
 ---
 title: Presse
-weight: "7"
+weight: "5"
 robotsdisallow: true
 sitemap_include: false
 menu:
